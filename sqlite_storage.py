@@ -165,6 +165,28 @@ def list_symbols(db_folder: str) -> list[str]:
 # Config DB: "equities" table with the earliest available timestamp per series
 # ---------------------------------------------------------------------------
 
+def _migrate_equities_table(conn: sqlite3.Connection, table: str) -> None:
+    """Add any missing columns and rename existing columns in equities table."""
+    cur = conn.execute(f"PRAGMA table_info({table})")
+    columns = {row[1] for row in cur.fetchall()}
+
+    # Add earliest_reached columns if missing
+    if "earliest_reached" not in columns:
+        conn.execute(f"ALTER TABLE {table} ADD COLUMN earliest_reached BOOLEAN DEFAULT 0")
+
+    if "earliest_reached_at" not in columns:
+        conn.execute(f"ALTER TABLE {table} ADD COLUMN earliest_reached_at TEXT")
+
+    # Rename columns: headTimeStamp → ibkr_head_ts, tailTimeStamp → db_head_ts
+    if "headTimeStamp" in columns and "ibkr_head_ts" not in columns:
+        conn.execute(f"ALTER TABLE {table} RENAME COLUMN headTimeStamp TO ibkr_head_ts")
+
+    if "tailTimeStamp" in columns and "db_head_ts" not in columns:
+        conn.execute(f"ALTER TABLE {table} RENAME COLUMN tailTimeStamp TO db_head_ts")
+
+    conn.commit()
+
+
 def ensure_equities_table(conn: sqlite3.Connection, table: str) -> None:
     """Create the equities table (same schema as the existing __config.db) if it is missing."""
     conn.execute(f"""
@@ -177,13 +199,18 @@ def ensure_equities_table(conn: sqlite3.Connection, table: str) -> None:
             currency       CHARACTER(10) NOT NULL DEFAULT 'USD',
             timeframe      INTEGER NOT NULL DEFAULT 1,
             dataTableName  TEXT NOT NULL DEFAULT 'AAPL_SMART_TRADES_USD_1MIN_RTH_FALSE' UNIQUE,
-            headTimeStamp  TEXT,
-            tailTimeStamp  TEXT,
+            earliest_reached BOOLEAN DEFAULT 0,
+            earliest_reached_at TEXT,
+            ibkr_head_ts   TEXT,
+            db_head_ts     TEXT,
             id             INTEGER UNIQUE,
             PRIMARY KEY("id" AUTOINCREMENT)
         )
     """)
     conn.commit()
+
+    # Migrate existing tables to add missing columns
+    _migrate_equities_table(conn, table)
 
 
 def get_head_timestamp(
@@ -202,9 +229,9 @@ def get_head_timestamp(
     not on bar size, so any row for the same series (any timeframe) is reused.
     """
     row = conn.execute(
-        f"SELECT headTimeStamp FROM {table} "
+        f"SELECT ibkr_head_ts FROM {table} "
         f"WHERE symbol = ? AND exchange = ? AND whatToShow = ? AND currency = ? AND useRTH = ? "
-        f"AND headTimeStamp IS NOT NULL AND headTimeStamp != '' "
+        f"AND ibkr_head_ts IS NOT NULL AND ibkr_head_ts != '' "
         f"ORDER BY id LIMIT 1",
         (symbol, exchange, what_to_show, currency, str(use_rth)),
     ).fetchone()
@@ -232,10 +259,88 @@ def save_head_timestamp(
     conn.execute(
         f"""
         INSERT INTO {table}
-            (symbol, exchange, useRTH, whatToShow, currency, timeframe, dataTableName, headTimeStamp)
+            (symbol, exchange, useRTH, whatToShow, currency, timeframe, dataTableName, ibkr_head_ts)
         VALUES (?, ?, ?, ?, ?, ?, ?, ?)
-        ON CONFLICT(dataTableName) DO UPDATE SET headTimeStamp = excluded.headTimeStamp
+        ON CONFLICT(dataTableName) DO UPDATE SET ibkr_head_ts = excluded.ibkr_head_ts
         """,
         (symbol, exchange, str(use_rth), what_to_show, currency, tf, data_table_name, str(head_utc)),
     )
     conn.commit()
+
+
+# ---------------------------------------------------------------------------
+# Checkpoint: track last processed stock for resume on restart
+# ---------------------------------------------------------------------------
+
+def ensure_checkpoint_table(conn: sqlite3.Connection) -> None:
+    """Create checkpoint table if missing."""
+    conn.execute("""
+        CREATE TABLE IF NOT EXISTS download_checkpoint (
+            id          INTEGER PRIMARY KEY,
+            last_symbol TEXT,
+            updated_at  TEXT
+        )
+    """)
+    conn.commit()
+
+
+def save_checkpoint(conn: sqlite3.Connection, symbol: str) -> None:
+    """Save the last processed stock symbol."""
+    ensure_checkpoint_table(conn)
+    now = datetime.now(timezone.utc).isoformat()
+    conn.execute("""
+        INSERT INTO download_checkpoint (last_symbol, updated_at)
+        VALUES (?, ?)
+        ON CONFLICT(id) DO UPDATE SET last_symbol = excluded.last_symbol, updated_at = excluded.updated_at
+    """, (symbol, now))
+    conn.commit()
+
+
+def get_checkpoint(conn: sqlite3.Connection) -> Optional[str]:
+    """Get the last processed stock symbol (for resume)."""
+    ensure_checkpoint_table(conn)
+    cur = conn.execute("SELECT last_symbol FROM download_checkpoint LIMIT 1")
+    row = cur.fetchone()
+    return row[0] if row else None
+
+
+# ---------------------------------------------------------------------------
+# Earliest data tracking: mark when stock has no more historical data
+# ---------------------------------------------------------------------------
+
+def mark_earliest_reached(
+    conn: sqlite3.Connection,
+    table: str,
+    data_table_name: str,
+) -> None:
+    """Mark that this stock has reached its earliest available data."""
+    # Ensure schema is up to date
+    _migrate_equities_table(conn, table)
+
+    now = datetime.now(timezone.utc).isoformat()
+    conn.execute(
+        f"""
+        UPDATE {table}
+        SET earliest_reached = 1, earliest_reached_at = ?
+        WHERE dataTableName = ?
+        """,
+        (now, data_table_name),
+    )
+    conn.commit()
+
+
+def is_earliest_reached(
+    conn: sqlite3.Connection,
+    table: str,
+    data_table_name: str,
+) -> bool:
+    """Check if this stock has already reached its earliest available data."""
+    # Ensure schema is up to date
+    _migrate_equities_table(conn, table)
+
+    cur = conn.execute(
+        f"SELECT earliest_reached FROM {table} WHERE dataTableName = ?",
+        (data_table_name,),
+    )
+    row = cur.fetchone()
+    return row and row[0] == 1 if row else False

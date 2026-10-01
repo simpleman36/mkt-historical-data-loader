@@ -8,6 +8,7 @@ IB Gateway / TWS access through ib_async.
 """
 from __future__ import annotations
 
+import time
 from datetime import datetime, timezone
 from typing import Optional
 
@@ -23,6 +24,24 @@ BAR_COLUMNS = ["timestamp", "datetime", "open", "high", "low", "close", "volume"
 logger = module_logger(__name__)
 
 _rate_limits_installed = False
+
+
+def _retry_on_error_162(func, max_retries: int = 3, wait_seconds: int = 15):
+    """Retry a function if it raises error 162 (market data farm connection issue)."""
+    for attempt in range(1, max_retries + 1):
+        try:
+            return func()
+        except Exception as exc:
+            error_str = str(exc)
+            # Check for error 162
+            if "162" in error_str or "Market data farm" in error_str:
+                if attempt < max_retries:
+                    logger.warning(f"Error 162 (market data farm connection). Retry {attempt}/{max_retries} "
+                                 f"after {wait_seconds}s: {error_str}")
+                    time.sleep(wait_seconds)
+                    continue
+            # Re-raise if not error 162 or max retries reached
+            raise
 
 
 def install_rate_limits(ibkr: IbkrSettings) -> None:
@@ -71,10 +90,13 @@ def fetch_head_timestamp(
     """
     Ask IBKR for the earliest available data point (reqHeadTimeStamp).
     Returns a UTC-aware datetime, or None when IBKR has no answer.
+    Retries on error 162 (market data farm connection issue).
     """
     logger.info(f"[{contract.symbol}] REQ reqHeadTimeStamp: whatToShow={what_to_show} useRTH={use_rth}")
     try:
-        head = ib.reqHeadTimeStamp(contract, whatToShow=what_to_show, useRTH=use_rth, formatDate=2)
+        def _req():
+            return ib.reqHeadTimeStamp(contract, whatToShow=what_to_show, useRTH=use_rth, formatDate=2)
+        head = _retry_on_error_162(_req)
     except Exception as exc:
         logger.error(f"[{contract.symbol}] reqHeadTimeStamp failed: {exc}")
         return None
@@ -105,17 +127,21 @@ def fetch_bars(
 
     Returns a DataFrame with BAR_COLUMNS (naive UTC ``datetime`` column and Unix
     ``timestamp``), or an empty DataFrame when IBKR returns nothing.
+    Retries on error 162 (market data farm connection issue).
     """
-    bars = ib.reqHistoricalData(
-        contract       = contract,
-        endDateTime    = end_dt,
-        durationStr    = duration,
-        barSizeSetting = bar_size,
-        whatToShow     = what_to_show,
-        useRTH         = use_rth,
-        formatDate     = ibkr.format_date,
-        timeout        = ibkr.request_timeout,
-    )
+    def _req():
+        return ib.reqHistoricalData(
+            contract       = contract,
+            endDateTime    = end_dt,
+            durationStr    = duration,
+            barSizeSetting = bar_size,
+            whatToShow     = what_to_show,
+            useRTH         = use_rth,
+            formatDate     = ibkr.format_date,
+            timeout        = ibkr.request_timeout,
+        )
+
+    bars = _retry_on_error_162(_req)
     if not bars:
         return pd.DataFrame(columns=BAR_COLUMNS)
 

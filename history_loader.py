@@ -55,6 +55,7 @@ def find_missing_ranges(
 def _download_range(
     fetch: FetchPage,
     conn,
+    config: AppConfig,
     symbol: str,
     table: str,
     from_dt: datetime,
@@ -90,6 +91,22 @@ def _download_range(
         inserted_total += inserted
         logger.info(f"[{symbol}]  → {len(df)} bars received, {inserted} new rows inserted → table '{table}'")
         logger.info(f"[{symbol}]  PERFORMANCE {get_group_stats(rate_limit_group)}")
+
+
+        # For 1-day bars with 10Y chunks: if fewer than ~2000 bars, no more data available
+        if "10 Y" in duration_str:
+            bar_minutes = minutes_per_bar(bar_size)
+            if abs(bar_minutes - 1440.0) < 0.01:  # 1440 = 24 hours in minutes
+                if len(df) < 2000:
+                    logger.info(f"[{symbol}] Received {len(df)} bars (< 2000 expected for 10Y daily), "
+                               f"earliest data reached. Marking in config DB and stopping.")
+                    # Mark that earliest data has been reached for this stock
+                    cfg_conn = sqlite_storage.open_connection(config.config_db_path)
+                    try:
+                        sqlite_storage.mark_earliest_reached(cfg_conn, config.equities_table, table)
+                    finally:
+                        cfg_conn.close()
+                    break
 
         oldest = df["datetime"].min() if not df.empty else None
         if oldest is None:
@@ -218,23 +235,40 @@ def load_symbol_history(
         contract = ibkr_client.stock_contract(symbol, st.exchange, st.currency)
 
         # Earliest available data point: config DB first, otherwise reqHeadTimeStamp (then cached).
-        head_dt = _earliest_available(config, symbol, st, table, mpb,
-                                      lambda: ibkr_client.fetch_head_timestamp(
-                                          ensure_connected(), ibkr, contract, st.whatToShow, st.useRTH))
-        summary["head_timestamp"] = head_dt.isoformat() if head_dt else None
-        if head_dt is not None and head_dt > from_dt:
-            if head_dt >= to_dt:
-                logger.info(f"[{symbol}] Earliest available data {head_dt.isoformat()} is after "
-                            f"to_date {to_dt.date()}. Nothing to download.")
-                summary["skipped"] = True
-                return summary
-            logger.info(f"[{symbol}] from_date {from_dt.date()} moved to earliest available "
-                        f"data point {head_dt.isoformat()}")
-            from_dt = head_dt
+        # Check if we've already reached the earliest data for this stock
+        cfg_conn_earliest = sqlite_storage.open_connection(config.config_db_path)
+        try:
+            earliest_reached = sqlite_storage.is_earliest_reached(cfg_conn_earliest, config.equities_table, table)
+        finally:
+            cfg_conn_earliest.close()
 
-        # Gap detection: find which sub-ranges are NOT yet in the DB
-        bounds = sqlite_storage.existing_bounds(conn, table, from_dt, to_dt)
-        missing_ranges = find_missing_ranges(bounds, from_dt, to_dt, timedelta(seconds=mpb * 60))
+        if earliest_reached:
+            # Stock has no more historical data - only update latest available
+            logger.info(f"[{symbol}] Earliest data already reached. Only updating latest available data "
+                       f"from DB to previous working day.")
+            bounds = sqlite_storage.existing_bounds(conn, table, from_dt, to_dt)
+            if bounds:
+                from_dt = bounds[1] + timedelta(seconds=1)
+            missing_ranges = [(from_dt, to_dt)] if from_dt < to_dt else []
+            summary["head_timestamp"] = None
+        else:
+            head_dt = _earliest_available(config, symbol, st, table, mpb,
+                                          lambda: ibkr_client.fetch_head_timestamp(
+                                              ensure_connected(), ibkr, contract, st.whatToShow, st.useRTH))
+            summary["head_timestamp"] = head_dt.isoformat() if head_dt else None
+            if head_dt is not None and head_dt > from_dt:
+                if head_dt >= to_dt:
+                    logger.info(f"[{symbol}] Earliest available data {head_dt.isoformat()} is after "
+                                f"to_date {to_dt.date()}. Nothing to download.")
+                    summary["skipped"] = True
+                    return summary
+                logger.info(f"[{symbol}] from_date {from_dt.date()} moved to earliest available "
+                            f"data point {head_dt.isoformat()}")
+                from_dt = head_dt
+
+            # Gap detection: find which sub-ranges are NOT yet in the DB
+            bounds = sqlite_storage.existing_bounds(conn, table, from_dt, to_dt)
+            missing_ranges = find_missing_ranges(bounds, from_dt, to_dt, timedelta(seconds=mpb * 60))
 
         if bounds is None:
             logger.info(f"[{symbol}] No existing data found in [{from_dt.date()}, {to_dt.date()}]. "
@@ -260,7 +294,7 @@ def load_symbol_history(
             duration = ibkr_duration_string(sub_from, sub_to, mpb, ibkr.max_bars_per_call)
             logger.info(f"[{symbol}] Downloading sub-range [{sub_from.date()} → {sub_to.date()}] "
                         f"(chunk duration={duration}) ...")
-            ins, reqs = _download_range(fetch, conn, symbol, table, sub_from, sub_to,
+            ins, reqs = _download_range(fetch, conn, config, symbol, table, sub_from, sub_to,
                                         duration, bar_size, ibkr.rate_limit_group)
             summary["rows_inserted"] += ins
             summary["requests"]      += reqs
@@ -277,27 +311,51 @@ def load_symbol_history(
 
 
 def merge_storage_type(stock: StockEntry, storage_type: StorageType) -> StorageType:
-    """Apply the stock's per-symbol overrides on top of a StorageType."""
-    return dataclasses.replace(storage_type, **stock.overrides)
+    """Apply the stock's per-symbol overrides on top of a StorageType.
+
+    NOTE: 'exchange' is never merged from stock overrides - IBKR requests always use
+    data_storage_types exchange, even if stock has its own exchange field.
+    """
+    overrides = dict(stock.overrides)
+    overrides.pop("exchange", None)  # Never override exchange from stock config
+    return dataclasses.replace(storage_type, **overrides)
 
 
 def load_all_from_config(config: AppConfig) -> list[dict]:
     """
     Process every stock with every StorageType. Per-task errors are logged and
     recorded in the result list; processing continues with the next task.
+
+    Resumes from last processed stock (checkpoint) if available.
     """
     if not config.storage_types:
         logger.error("[config] No 'data_storage_types' defined in config. Nothing to process.")
         return []
 
+    # Read checkpoint to resume from last processed stock
+    cfg_conn = sqlite_storage.open_connection(config.config_db_path)
+    try:
+        checkpoint_symbol = sqlite_storage.get_checkpoint(cfg_conn)
+        if checkpoint_symbol:
+            logger.info(f"[config] Resuming from checkpoint: {checkpoint_symbol}")
+    finally:
+        cfg_conn.close()
+
     results = []
     total_tasks = len(config.stocks) * len(config.storage_types)
     task_num = 0
+    skip_until_checkpoint = checkpoint_symbol is not None
+    current_stock_complete = False
 
     for stock_idx, stock in enumerate(config.stocks, start=1):
         if not stock.symbol:
             logger.warning(f"[config] Skipping stock entry #{stock_idx}: missing 'symbol' key.")
             continue
+
+        # Skip stocks until we reach checkpoint
+        if skip_until_checkpoint and stock.symbol != checkpoint_symbol:
+            continue
+        skip_until_checkpoint = False
 
         for storage_type in config.storage_types:
             task_num += 1
@@ -317,6 +375,13 @@ def load_all_from_config(config: AppConfig) -> list[dict]:
                     "whatToShow": st.whatToShow,
                     "error": str(exc),
                 })
+
+        # Save checkpoint after stock is complete
+        cfg_conn = sqlite_storage.open_connection(config.config_db_path)
+        try:
+            sqlite_storage.save_checkpoint(cfg_conn, stock.symbol)
+        finally:
+            cfg_conn.close()
 
     logger.info(f"\n[config] Batch complete. {len(results)}/{total_tasks} tasks processed.")
     return results

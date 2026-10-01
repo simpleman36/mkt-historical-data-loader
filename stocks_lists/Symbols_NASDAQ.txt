@@ -1,0 +1,5641 @@
+Symbol	Description
+AAAP	Advanced Accele. Ads
+AACG	Ata Creativity Global ADR
+AACI	Armada Acquisition Corp. II Cl A
+AACIU	Armada Acquisition Corp. II Units
+AACIW	Armada Acquisition Corp. II WT
+AACO	Abony Acquisition Corp I Cl A
+AACOU	Australia Acquisition Corp.
+AACOW	Australia Acquisition
+AACPR	Apogee Acquisition Corp Rights
+AACPW	Apogee Acquisition Corp WT
+AACT-UN	
+AADR	Advisorshares Dorsey Wright ETF
+AAEQ	Alpha Architect US Equity 2 ETF
+AAL	American Airlines Gp
+AALG	Leverage Shares 2X Long Aal Daily ETF
+AAM-UN	
+AAME	Atlantic Amer Corp
+AAOI	Applied Optoelect
+AAON	Aaon Inc
+AAPB	Graniteshares 2X Long Aapl Daily ETF
+AAPD	Aapl Bear -1X ETF Direxion
+AAPG	Ascentage Pharma Group Intl ADR
+AAPL	Apple Inc
+AAPU	Aapl Bull 2X ETF Direxion
+AARD	Aardvark Therapeutics Inc
+AAUB	Alpha Architect US Equity 4 ETF
+AAUS	Alpha Architect US Equity ETF
+AAVM	Alpha Architect Global Factor Equity ETF
+AAXJ	All Country Asia Ex Japan Ishares MSCI ETF
+ABAT	American Battery Technology Co.
+ABCL	Abcellera Biologics Inc
+ABCS	Alpha Blue Capital US Small-Mid Cap Dynamic ETF
+ABEO	Abeona Therapeutics
+ABI	Victoryshares Pioneer Asset-Based Income ETF
+ABIG	Argent Large Cap ETF
+ABLV	Able View Global Inc Cl B
+ABLVW	Able View Global Inc WT
+ABNB	Airbnb Inc Cl A
+ABOS	Acumen Pharmaceuticals Inc
+ABPWW	Abpro Holdings Inc WT
+ABSI	Absci Corp
+ABTC	American Bitcoin Corp
+ABTS	Abits Group Inc
+ABUS	Arbutus Biopharma Corp
+ABVC	Abvc Biopharma Inc
+ABVX	Abivax Sa ADR
+ACAA	Averin Capital Acquisition Corp. Cl A
+ACAAU	Averin Capital Acquisition Corp. Units
+ACAAW	Averin Capital Acquisition Corp WT
+ACAD	Acadia Pharmaceutica
+ACB	Aurora Cannabis Inc
+ACBE	
+ACBH	
+ACCL	Accelrys Inc
+ACCV	
+ACDC	Profrac Holding Corp. Cl A
+ACEP	Ars Core Equity Portfolio ETF
+ACET	Adicet Bio Inc
+ACFN	Acorn Energy Inc
+ACGC	Acp Holdings Acquisition Corp Cl A
+ACGCU	Acp Holdings Acquisition Corp. Units
+ACGCW	Acp Holdings Acquisition Corp WT
+ACGL	Arch Capital Grp Ltd
+ACGLN	Arch Capital Group Ltd
+ACGLO	Arch Capital Group Ltd ADR
+ACHC	Acadia Healthcr Company
+ACHV	Achieve Life Sciences Inc
+ACIC	American Coastal Insurance Corp
+ACIU	AC Immune S.A.
+ACIW	Aci Worldwide Inc
+ACLS	Axcelis Tech Inc
+ACMR	Acm Research Inc
+ACNB	Acnb Corp
+ACNT	Ascent Industries Co.
+ACOG	Alpha Cognition Inc
+ACON	Aclarion Inc
+ACONW	Aclarion Inc WT
+ACQQ	
+ACRS	Aclaris Therapts
+ACRT	Actrade International Ltd.
+ACRV	Acrivon Therapeutics Inc
+ACSP	
+ACT	Enact Holdings Inc
+ACTG	Acacia Res-Acacia
+ACTU	Actuate Therapeutics Inc
+ACWI	ACWI Ishares MSCI ETF
+ACWX	ACWI Ex US Ishares MSCI ETF
+ACXP	Acurx Pharmaceuticals Inc
+ADACU	American Drive Acquisition Company Units
+ADACW	American Drive Acquisition WT
+ADAG	Adagene Inc ADR
+ADAM	Adam
+ADAMG	Adamas Trust Inc 9.125% Senior Notes Due 2030
+ADAMH	Adamas Trust Inc 9.875% Senior Notes Due 2030
+ADAMI	Adamas Trust Inc 9.125% Senior Notes Due 2029
+ADAMK	
+ADAML	Adamas Trust Inc 6.875% Series F
+ADAMM	Adamas Trust 7.875% Series E
+ADAMN	Adamas Trust Inc 8.000% Series D
+ADAMO	Adamas Trust Inc 9.250%
+ADAMZ	Adamas Trust Inc 7.000% Series G
+ADBE	Adobe Systems Inc
+ADBG	Leverage Shares 2X Long Adbe Daily ETF
+ADBT	
+ADEA	Adeia Inc
+ADGM	Adagio Medical Holdings Inc
+ADI	Analog Devices
+ADIL	Adial Pharmaceuticals Inc
+ADMA	Adma Biologics
+ADP	Automatic Data Processing
+ADPT	Adaptive Biotechnologies Corp
+ADRX	ANDRX GROUP
+ADSE	Ads-Tec Energy Plc
+ADSEW	Ads-Tec Energy Plc WT
+ADSK	Autodesk Inc
+ADTN	Adtran Holdings Inc
+ADTX	Aditxt Inc
+ADUR	Aduro Clean Technologies Inc
+ADUS	Addus Homecare Corp
+ADV	Advantage Solutions Inc
+ADVB	Advanced Biomed Inc
+ADXN	Addex Therapeutics Ltd ADR
+AEAQ	Activate Energy Acquisition Corp. Cl A
+AEAQU	Activate Energy Acquisition Corp
+AEAQW	Activate Energy Acquisition Corp. WT
+AEBI	Aebi Schmidt Holding Ag
+AEC	Anfield Energy Inc
+AEHL	Antelope Enterprise Hldg Ltd
+AEHR	Aehr Test Systems
+AEI	Alset Inc
+AEIS	Advanced Energy
+AEMD	Aethlon Medical
+AENT	Alliance Entertainment Holding Corp
+AENTW	Alliance Entertainment Holding Corp WT
+AEP	American Electric Power Company
+AERT	Aeries Technology Inc
+AERTW	Aeries Technology Inc WT
+AESP	Advanced Elect Support Pds
+AESPR	Aeon Acquisition I Corp. Rights
+AESPU	Aeon Acquisition I Corp
+AESPW	Aeon Acquisition I Corp. Warrants
+AEVA	Aeva Technologies Inc
+AEYE	Audioeye Inc
+AFCG	Advanced Flower Capital Inc
+AFDM	Riverfront Dyn Developed Intl ETF FT
+AFEM	Riverfront Dyn Emerging Markets ETF FT
+AFJK	Aimei Health Technology  Ltd
+AFJKR	Aimei Health Technology  Ltd Right
+AFJKU	Aimei Health Technology Ltd
+AFOS	Ars Focused Opportunity Strategy ETF
+AFRI	Forafric Global Plc
+AFRIW	Forafric Global Plc Warrants
+AFRM	Affirm Holdings Inc Cl A
+AFSC	Abrdn Focused U.S. Small Cap Active ETF
+AFYA	Afya Ltd Cl A
+AGCC	Anchor Glass Container Corporation
+AGEM	Abrdn Emerging Markets Dividend Active ETF
+AGEN	Agenus Inc
+AGGA	Astoria Dynamic Core US Fixed Income ETF
+AGIO	Agios Pharmaceuticals
+AGIX	Kraneshares Artificial Intelligence & Technology
+AGM-A	
+AGMH	Agm Group Holdings Inc Cl A
+AGMI	Themes Silver Miners ETF
+AGNC	Agnc Investment Corp
+AGNCL	Agnc Investment Corp
+AGNCM	Agnc Investment Corp Cum Pfd
+AGNCN	Agnc Investment Corp
+AGNCO	Agnc Investment Corp Fxdfr Prf Perpetual USD 25
+AGNCP	Agnc Investment Corp
+AGNCZ	Agnc Investment Corp ADR
+AGNG	GX Aging Population ETF
+AGNT	Argonaut Technologies Inc.
+AGPU	Axe Compute Inc
+AGRZ	Agroz Inc
+AGYS	Agilysys Inc
+AGZD	Wisdomtree Int Rate US Agg Bond Fund
+AHCO	Adapthealth Corp Cl. A
+AHD	GraniteShares Autocallable HOOD ETF
+AHG	Akso Health Group ADR
+AHMA	Ambitions Enterprise Management Cl A
+AIA	Asia 50 Ishares ETF
+AIAI	Aiai Holdings Corporation Cl A
+AIBZ	Bitzero Holdings Inc
+AIDX	20/20 Biolabs Inc
+AIFA	Allied Gaming & Entertainment Inc
+AIFC	Alt5 Sigma Corporation
+AIFD	Tcw Artificial Intelligence ETF
+AIFF	Firefly Neuroscience Inc
+AIFR	
+AIFU	Aifu Inc ADR
+AIIO	Robo.Ai Inc
+AIIOW	Robo.Ai Inc WT
+AIIR	Air Global Plc
+AIMD	Ainos Inc
+AIMDW	Ainos Inc WT
+AINF	
+AIOS	Aios Tech Inc
+AIOT	Powerfleet Inc
+AIP	Arteris Inc
+AIPI	Rex AI Equity Premium Income ETF
+AIPO	DeFiance Ai & Power Infrastructure ETF
+AIQ	GX Artificial Intelligence & Tech ETF
+AIRE	Realpha Tech Corp
+AIRG	Airgain Inc
+AIRJ	Airjoule Technologies Corp
+AIRJW	Montana Technologies Corp WT
+AIRO	Airo Group Holdings Inc
+AIRR	Rba American Industrial Renaissance ETF FT
+AIRS	Airsculpt Technologies Inc
+AIRT	Air T Inc
+AIRTP	Air T Inc Funding Alpha Income Trust Preferred
+AISP	Airship AI Holdings Inc
+AISPW	Airship AI Holdings Inc WT
+AIX	Defiance US 100 Tech AI Moat ETF
+AIXI	Xiao-I Corporation ADR
+AKAM	Akamai Technologies
+AKAN	Akanda Corp
+AKBA	Akebia Therapeutics
+AKO-B	
+AKTS	Akoustis Technologies Inc
+AKTX	Akari Therapeutics ADR
+ALAB	Astera Labs Inc
+ALAR	Alarum Technologies Ltd ADR
+ALB-PA	
+ALBG	Leverage Shares 2X Long Alb Daily ETF
+ALCO	Alico Inc
+ALDF	Aldel Financial II Inc Cl A
+ALDFU	Aldel Financial II Inc Units
+ALDFW	Aldel Financial II Inc Warrants
+ALDX	Aldeyra Therapeu
+ALEC	Alector Inc
+ALF	Centurion Acquisition Corp. Cl A
+ALFUW	Centurion Acquisition Corp WT
+ALGM	Allegro Microsystems Inc
+ALGN	Align Technology
+ALGS	Aligos Therapeutics Inc
+ALGT	Allegiant Travel Com
+ALHC	Alignment Healthcare Inc
+ALIL	Argent Focused Small Cap ETF
+ALIS	Calisa Acquisition Corp
+ALISR	Calisa Acquisition Corp Right
+ALKS	Alkermes Plc
+ALKT	Alkami Technology Inc
+ALLO	Allogene Therapeutics Inc
+ALLR	Allarity Therapeutics Inc
+ALLT	Allot Communications
+ALLW	SPDR Bridgewater All Weather ETF
+ALM	Almonty Industries Inc
+ALMR	Alamar Biosciences Inc
+ALMS	Alumis Inc
+ALMU	Aeluma Inc
+ALNT	Allient Inc
+ALNY	Alnylam Pharmaceuticals
+ALOV	Aldabra 4 Liquidity Opportunity Vehicle
+ALOVW	Aldabra 4 Liquidity Opportunity Vehicle WT
+ALOY	Alloy Inc.
+ALP	Alphaton Capital Corp
+ALPS	Alpine Summit Energy Partners Cl A
+ALPX	Alpex Acquisition Corporation Cl A
+ALPXR	Alpex Acquisition Corporation Rights
+ALPXU	Alpex Acquisition Corporation Units
+ALPXW	Alpex Acquisition Corporation WT
+ALRM	Alarm.com
+ALRS	Alerus Financial Corp
+ALT	Altimmune Inc
+ALTI	Alti Global Inc
+ALTO	Alto Ingredients Inc
+ALTY	GX Alternative Income ETF
+ALVO	Alvotech
+ALVOW	Alvotech WT
+ALXO	Alx Oncology Holdings Inc
+ALZN	Alzamend Neuro Inc
+AMA	Defiance Daily Target 2X Long Amat ETF
+AMAC	American Medical Alert
+AMACU	AMR Resources Acquisition Corp
+AMACW	
+AMAL	Amalgamated Financial Corp
+AMAN	Amanat Acquisition Corp
+AMAT	Applied Materials
+AMBA	Ambarella Inc
+AMBR	Amber International Holding Limited
+AMCI	Amci Acquisition Corp II Cl A
+AMCX	AMC Networks Cl A
+AMD	Adv Micro Devices
+AMDD	Direxion Daily Amd Bear 1X Shares
+AMDG	Leverage Shares 2X Long Amd Daily ETF
+AMDL	Graniteshares 2X Long Amd Daily ETF
+AMEM	Amana Developing World ETF
+AMGN	Amgen Inc
+AMGR	Amana Growth ETF
+AMID	Argent Mid Cap ETF
+AMIX	Autonomix Medical Inc
+AMKR	Amkor Technology
+AMLX	Amylyx Pharmaceuticals Inc
+AMOD	Alpha Modus Holdings Inc
+AMODW	Alpha Modus Holdings Inc WT
+AMPG	Amplitech Group
+AMPGZ	Amplitech Group Inc Series B Right
+AMPH	Amphastar Pharma
+AMPL	Amplitude Inc Cl A
+AMRN	Amarin Corp ADR
+AMRX	Amneal Pharmaceuticals Inc
+AMSC	Amer Superconductor
+AMSF	Amerisafe Inc
+AMSS	Amass Brands Inc
+AMST	Amesite Inc
+AMTX	Aemetis Inc
+AMUN	Abrdn Ultra Short Municipal Income Active ETF
+AMUU	Direxion Daily Amd Bull 2X Shares
+AMYY	Graniteshares Yieldboost Amd ETF
+AMZD	Amzn Bear -1X ETF Direxion
+AMZN	Amazon.com Inc
+AMZU	Amzn Bull 2X ETF Direxion
+AMZZ	Graniteshares 2X Long Amzn Daily ETF
+ANAB	Anaptysbio Inc
+ANDE	Andersons Inc
+ANEB	Anebulo Pharmaceuticals Inc
+ANEL	DeFiance Daily Target 2X Long Anet ETF
+ANG-PB	
+ANGH	Anghami Inc
+ANGHW	Anghami Inc WT
+ANGI	Angi Inc
+ANGL	Vaneck Fallen Angel High Yield Bond ETF
+ANGO	Angiodynamics Inc
+ANGU	Sei Ang Research Enhanced U.S. Large Cap ETF
+ANIK	Anika Therapeutics
+ANIP	ANI Pharma Inc
+ANIX	Anixa Biosciences Inc
+ANL	Adlai Nortye Ltd ADR
+ANNA	Aleanna Inc Cl A
+ANNAW	Aleanna Inc WT
+ANNX	Annexon Inc
+ANPA	Rich Sparkle Holdings Limited
+ANTA	Antalpha Platform Holding Company
+ANTX	An2 Therapeutics Inc
+ANV	Graniteshares Autocallable Nvda ETF
+AOHY	Angel Oak High Yield Opportunities ETF
+AOSL	Alpha and Omega Semi
+AOTG	Aot Growth and Innovation ETF
+AOUT	American Outdoor Brands Inc
+APA	Apa Corp
+APAC	Stonebridge Acquisition II Cl A
+APACR	Stonebridge Acquisition II Rights
+APACU	Stonebridge Acquisition Corp
+APC	Arko Petroleum Corp
+APEI	American Public Education
+APGE	Apogee Therapeutics Inc
+API	Agora Inc Ads
+APLD	Applied Digital Corp
+APLM	Apollomics Inc Cl A
+APLMW	Apollomics Inc WT
+APMC	Applied Microsystems Corporation
+APMCR	Ampercap Acquisition Right
+APMCU	Ampercap Acquisition Company
+APOG	Apogee Entrpr Inc
+APP	Applovin Corp Cl A
+APPF	Appfolio Cl A
+APPN	Appian Corp Cl A
+APPS	Digital Turbine
+APPX	Tradr 2X Long App Daily ETF
+APRE	Aprea Therapeutics Inc
+APUR	Aperture AC Cl A
+APURR	Aperture AC Rights
+APVO	Aptevo Therapeutics Inc
+APWC	Asia Pacific Wire & Cable
+APXT	Apex Treasury Corporation Cl A
+APXTU	Apex Technology Acquisition Corp
+APXTW	Apex Treasury Corporation Warrants
+APYX	Apyx Medical Corp
+AQB	Aquabounty Technologies Inc
+AQLG	Hcm Large Cap Growth ETF
+AQMS	Aqua Metals Inc
+AQST	Aquestive Therapeutics Inc
+AQWA	GX Clean Water ETF
+ARAI	Arrive AI Inc
+ARAY	Accuray Inc
+ARBB	Arb Iot Group Limited
+ARBE	Arbe Robotics Ltd
+ARBEW	Arbe Robotics Ltd WT
+ARBK	Argo Blockchain Plc ADR
+ARCB	Arcbest Corp
+ARCC	Ares Capital Corp
+ARCI	Applnc Rcycl CT Amer
+ARCIU	Archimedes Tech Spac Partners III Co.
+ARCIW	Archimedes Tech Spac Partners III WT
+ARCL	Archipelago Learning
+ARCLR	Arc Group Acquisition I Corp Right
+ARCLU	Arc Group Acquisition I Corp
+ARCLW	Arc Group Acquisition I Corp WT
+ARCT	Arcturus Therapeutics Ltd
+ARDX	Ardelyx Inc
+AREBW	American Rebel Holdings Inc WT
+AREC	American Resources Corp
+ARGX	Argenx Se ADR
+ARHS	Arhaus Inc Cl A
+ARKO	Arko Corp
+ARKR	Ark Restaurants Corp
+ARLP	Alliance Resource Pt
+ARM	Arm Holdings Plc ADR
+ARMG	Leverage Shares 2X Long Arm Daily ETF
+ARMY	Tema International Defense Innovation ETF
+AROW	Arrow Financial Corp
+ARQ	Arq Inc
+ARQQ	Arqit Quantum Inc
+ARQQW	Arqit Quantum Inc WT
+ARQT	Arcutis Biotherapeutics Inc
+ARRY	Array Technologies Inc
+ARTC	Arthrocare Corp
+ARTCU	Art Technology Acquisition Corp. Units
+ARTCW	Art Technology Acquisition Corp. WT
+ARTL	Artelo Biosciences Inc
+ARTNA	Artesian Res Corp A
+ARTV	Artiva Biotherapeutics Inc
+ARTW	Art S Way MFG Company
+ARVN	Arvinas Inc
+ARVR	FT Indxx Metaverse ETF
+ARWR	Arrowhead Pharma
+ARXS	Arxis Inc Cl A
+ASBP	Aspire Biopharma Holdings Inc
+ASBPW	Aspire Biopharma Holdings Inc WT
+ASCI	Abrdn International Small Cap Active ETF
+ASD	Defiance Autism Impact ETF
+ASEC	American Century Securitized Credit ETF
+ASLE	Aersale Corp
+ASMB	Assembly Biosciences
+ASMG	Leverage Shares 2X Long Asml Daily ETF
+ASML	Asml Holdings NY Reg ADR
+ASMU	Direxion Daily Asml Bull 2X ETF
+ASND	Ascendis Pharma ADR
+ASNS	Actelis Networks Inc
+ASO	Academy Sports and Outdoors Inc
+ASPC	A Spac III Acquisition Corp. Cl A
+ASPCR	A Spac III Acquisition Corp. Right
+ASPI	Asp Isotopes Inc
+ASPS	Altisource Portfolio
+ASPSW	Altisource Portfolio Solutions S.A.
+ASPSZ	Altisource Portfolio Solutions S.A.
+ASRV	Ameriserv Financial
+ASST	Strive Inc
+ASTC	Astrotech Corp
+ASTE	Astec Inds Inc
+ASTH	Astrana Health Inc
+ASTI	Ascent Solar Technologies
+ASTL	Algoma Steel Group Inc
+ASTLW	Algoma Steel Group Inc WT
+ASTS	Ast Spacemobile Inc
+ASUR	Asure Software
+ASYS	Amtech Systems Inc
+ATAI	Atai Life Sciences N.V.
+ATAT	Atour Lifestyle Holdings ADR
+ATC	GraniteShares Autocallable COIN ETF
+ATCX	Atlas Technical Consultants Inc
+ATEC	Alphatec Holdings
+ATER	Aterian Inc
+ATEX	Anterix Inc.
+ATGL	Alpha Technology Group Limited
+ATHE	Alterity Therapeutics Ltd ADR
+ATHR	Aether Holdings Inc
+ATII	Archimedes Tech Spac Partners II Co.
+ATIIU	Archimedes Tech Spac Partners II Co.
+ATIIW	Archimedes Tech Spac Partners II Co. WT
+ATLC	Atlanticus Holdings Corp
+ATLCL	Atlanticus Holdings Corp 6.125%
+ATLCP	Atlanticus Holdings Corp 7.625% Series B
+ATLCZ	Atlanticus Holdings Corporation 9.25%
+ATLO	Ames Natl Corp
+ATLQ	Jab Acquisition Corp I Cl A
+ATLQR	Jab Acquisition Corp I Rights
+ATLQU	Jab Acquisition Corp I Units
+ATLQW	Jab Acquisition Corp I Warrants
+ATLX	Atlas Lithium Corp
+ATNI	Atn International
+ATOM	Atomera Inc
+ATOS	Atossa Therapeutics Inc
+ATPC	Agape Atp Corp
+ATRA	Atara Biotherap
+ATRC	Atricure Inc
+ATRO	Astronics Corp
+ATTO	Attovia Therapeutics Inc
+ATTT	Raytech Holding Limited
+ATXG	Addentax Group Corp
+ATYR	Atyr Pharma Inc
+AUBN	Auburn Natl Bncp
+AUC	Atif Holdings Ltd
+AUDC	Audiocodes Ltd
+AUGO	Aura Minerals Inc
+AUID	Authid Inc
+AUMI	Themes Gold Miners ETF
+AUPH	Aurinia Pharm Ord
+AUR	Aurora Innovation Inc Cl A
+AURA	Aura Biosciences Inc
+AURE	Aurelion Inc
+AUROW	Aurora Innovation Inc WT
+AUTL	Autolus Therapeutics Plc ADR
+AUUD	Auddia Inc
+AVAH	Aveanna Healthcare Holdings Inc
+AVAT	Avalanche Treasury Corporation Cl A
+AVAV	Aerovironment Inc
+AVBH	Avidbank Holdings Inc
+AVBP	Arrivent Biopharma Inc
+AVGB	Avantis Credit ETF
+AVGG	Leverage 2X Long Avgo Daily ETF
+AVGO	Broadcom Ltd
+AVGU	Graniteshares 2X Long Avgo Daily ETF
+AVGX	DeFiance Daily Target 2X Long Avgo ETF
+AVIR	Atea Pharmaceuticals Inc
+AVL	Avgo Bull 2X ETF Direxion
+AVNW	Aviat Networks Inc
+AVO	Mission Produce Inc
+AVOS	Avos Global Equities ETF
+AVPT	Avepoint Inc Cl A
+AVR	Anteris Technologies Global Corp
+AVS	Avgo Bear -1X ETF Direxion
+AVT	Avnet Inc
+AVTX	Avalo Therapeutics Inc
+AVUQ	Avantis U.S. Quality ETF
+AVX	Agriforce Growing Systems Ltd
+AVXC	Avantis Emerging Markets Ex-China Equity ETF
+AVXL	Anavex Lf SC
+AVXX	Defiance Daily Target 2X Long Avav ETF
+AWRE	Aware Inc
+AXG	Solowin Holdings Ordinary Share
+AXGN	Axogen Inc
+AXIN	Axiom Intelligence Acquisition Corp 1 Cl A
+AXINR	Axiom Intelligence Acquisition Corp 1 Right
+AXINU	Axiom Intelligence Acquisition Corp 1 Units
+AXON	Axon Enterprise Inc
+AXSM	Axsome Thera
+AXTI	Axt Inc
+AYA	Amaya Inc
+AYTU	Aytu Biopharma Inc
+AZ	A2Z Cust2Mate Solutions Corp
+AZI	Autozi Internet Technology [Global] Ltd Cl A
+AZIO	
+AZIO	Azio AI Holdings Inc
+AZTA	Azenta Inc
+AZYY	Graniteshares Yieldboost Amzn ETF
+BABU	Direxion Daily Baba Bull 2X ETF
+BABX	Graniteshares 2X Long Baba Daily ETF
+BACC	Blue Acquisition Corp. Cl A
+BACCR	Blue Acquisition Corp. Right
+BACCU	Blue Acquisition Corp
+BAER	Bridger Aerospace Group Holdings Inc
+BAERW	Bridger Aerospace Group Holdings WT
+BAFE	Brown Advisory Flexible Equity ETF
+BAFN	Bayfirst Financial Corp
+BAIG	Leverage Shares 2X Long Bbai Daily ETF
+BAIV	Brown Advisory International Value Select ETF
+BALQ	Ishares Nasdaq Premium Income Active ETF
+BANC-PF	
+BAND	Bandwidth Inc
+BANF	Bancfirst Corp
+BANFP	Bfc Capital Trust II
+BANL	Cbl International Limited
+BANR	Banner Corp
+BANX	Arrowmark Financial Corp
+BAOS	Baosheng Media Group Holdings Ltd
+BASG	Brown Advisory Sustainable Growth ETF
+BASV	Brown Advisory Sustainable Value ETF
+BATRA	Atlanta Braves Holdings Inc
+BATRK	Atlanta Braves Holdings Inc C
+BBB	Cyber Hornet S&P 500 and Bitcoin 75/25 Strategy
+BBBYW	Bed Bath & Beyond Inc WT
+BBCP	Concrete Pumping Holdings Inc
+BBGI	Beasley Broadcast Group
+BBH	Vaneck Biotech ETF
+BBIO	Bridgebio Pharma Inc
+BBLG	Bone Biologics Corp
+BBLGW	Bone Biologics Corp WT
+BBNX	Beta Bionics Inc
+BBOT	Bridgebio Oncology Therapeutics Inc
+BBSI	Barrett Business S
+BBUL	GraniteShares 2X Long Bb Daily ETF
+BBYY	Graniteshares Yieldboost Baba ETF
+BCAB	Bioatla Inc
+BCAL	California Bancorp
+BCAX	Bicara Therapeutics Inc
+BCBP	Bcb Bancorp Inc
+BCCQ	Bleichroeder Acquisition Corp. III Cl A
+BCCQU	Bleichroeder Acquisition Corp. III Units
+BCCQW	Bleichroeder Acquisition Corp. III WT
+BCDA	Biocardia Inc
+BCFN	Baron Financials ETF
+BCG	Binah Capital Group Inc
+BCGWW	Binah Capital Group Inc Warrants
+BCIC	Bcp Investment Corporation
+BCLO	Ishares BBb-B Clo Active ETF
+BCML	Bay Commercial Bk CA
+BCPC	Balchem Corp
+BCRX	Biocryst Pharma Inc
+BCTK	Baron Technology ETF
+BCTX	Briacell Therapeutics Corp
+BCTXL	Briacell Therapeutics Corp WT
+BCTXZ	Briacell Therapeutics Corp. WT
+BCYC	Bicycle Therapeutics Plc ADR
+BDCIU	Btc Development Corp
+BDCIW	Btc Development Corp. WT
+BDGS	Bridges Capital Tactical ETF
+BDMD	Baird Medical Investment Holdings
+BDMDW	Baird Medical Investment Holdings WT
+BDRX	Biodexa Pharmaceuticals Plc ADR
+BDSX	Biodesix Inc
+BDTX	Black Diamond Therapeutics Inc
+BDVL	Ishares Disciplined Volatility Equity Active ETF
+BDYN	Ishares Dynamic Equity Active ETF
+BEAG	Bold Eagle Acquisition Corp. Cl A
+BEAGR	Bold Eagle Acquisition Corp. Right
+BEAM	Beam Therapeutics Inc
+BEAT	Heartbeam Inc
+BEATW	Heartbeam Inc WT
+BEBE	Tge Value Creative Solutions Corp Cl A
+BEDY	BNY Mellon Enhanced Dividend and Income ETF
+BEEM	Beam Global
+BEEP	Mobile Infrastructure Corp
+BEEX	The Beehive ETF
+BEEZ	Honeytree U.S. Equity ETF
+BEG	Leverage Shares 2X Long BE Daily ETF
+BELFA	BEL Fuse Cl A
+BELFB	BEL Fuse Inc Cl B
+BENF	Beneficient Cl A
+BENFW	Beneficient WT
+BESO	Gsr Crypto Core3 ETF
+BETR	Better Home & Finance Holding CO
+BETRW	Better Home & Finance Holding WT
+BFC	Bank First National Corp [Wisconsin]
+BFRG	Bullfrog AI Holdings Inc
+BFRGW	Bullfrog AI Holdings WT
+BFRI	Biofrontera Inc
+BFRIW	Biofrontera Inc WT
+BFST	Business First Bancshares Inc
+BGC	Bgc Partners Cl A
+BGCG	Baillie Gifford International Concentrated Growt
+BGDE	Mawson Infrastructure Group Inc
+BGEG	Baillie Gifford Emerging Markets ETF
+BGGG	Baillie Gifford Long Term Global Growth ETF
+BGIA	Baillie Gifford International Alpha ETF
+BGIN	Bgin Blockchain Limited Cl A
+BGL	Blue Gold Limited Cl A
+BGLC	Bionexus Gene Lab Corp
+BGLWW	Blue Gold Limited WT
+BGM	Bgm Group Ltd
+BGMS	Bio Green Med Solution Inc
+BGMSP	Bio Green Med Solution Inc Pfd
+BGRN	Ishares Global Green Bond ETF
+BGRO	Blackrock Large Cap Growth ETF
+BGUS	Baillie Gifford U.S. Equity Growth ETF
+BH-A	
+BHAV	Bhav Acquisition Corp Cl A
+BHAVR	Bhav Acquisition Corp Rights
+BHAVU	Bhav Acquisition Corp Units
+BHDG	Nicholas Bitcoin Tail ETF
+BHF	Brighthouse Financial Inc
+BHFAL	Brighthouse Financial Inc 6.25% Junior
+BHFAM	Brighthouse Financial Inc
+BHFAN	Brighthouse Financial Inc
+BHFAO	Brighthouse Financial Inc
+BHFAP	Brighthouse Financial Inc Dep Shs Repstg 1/1000T
+BHRB	Burke Herbert Financial Services Corp
+BHST	Bioharvest Sciences Inc
+BIAF	Bioaffinity Technologies Inc
+BIAFW	Bioaffinity Technologies WT
+BIB	Ultra Nasdaq Biotechnology 2X ETF
+BID	Tribeca Strategic Acquisition Corp. Cl A
+BIDG	Leverage Shares 2X Long Bidu Daily ETF
+BIDU	Baidu Inc ADR
+BIDWR	Tribeca Strategic Acquisition Corp. Rights
+BIDWU	Tribeca Strategic Acquisition Corp
+BIGZ	
+BIIB	Biogen Inc
+BILI	Bilibili Inc ADR
+BIOA	Bioage Labs Inc
+BIOT	Biotech Acquisition Company Cl A
+BIOTW	Biotech Acquisition Company WT
+BIOX	Bioceres Crop Solutions Corp
+BIOY	GraniteShares YieldBoost Biotech ETF
+BIRD	Allbirds Inc Cl A
+BIS	Ultrashort Nasdaq Biotechnology -2X ETF
+BITA	Ishares Bitcoin Premium Income ETF
+BITS	GX Blockchain & Bitcoin Strategy ETF
+BIVI	Biovie Inc
+BIVIW	Biovie Inc WT
+BIXI	Bitcoin Infrastructure Acquisition Corp Ltd Cl A
+BIXIU	Bitcoin Infrastructure Acquisition Corp Ltd Unit
+BIXIW	Bitcoin Infrastructure Acquisition Corp Ltd Warr
+BIYA	Baiya International Group Inc
+BJDX	Bluejay Diagnostics Inc
+BJRI	
+BKCH	GX Blockchain ETF
+BKHA	Black Hawk Acquisition Corp Cl A
+BKHAR	Black Hawk Acquisition Corp Rights
+BKHAU	Black Hawk Acquisition Corporation Units
+BKMI	BNY Mellon Municipal Intermediate ETF
+BKMS	BNY Mellon Municipal Short Duration ETF
+BKNG	Booking Holdings Inc
+BKR	Baker Hughes Company
+BKYI	Bio-Key Intl Inc
+BL	Blackline Inc
+BLBD	Blue Bird Corp
+BLCR	Blackrock Large Cap Core ETF
+BLDP	Ballard Power Sys
+BLFS	Biolife Solutions
+BLIN	Bridgeline Digital
+BLIV	Belive Holdings
+BLKB	Blackbaud Inc
+BLMN	
+BLNE	Beeline Holdings Inc
+BLNK	Blink Charging Company
+BLRKU	Bluerock Acquisition Corp. Units
+BLRKW	Bluerock Acquisition Corp. Warrants
+BLRX	Biolinerx Ltd ADR
+BLSG	Leverage Shares 2X Long Blsh Daily ETF
+BLTE	Belite Bio Inc ADR
+BLUW	Blue Water Acquisition Corp Cl A
+BLUWW	Blue Water Acquisition Corp WT
+BLZE	Backblaze Inc Cl A
+BLZR	Trailblazer Acquisition Corp. Cl A
+BLZRU	Trailblazer Acquisition Corp
+BLZRW	Trailblazer Acquisition Corp. WT
+BMBL	Bumble Inc
+BMEA	Biomea Fusion Inc
+BMGL	Basel Medical Group Ltd
+BMHL	Bluemount Holdings Limited Cl B
+BMM	Blue Moon Metals Inc
+BMNG	Leverage Shares 2X Long Bmnr Daily ETF
+BMOP	BNY Mellon Municipal Opportunities ETF
+BMR	Beamr Imaging Ltd Ordinary Share
+BMRA	Biomerica Inc
+BMRC	Bank of Marin Bancrp
+BMRN	Biomarin Pharmaceuticals
+BNAI	Brand Engagement Network Inc
+BNAIW	Brand Engagement Network Inc WT
+BNBX	Bnb Plus Corp
+BNC	Cea Indistries Inc
+BNCWW	Cea Industries Inc WT
+BNCWZ	Cea Industries Inc Warrants
+BND	Total Bond Market ETF Vanguard
+BNDP	Vanguard Core-Plus Bond Index ETF
+BNDW	Total World Bond Vanguard ETF
+BNDX	Total Intl Bond ETF Vanguard
+BNGO	Bionano Genomics Inc
+BNKK	Bonk Inc
+BNR	Burning Rock Biotech Ltd ADR
+BNTC	Benitec Biopharma Ltd ADR
+BNTX	Biontech Se ADR
+BODI	The Beachbody Company Inc
+BOEG	Leverage Shares 2X Long BA Daily ETF
+BOEU	Direxion Daily BA Bull 2X
+BOF	Branchout Food Inc
+BOKF	Bok Financial Corp
+BOLD	Boundless Bio Inc
+BOLT	Bolt Biotherapeutics Inc
+BON	Bon Natural Life Ltd
+BOOM	Dynamic Materials
+BOSC	Bos Better Online
+BOT	Robostrategy Inc
+BOTJ	Bank of The Jame Fnl
+BOTT	Themes Robotics & Automation ETF
+BOTZ	GX Robotics & Artificial Intelligence ETF
+BOXL	Boxlight Corp Cl A
+BPAC	Blueport Acquisition Ltd Cl A
+BPACR	Blueport Acquisition Ltd Rights
+BPOP	Popular Inc
+BPOPM	Popular Inc Trust II
+BPRN	Princeton Bancorp Inc
+BPYPM	Brookfield Property Partners L.P. 6.25% Cl A
+BPYPN	Brookfield Property Partners L.P. 5.75% Prf Perp
+BPYPO	Brookfield Property Partners L.P. 6.375% Prf P
+BPYPP	Brookfield Property Partners LP Pfd Unit Ltd Par
+BRAG	Bragg Gaming Group Inc
+BRBI	BLUE RIVER BCSHS
+BRCB	Black Rock Coffee Bar Cl A
+BREM	Ishares Emerging Markets Bond Active ETF
+BRES	Burney U.S. Equity Select ETF
+BREZ	Breeze Holdings Acquisition Corp
+BREZR	Breeze Holdings Acquisition Corp Right
+BRFH	Barfresh Food Group
+BRHY	Blackrock High Yield ETF
+BRID	Bridgford Foods Corp
+BRK-A	
+BRKH	Burtech Acquisition Corp Cl A
+BRKHU	Burtech Acquisition Corp
+BRKHW	Burtech Acquisition Corp WT
+BRKR	Bruker Corp
+BRKRP	Bruker Corp
+BRKU	Direxion Daily Brkb Bull 2X Shares
+BRLS	Borealis Foods Inc
+BRLSW	Borealis Foods Inc WT
+BRLT	Brilliant Earth Group Inc Cl A
+BRNS	Barinthus Biotherapeutics Plc ADR
+BRNX	Brenmiller Energy Ltd
+BRNY	Burney U.S. Factor Rotation ETF
+BRRKU	
+BRRR	Coinshares Valkyrie Bitcoin Fund
+BRTM	
+BRTMU	B&R Technology Merger Corp. Units
+BRTMW	
+BRTR	Blackrock Total Return ETF
+BRTX	Biorestorative Therapies Inc
+BRUN	Boost Run Inc Cl A
+BRVE	Braveheart Bio Inc
+BRZE	Braze Inc Cl A
+BSAA	Best Spac I Acquisition Corp. Cl A
+BSAAR	Best Spac I Acquisition Corp. Rights
+BSAAU	Best Spac I Acquisition Corp
+BSBK	Bogota Financial Corp
+BSCQ	Bs 2026 Corp Bond Invesco ETF
+BSCR	Bs 2027 Corp Bond Invesco ETF
+BSCS	Bs 2028 Corp Bond Invesco ETF
+BSCT	Bs 2029 Corp Bond Invesco ETF
+BSCU	Bs 2030 Corp Bond Invesco ETF
+BSCV	Invesco Bulletshares 2031 Corporate Bond ETF
+BSCW	Invesco Bulletshares 2032 Corp Bond ETF
+BSCX	Invesco Bulletshares 2033 Corporate Bond ETF
+BSCY	Invesco Bulletshares 2034 Corporate Bond ETF
+BSCZ	Invesco 2035 Corp Bond ETF
+BSET	Bassett Furniture
+BSGR	Invesco Bulletshares 2027 Treasury Bond ETF
+BSGT	Invesco Bulletshares 2029 Treasury Bond ETF
+BSIN	U S Energy Corp
+BSJQ	Bs 2026 High Yield Corp Bond ETF
+BSJR	Bs 2027 High Yield Corp Bond ETF
+BSJS	Bs 2028 High Yield Corp Bond ETF
+BSJT	Bs 2029 High Yield Corp Bond ETF
+BSJU	Bs 2030 High Yield Corp Bond ETF
+BSJV	Invesco Bulletshares 2031 High Yield Corp Bond E
+BSJW	Invesco Bulletshares 2032 High Yield Corporate B
+BSJX	Invesco 2033 High Yield Corp Bond ETF
+BSJY	Invesco Bulletshares 2034 High Yield Corporate B
+BSLK	Bolt Projects Hldgs Inc
+BSMA	
+BSMQ	Bs 2026 Municipal Bond ETF
+BSMR	Bs 2027 Municipal Bond ETF
+BSMS	Bs 2028 Municipal Bond ETF
+BSMT	Bs 2029 Municipal Bond ETF
+BSMU	Bs 2030 Municipal Bond ETF
+BSMV	Bs 2031 Municipal Bond ETF
+BSMW	Invesco Bulletshares 2032 Municipal Bond ETF
+BSMY	Invesco Bulletshares 2034 Municipal Bond ETF
+BSMZ	Invesco Bulletshares 2035 Municipal Bond ETF
+BSP	Bending Spoons S.P.A.
+BSRR	Sierra Bancorp
+BSSX	Invesco Bulletshares 2033 Municipal Bond ETF
+BSTS	Invesco Bulletshares 2028 Treasury Bond ETF
+BSTU	Invesco Bulletshares 2030 Treasury Bond ETF
+BSTV	Invesco Bulletshares 2031 Treasury Bond ETF
+BSVN	Bank7 Corp
+BSVO	Ea Bridgeway Omni Small-Cap Value ETF
+BSY	Bentley Systems Inc Cl B
+BTAI	Bioxcel Therapeutics Inc
+BTAIQ	Bioxcel Therapeutics Inc
+BTBD	Bt Brands Inc
+BTBDW	Bt Brands Inc WT
+BTBT	Bit Digital Inc
+BTCS	Btcs Inc
+BTCT	Btc Digital Ltd
+BTDL	GraniteShares 2X Long Btdr Daily ETF
+BTDR	Bitdeer Technologies Group
+BTF	Valkyrie Bitcoin Strategy ETF
+BTGD	Stkd Bitcoin & Gold ETF
+BTLN	The Glimpse Group Inc
+BTMD	Biote Corp
+BTOC	Armlogi Holding Corp
+BTQ	Btq Technologies Corp
+BTSG	Brightspring Health Services Inc
+BTSGU	Brightspring Health Services Tangible Equity
+BTTC	Black Titan Corp
+BTZRF	Bitzero Holdings Inc.
+BUFC	Ab Conservative Buffer ETF
+BUFI	Ab International Buffer ETF
+BUFM	Ab Moderate Buffer ETF
+BUG	GX Cybersecurity ETF
+BULD	Pacer Bluestar Engineering The Future ETF
+BULG	Leverage Shares 2X Long Bull Daily ETF
+BULL	Webull Corp Cl A
+BULLW	Webull Corp WT
+BUSE	First Busey Corp
+BUSEP	First Busey Corp
+BUUU	BuUU Group Limited Class A Ordinary Share
+BVC	Bitventures Limited
+BVFL	Bv Financial Inc MD
+BVS	Bioventus Inc Cl A
+BWAY	Brainsway Ltd ADR
+BWB	Bridgewater Bancshares Inc
+BWBBP	Bridgewater Bancshares ADR
+BWEN	Broadwind Energy Inc
+BWFG	Bankwell Financial
+BWIN	The Baldwin Insurance Group Inc
+BWMN	Bowman Consulting Group Ltd
+BXBL	Fg Merger II Corp
+BYAH	Park Ha Biological Technology Co. Ltd
+BYFC	Broadway Fin Corp
+BYND	Beyond Meat Inc
+BYRN	Byrna Technologies Inc
+BYSI	Beyondspring Inc
+BZ	Kanzhun Ltd ADR
+BZAI	Blaize Holdings Inc
+BZAIW	Blaize Holdings Inc WT
+BZFD	Buzzfeed Inc
+BZFDW	Buzzfeed Inc WT
+BZUN	Baozun Inc ADR
+CAAS	China Automotive Sys
+CABA	Cabaletta Bio Inc
+CABR	Caring Brands Inc
+CAC	Camden Natl Corp
+CACC	Credit Acceptance
+CADL	Candel Therapeutics Inc
+CAES	Cantor Equity Partners Vii Inc Cl A
+CAFG	Pacer US Smallcap Cash Cows Growth Leaders ETF
+CAI	Caris Life Sciences Inc
+CAIIU	Collective Acquisition Corp. II Units
+CAIIW	Collective Acquisition II WT
+CAIQ	Calamos Nasdaq Autocallable Income ETF
+CAKE	Cheesecake Fact
+CALC	Calcimedica Inc
+CALI	Ishares Short-Term California Muni Active ETF
+CALM	Cal-Maine Foods IN
+CAMP	Camp4 Therapeutics Corp
+CAMT	Camtek Ltd
+CAN	Canaan Inc ADR
+CANC	Tema Oncology ETF
+CANQ	Calamos Alternative Nasdaq & Bond ETF
+CAPN	Cayson Acquisition Corp
+CAPNR	Cayson Acquisition Corp Right
+CAPNU	Cayson Acquisition Corp Units
+CAPR	Capricor Therap
+CAPS	Capstone Therapeutics Corp
+CAQ	Cambridge Acquisition Corp Cl A
+CAQUU	Cambridge Acquisition Corp
+CAQUW	Cambridge Acquisition Corp WT
+CAR	Avis Budget Group
+CARE	Carter Bankshares Inc
+CARG	Cargurus Inc Cl A
+CARL	Carlsmed Inc
+CARM	Carisma Therapeutics Inc
+CART	Maplebear Inc [Instacart]
+CARV	Carver Bancorp Inc
+CARY	Angel Oak Income ETF
+CARZ	Nasdaq Global Auto Index Fund
+CASH	Pathward Financial Inc
+CASS	Cass Information Sys
+CAST	Chinacast Education Corp.
+CASY	
+CATG	Leverage Shares 2X Long Cat Daily ETF
+CATH	GX S&P 500 Catholic Values ETF
+CATL	
+CATLR	
+CATLU	Catalyst Acquisition Corp. Units
+CATY	Cathay Genl Bncp
+CBAT	Cbak Energy Technology Inc
+CBC	Central Bancompany Inc Cl A
+CBFV	Cb Financial Svc
+CBIO	Crescent Biopharma Inc
+CBK	Commercial Bancgroup Inc
+CBLL	Ceribell Inc
+CBNK	Capital Bancorp Inc
+CBRL	Cracker Barrel
+CBRS	Cerebras Systems Inc Cl A
+CBSH	Commerce Bancshares
+CBUS	Cibus Inc
+CCAP	Crescent Capital Bdc Inc
+CCAQ	Dune Acquisition Corporation II Cl A
+CCAQW	Dune Acquisition Corporation II Warrants
+CCB	Coastal Financial Corp
+CCBG	Capital City Bank Gr
+CCC	CCC Intelligent Solutions Hldgs Inc
+CCCC	C4 Therapeutics Inc
+CCCT	Columbus Circle Capital Corp III Cl A
+CCCTU	Columbus Circle Capital Corp III Units
+CCCTW	Columbus Circle Capital Corp III Warrants
+CCD	Calams Dy Cnv IN
+CCEC	Capital Clean Energy Carriers Corp
+CCEP	Coca-Cola Europacific Partners Plc
+CCFE	Concourse Capital Focused Equity ETF
+CCG	Cheche Group Inc Cl A
+CCGWW	Cheche Group Inc WT
+CCHH	Cch Holdings Ltd
+CCII	Cohen Circle Acquisition Corp. II Cl A
+CCIIU	Cohen Circle Acquisition Corp. II
+CCIIW	Cohen Circle Acquisition Corp. II WT
+CCLD	Carecloud Inc
+CCML	
+CCNE	Cnb Financial Corp
+CCNEP	Cnb Financial Corp
+CCNR	Corecommodity Natural Resources ETF
+CCOI	Cogent Comm Hlds
+CCSB	Carbon Collective Short Duration Green Bond ETF
+CCSI	Consensus Cloud Solutions
+CCSO	Climate Solutions U.S. Equity ETF
+CCTG	Ccsc Technology International Holdings Limited
+CCXI	Chemocentryx Inc
+CCXIU	Churchill Capital Corp Xi Units
+CCXIW	Churchill Capital Corp Xi WT
+CD	Chindata Group Holdings Ltd ADR
+CDC	Victory US Eqty Income Ehnd Vol Wtd ETF
+CDIG	City Different Investments Global Equity ETF
+CDIO	Cardio Diagnostics Hldgs Inc
+CDIOW	Cardio Diagnostics Hldgs Inc WT
+CDL	Victory US Largecap HI Div Vol Wtd ETF
+CDLX	Cardlytics Inc
+CDNA	Caredx Inc
+CDNS	Cadence Design Sys
+CDRO	Codere Online Luxembourg S.A.
+CDROW	Codere Online Luxembourg S.A. WT
+CDT	Cdt Equity Inc
+CDTG	Cdt Environmental Technology Investment
+CDTTW	Conduit Pharmaceuticals Inc WT
+CDW	CDW Corp
+CDXS	Codexis Inc
+CDZI	Cadiz Inc
+CDZIP	Cadiz Inc
+CECO	Ceco Environmental Corp
+CEFA	GX S&P Catholic Values Devd Ex-U.S. ETF
+CEG	Constellation Energy Corp
+CELC	Celcuity Inc
+CELH	Celsius Holdings Inc
+CELU	Celularity Inc
+CELZ	Creative Medical Technology Holdings Inc
+CENN	Cenntro Inc
+CENT	Central Garden
+CENTA	Central Garden & Pet
+CENX	Century Aluminum C
+CEPF	Cantor Equity Partners IV Cl A
+CEPI	Rex Crypto Equity Premium Income ETF
+CEPO	Cantor Equity Partners I Cl A
+CEPS	Cantor Equity Partners VI Inc
+CEPV	Cantor Equity Partners V Inc Cl A
+CERO	Cero Terapeutics Hldg Inc
+CEROW	Cero Therapeutics Wts 29
+CERS	Cerus Corp
+CERT	Certara Inc
+CETX	Cemtrex Inc
+CETY	Clean Energy Technologies Inc
+CEVA	Ceva Inc
+CFA	Victory US 500 Vol ETF
+CFBK	Central Fed Corp
+CFFI	C&F Financial Corp
+CFFN	Capitol Fed Finl Inc
+CFG-PH	
+CFO	Victory US 500 Ehnd Vol Wtd ETF
+CG	The Carlyle Group
+CGABL	The Carlyle Group Inc 4.625%
+CGBD	Carlyle Secured Lending Inc
+CGC	Canopy Growth Corp
+CGCF	
+CGCFU	Cartesian Growth Corporation IV Units
+CGCFW	
+CGEM	Cullinan Therapeutics Inc
+CGEN	Compugen Ltd
+CGNT	Cognyte Software Ltd
+CGNX	Cognex Corp
+CGO	Calamos Glb Ttl Rtn
+CGON	Cg Oncology Inc
+CGPT	Vegashares AI Inference ETF
+CGTL	Creative Global Technology Ltd
+CGTX	Cognition Therapeutics Inc
+CHA	Chagee Holdings Limited ADR
+CHAI	Core AI Holdings Inc
+CHAR	Charlton Aria Acquisition Corp Cl A
+CHARR	Charlton Aria Acquisition Corp Rights
+CHCI	Comstock Hlds Cos
+CHCO	City Holding Company
+CHDN	Churchill Downs IN
+CHEC	Chenghe Acquisition III Co. Cl A
+CHECW	Chenghe Acquisition III Co. Warrants
+CHEF	The Chefs Warehouse
+CHGA	Avalon Globocare
+CHGX	Diversified U.S. Large Cap Fossil Fuel ETF
+CHI	Calamos Cv Opp & Inc
+CHIP	VERICHIP CORP
+CHKP	Check Point Software
+CHMG	Chemung Financial Corp
+CHNR	China Natural Res
+CHPG	Championsgate Acquisition Corp Cl A
+CHPGR	Championsgate Acquisition Corporation Rights
+CHPGU	Championsgate Acquisition Corp
+CHPS	Xt Semiconductor Select Equity ETF
+CHPX	GX AI Semiconductor & Quantum ETF
+CHR	Cheer Holding Inc
+CHRD	Chord Energy Corp
+CHRI	GX S&P 500 Christian Values ETF
+CHRN	Ekso Bionics Holdings Inc
+CHRS	Coherus Oncology Inc
+CHRW	C.H. Robinson Ww
+CHSCL	CHS B Cum Pfd Srs 4
+CHSCM	CHS Pfd Clb Ser3
+CHSCN	CHS Inc Pfd B Srs 2
+CHSCO	CHS Inc Cl B Pfd
+CHSCP	CHS Inc
+CHSN	Chanson International Holding Cl A
+CHTR	Charter Communications Inc
+CHTRP	
+CHW	Calamos Gbl Dyn Inc
+CHY	Calamos Cv & High IN
+CHYM	Chime Financial Inc Cl A
+CIBR	Nasdaq Cybersecurity ETF
+CIFG	Leverage Shares 2X Long Cifr Daily ETF
+CIFR	Cipher Mining Inc
+CIGI	Colliers Intl Grp IN
+CIGL	Concorde International Group Ltd Cl A
+CIIT	Tianci International Inc
+CINF	Cincinnati Financial
+CING	Cingulate Inc
+CINGW	Cingulate Inc WT
+CIRC	JPM Sustainable Consumption ETF
+CISO	Ciso Global Inc
+CISS	C3Is Inc
+CIVB	Civista Bncshrs
+CJMB	Callan Jmb Inc
+CLAR	Clarus Corp
+CLBK	Columbia Financial Inc
+CLBT	Cellebrite Di Ltd
+CLDX	Celldex Therapeutics
+CLFD	Clearfield Inc
+CLGN	Collplant Biotechnologies Ltd ADR
+CLIK	Click Holdings Limited
+CLIR	Clearsign Combustion
+CLLS	Cellectis S.A. ADR
+CLMB	Climb Global Solutions Inc
+CLMT	Calumet Inc
+CLNE	Clean Energy Fuels
+CLNN	Clene Inc
+CLOA	Blackrock AAA Clo ETF
+CLOD	Themes Cloud Computing ETF
+CLOU	GX Cloud Computing ETF
+CLOV	Clover Health Investments Corp
+CLPS	Clps Incorp
+CLPT	Clearpoint Neuro Inc
+CLRB	Cellectar Biosciences Inc
+CLRO	Clearone Inc
+CLSK	Cleanspark Inc
+CLSKW	Cleanspark Inc WT
+CLSM	Cabana Target Leading Sector Moderate ETF
+CLST	Catalyst Bancorp Inc
+CLWT	Euro Tech Holdings
+CLYM	Climb Bio Inc
+CMBO	Wayfinder Dynamic U.S. Interest Rate ETF
+CMCO	Columbus Mckinnon
+CMCSA	Comcast Corp A
+CMCT	Creative Media & Community Trust Corp
+CME	CME Group Inc
+CMMB	Chemomab Therapeutics Ltd ADR
+CMND	Clearmind Medicine Inc
+CMPR	Cimpress N.V. Ord
+CMPS	Compass Pathways Plc ADR
+CMPX	Compass Therapeutics Inc
+CMRC	Commerce One Inc
+CMTL	Comtech Telecom Company
+CNCK	Coincheck Group N.V.
+CNCKW	Coincheck Group N.V. Warrants
+CNDT	Conduent Inc
+CNET	Zw Data Action Tech Inc
+CNEY	Cn Energy Group Inc
+CNOB	Connectone Bancorp
+CNOBP	Connectone Bancorp Inc
+CNQQ	Rayliant-Chinaamc Transformative China Tech ETF
+CNSP	Cns Pharmaceuticals Inc
+CNSY	Plus Therapeutics Inc
+CNTB	Connect Biopharma Holdings Ltd ADR
+CNTN	Tharimmune Inc
+CNTX	Context Therapeutics Inc
+CNTY	Century Casinos IN
+CNVS	Cineverse Corp
+CNXC	Concentrix Corp
+CNXN	PC Connection Inc
+CNXU	Conexeu Sciences Inc
+COAG	Hemab Therapeutics Holdings Inc
+COCH	Envoy Medical Inc
+COCHW	Envoy Medical Inc WT
+COCO	The Vita Coco Company Inc
+COCP	Cocrystal Pharma Inc
+CODA	Coda Octopus Group
+CODX	Co-Diagnostics Inc New
+COFS	Choiceone Financial
+COGT	Cogent Biosciences Inc
+COHU	Cohu Inc
+COIG	Leverage Shares 2X Long Coin Daily ETF
+COIN	Coinbase Global Inc Cl A
+COKE	Coca-Cola Consolidated Inc
+COLA	Columbus Acquisition Corp
+COLAR	Columbus Acquisition Corp Rights
+COLAU	Columbus Acquisition Corp
+COLB	Columbia Banking Sys
+COLL	Collegium Pharma
+COLM	Columbia Sprtswr
+COMT	Commodities Select Strategy Ishares ETF
+CONI	Graniteshares -2X Short Coin Daily ETF
+CONL	Graniteshares 2X Long Coin Daily ETF
+CONX	Conx Corp Cl A
+COO	Cooper Companies
+COOL	Corner Growth Acquisition Corp Cl A
+COOT	Australian Oilseeds Holdings Ltd
+COOTW	Australian Oilseeds Holdings WT
+COPJ	Sprott Junior Copper Miners ETF
+COPP	Sprott Copper Miners ETF
+CORO	Ishares International Country Rotation Active Et
+CORT	Corcept Therapeutics
+CORZ	Core Scientific Inc
+CORZW	Core Scientific Tranche 1 Warrants
+CORZZ	Core Scientific Tranche 2 Warrants
+COSM	Cosmos Health Inc
+COST	Costco Wholesale
+COTG	Leverage Shares 2X Long Cost Daily ETF
+COWG	Pacer US Large Cap Cash Cows Growth Leaders ETF
+COWS	Amplify Cash Flow Dividend Leaders ETF
+COYA	Coya Therapeutics Inc
+COYY	Graniteshares Yieldboost Coin ETF
+CPAG	F/M Compoundr U.S. Aggregate Bond ETF
+CPB	Campbell Soup Company
+CPBI	Central Plains Bancshares Inc
+CPHC	Canterbury Park Hl
+CPHY	F/M Compoundr High Yield Bond ETF
+CPIX	Cumberland Pharmaceu
+CPLS	Ab Core Plus Bond ETF
+CPOP	Pop Culture Group Company Cl A
+CPRT	Copart Inc
+CPSH	Cps Technologies
+CPSS	Consumer Portfol
+CPTL	GX Conscious Companies ETF
+CPZ	Calamos Long/Short Equity & Dynamic Income Trust
+CRAC	Crown Reserve Acquisition Corp. I Cl A
+CRACR	Crown Reserve Acquisition Corp. I Rights
+CRACU	Cal Redwood Acquisition Corp
+CRACW	Crown Reserve Acquisition Corp I WT
+CRAI	Cra International
+CRAM	
+CRAN	Crown Andersen Inc.
+CRANR	Crane Harbor Acquisition II Rights
+CRANU	Crane Harbor Acquisition Corp. II Units
+CRAQ	Cal Redwood Acquisition Corp. Cl A
+CRAQR	Cal Redwood Acquisition Corp. Right
+CRAQU	Cal Redwood Acquisition Corp. Units
+CRBP	Corbus Pharmaceuticals Hldgs Inc
+CRBU	Caribou Biosciences Inc
+CRCG	Leverage Shares 2X Long Crcl Daily ETF
+CRCT	Cricut Inc Cl A
+CRDF	Cardiff Oncology Inc
+CRDL	Cardiol Therapeutics
+CRDO	Credo Technology Group Holding Ltd
+CRE	Cre8 Enterprise Limited Cl A
+CREG	Smart Power Corp
+CRESY	Cresud Sacif ADR
+CREX	Creative Realities Inc
+CRGO	Freightos Limited
+CRGOW	Freightos Limited Warrants
+CRIS	Curis Inc
+CRMD	Cormedix Inc
+CRMG	Leverage Shares 2X Long Crm Daily ETF
+CRML	Critical Metals Corp
+CRMLW	Critical Metals Corp WT
+CRMT	
+CRMU	Leverage Shares 2X Long Crml Daily ETF
+CRNC	Cerence Inc
+CRNT	Ceragon Networks Ltd
+CRNX	Crinetics Pharmaceuticals Inc
+CROB	
+CRON	Cronos Group Inc
+CROX	Crocs Inc
+CRSP	Crispr Therapeutics Ag
+CRSR	Corsair Gaming Inc
+CRTO	Criteo S.A. ADR
+CRUS	Cirrus Logic Inc
+CRVL	Corvel Corp
+CRVO	Cervomed Inc
+CRVS	Corvus Pharma Com
+CRWD	Crowdstrike Holdings Inc
+CRWG	Leverage Shares 2X Long Crwv Daily ETF
+CRWL	Graniteshares 2X Long Crwd Daily ETF
+CRWS	Crown Crafts Inc
+CRWV	Coreweave Inc Cl A
+CRY	GraniteShares YieldBoost Crcl ETF
+CSAI	Cloudastructure Inc Cl A
+CSB	Victory US Smallcap HI Div Vol Wtd ETF
+CSBR	Champions Oncolog
+CSCL	Direxion Daily Csco Bull 2X ETF
+CSCO	Cisco Systems Inc
+CSCS	Direxion Daily Csco Bear 1X ETF
+CSEN	Cohen & Steers Future of Energy Active ETF
+CSGP	Costar Group Inc
+CSHR	Coinshares Plc
+CSHRW	Coinshares Plc Warrants
+CSIQ	Canadian Solar Inc
+CSPI	C S P Inc
+CSQ	Calamos Strgc Ttl Rt
+CSTE	Caesarstone Sdot-Yam
+CSTL	Castle Biosciences Inc
+CSWC	Capital Southwest
+CSX	CSX Corp
+CTAA	Clearthink 1 Acquisition Corp Cl A
+CTAAR	Clearthink 1 Acquisition Corp Rights
+CTAAU	Clearthink 1 Acquisition Corp. Units
+CTAS	Cintas Corp
+CTBI	Community TR Bancp
+CTEC	Gx Cleantech ETF
+CTKB	Cytek Biosciences Inc
+CTMX	Cytomx Thera
+CTNM	Contineum Therapeutics Inc
+CTNT	Cheetah Net Supply Chain Service Inc Cl A
+CTOR	Citius Oncology Inc
+CTRM	Castor Maritime Inc
+CTRN	Citi Trends Inc
+CTSH	Cognizant Tech Sol
+CTSO	Cytosorbents Cor
+CTW	Ctw Cayman Cl A
+CTXR	Citius Pharmaceuticals Inc
+CUB	Lionheart Holdings Cl A
+CUBWU	Lionheart Holdings
+CUBWW	Lionheart Holdings WT
+CUE	Cue Biopharma Inc
+CUPR	Cuprina Holdings [Cayman] Limited
+CURI	Curiositystream Inc
+CURR	Currenc Group Inc
+CURX	Curanex Pharmaceuticals Inc
+CUVL	Clinuvel Pharmaceuticals Ltd ADR
+CV	Capsovision Inc
+CVBF	Cvb Financial Corp
+CVCO	Cavco Inds Inc
+CVGI	Commercial Vehicle G
+CVKD	Cadrenal Therapeutics Inc
+CVLT	Commvault Systems
+CVRX	Cvrx Inc
+CVV	CVD Equipment Corp
+CWBC	Community West Bank
+CWCO	Cons Water Inc
+CWD	Calibercos Inc Cl A
+CWEN-A	
+CWST	Casella Waste Sys
+CWY	GraniteShares YieldBoost CRWV ETF
+CXAI	Cxapp Inc
+CXAIW	Cxapp Inc WT
+CXDO	Crexendo Inc
+CXIIU	Churchill Capital Corp Xii Units
+CXIIW	Churchill Capital Corp Xii Warrants
+CXSE	Wisdomtree China Ex-Cso Fund
+CYAB	Cyabra Inc
+CYCN	Cyclerion Therapeutics Inc
+CYCU	Cycurion Inc
+CYCUW	Cycurion Inc WT
+CYN	Cyngn Inc
+CYPH	Leap Therapeutics Inc
+CYRX	Cryoport Inc
+CYTK	Cytokinetics
+CZFS	Citizens Fincl Svcs
+CZNC	Citizens Nrthn Corp
+CZR	Caesars Entertainment Inc
+CZWI	Citizens Community
+DAAQ	Digital Asset Acquisition Corp. Cl A
+DAAQU	Digital Asset Acquisition Corp. Units
+DAAQW	Digital Asset Acquisition Corp. WT
+DADS	Digital Asset Debt Strategy ETF
+DAIC	Cid Holdco Inc
+DAICW	Cid Holdco Inc Warrants
+DAIO	Data I O Corp
+DAK	Dakota Active Equity ETF
+DAKT	Daktronics Inc
+DALI	FT Dorseywright Dali 1 ETF
+DAPP	Vaneck Digital Transformation ETF
+DARE	Dare Bioscience Inc
+DASH	Doordash Inc Cl A
+DAVE	Dave Inc
+DAVEW	Dave Inc WT
+DAX	GX DAX Germany ETF
+DBCA	D. Boral Acquisition I Corp. Cl A
+DBCAU	D. Boral Acquisition I Corp
+DBCAW	D. Boral Acquisition I Corp. Warrants
+DBGI	Digital Brands Group Inc
+DBVT	Dbv Technologies ADR
+DBX	Dropbox Inc
+DC-WT	
+DCAP	Unity Wealth Capital Appreciation & Options ETF
+DCBO	Docebo Inc
+DCGO	Docgo Inc.
+DCOM	Dime Community Bancshares Inc
+DCOY	Decoy Therapeutics Inc
+DCTH	Delcath Systems Inc
+DCX	Digital Currency X Technology Inc
+DDI	Doubledown Interactive ADR
+DDIV	FT High Income ETF
+DDOG	Datadog Inc Cl A
+DECO	SPDR Galaxy Digital Asset Ecosystem ETF
+DEFT	DeFi Technologies Inc
+DEMZ	Demz Political Contributions ETF
+DERM	Journey Medical Corp
+DFDV	DeFi Development Corp
+DFDVW	DeFi Development Corp. WT
+DFGP	Dimensional Global Core Plus Fixed Income ETF
+DFGX	Dimensional Global Ex US Core Fixed Income ETF
+DFLI	Dragonfly Energy Hldgs Corp
+DFLIW	Dragonfly Energy Hldgs Corp WT
+DFNS	T3 Defense Inc
+DFNSW	T3 Defense Inc WT
+DFSC	Defsec Technologies Inc
+DFSCW	Defsec Technologies Inc WT
+DFTX	Definium Therapeutics Inc
+DGCB	Dimensional Global Credit ETF
+DGICA	Donegal Group Cl A
+DGICB	Donegal Group Cl B
+DGII	Digi Intl Inc
+DGLO	First Trust Rba Deglobalization ETF
+DGNX	Diginex Limited
+DGRE	Wisdomtree EM Quality Divd Growth Fund
+DGRS	Wisdomtree US Smallcap Quality Dvid Fund
+DGRW	Wisdomtree U.S. Quality Dividend Growth Fund
+DGXX	Digi Power X Inc
+DH	DeFinitive Healthcare Corp Cl A
+DHC	Diversified Healthcare Trust
+DHCNI	Diversified Healthcare Trust
+DHCNL	Diversified Healthcare Trust
+DIBS	1stdibs.com Inc
+DICE	Dice Therapeutics Inc
+DIME	Coinshares Altcoins ETF
+DINE	Rewards Network Inc.
+DIOD	Diodes Inc
+DIVD	Altrius Global Dividend ETF
+DJCO	Daily Journal Corp
+DJT	Trump Media & Technology Group Corp
+DJTWW	Trump Media & Technology Group Corp WT
+DKI	Darkiris Inc Cl A
+DKNG	Draftkings Inc
+DLCU	U.S. Large Company Portfolio ETF Shares
+DLHC	Dlh Holdings Corp
+DLLL	Graniteshares 2X Long Dell Daily ETF
+DLO	Dlocal Ltd Cl A
+DLPN	Dolphin Entertainment Inc
+DLTH	Duluth Holdings Cl B
+DLTR	Dollar Tree Inc
+DLXY	Delixy Holdings Limited
+DMAA	Drugs Made IN America Acquisition Corp
+DMAAR	Drugs Made IN America Acquisition Corp. Rights
+DMAAU	Drugs Made IN America Acquisition Corp
+DMAC	Diamedica Therapeutics Inc
+DMII	Drugs Made IN America Acquisition II
+DMIIR	Drugs Made IN America Acquisition II
+DMIIU	Drugs Made IN America Acquisition II Corp
+DMLP	Dorchester Minerals
+DMRA	Damora Therapeutics Inc
+DMRC	Digimarc Corp
+DMXF	Ishares ESG Advanced MSCI EAFE ETF
+DMYY-WT	
+DNLI	Denali Therapeutics Inc
+DNMX	Dynamix Corporation III Cl A
+DNMXU	Dynamix Corporation III
+DNMXW	Dynamix Corporation III Warrants
+DNTH	Dianthus Therapeutics Inc
+DNUT	Krispy Kreme Inc
+DOCU	Docusign Inc
+DOGZ	Dogness Corp Cl A
+DOMH	Dominari Holdings Inc
+DOO	Brp Inc
+DORM	Dorman Products Inc
+DOX	Amdocs Ltd Ord
+DOYU	Douyu International Holdings Ltd ADR
+DPRO	Draganfly Inc
+DPU	Top Kingwin Ltd Cl A
+DPZ	
+DRCT	Direct Digital Holdings Inc Cl A
+DRDB	Roman Dbdr Acquisition Corp. II
+DRDBW	Roman Dbdr Acquisition Corp. II WT
+DRIO	Dario Health Corp
+DRIV	GX Autonomous & Electric Vehicles ETF
+DRK	
+DRK	Sphere 3D Corp
+DRMA	Dermata Therapeutics Inc
+DRNZ	Rex Drone ETF
+DRS	Leonardo Drs Inc
+DRTS	Alpha Tau Medical Ltd Cl A
+DRTSW	Alpha Tau Medical Ltd WT
+DRUG	Bright Minds Biosciences Inc
+DRVN	Driven Brands Holdings Inc
+DSAC	Duddell Street Acquisition Corp Cl A
+DSACW	Duddell Street Acquisition Corp WT
+DSC	Dsc Holdings Ltd American Depositary Shares
+DSGN	Design Therapeutics Inc
+DSGR	Distribution Solutions Group Inc
+DSGX	Descartes Sys Group
+DSP	Viant Technology Inc
+DSWL	Deswell Inds Inc
+DSY	Big Tree Cloud Holdings Limited
+DSYWW	Big Tree Cloud Holdings WT
+DTCR	GX Data Center & Digital Infrastructure ETF
+DTCX	Datacentrex Inc
+DTI	Drilling Tools International Corp
+DTIL	Precision Biosciences Inc
+DTSQ	Dt Cloud Star Acquisition Corp
+DTSQR	Dt Cloud Star Acquisition Right
+DTSQU	Dt Cloud Star Acquisition Corporation Units
+DTSS	Datasea Inc
+DTST	Data Storage Corp
+DUKH	Ocean Park High Income ETF
+DUKRW	Duke Robotics Corp. WT
+DUKX	Ocean Park International ETF
+DUO	Fangdd Network Group Ltd ADR
+DUOG	Leverage Shares 2X Long Duol Daily ETF
+DUOL	Duolingo Inc Cl A
+DUOT	Duos Technologies Group Inc
+DUSG	U.S. Small Cap Growth Portfolio ETF Class Share
+DVAL	Brandywineglobal Dynamic US Large Cap Value ETF
+DVGR	Dac 3D Dividend Growth ETF
+DVLT	Datavault AI Inc
+DVLU	FT Momentum & Value ETF
+DVOL	FT Momentum & Low Volatility ETF
+DVQQ	Webs Defined Volatility QQQ ETF
+DVSP	Webs Defined Volatility Spy ETF
+DVY	Select Dividend Ishares ETF
+DWAS	DWA Smallcap Momentum Invesco ETF
+DWAW	Advisorshares Fsm All Cap World ETF
+DWSH	Advisorshares D.W. Short -1X ETF
+DWSN	Dawson Geophscl
+DWTX	Dogwood Therapeutics Inc
+DWUS	Advisorshares Dorsey Wright Fsm US Core ETF
+DXCM	Dexcom Inc
+DXLG	Destination XL Group
+DXPE	Dxp Enterprise
+DXR	Daxor Corp
+DXST	Decent Holding Inc
+DYAI	Dyadic International
+DYFI	Idx Dynamic Fixed Income ETF
+DYN	Dyne Therapeutics Inc
+DYNB	Hartford Dynamic Bond ETF
+DYNC	Dynamix Corporation
+DYNCU	Dynamix Corporation
+DYNCW	Dynamix Corporation WT
+DYOR	Insight Digital Partners II Cl A
+DYORW	Insight Digital Partners II Warrants
+DYTA	Sgi Dynamic Tactical ETF
+EART	GX Rare Earth & Critical Materials ETF
+EASY	EASYLINK SVCS CP
+EBAY	Ebay Inc
+EBC	Eastern Bankshares Inc
+EBI	Rbb Longview Advantage ETF
+EBIZ	GX E-Commerce ETF
+EBMT	Eagle Bancorp [Mt]
+EBON	Ebang International Holdings Cl A
+ECBK	ECB Bancorp Inc
+ECHO	Echo Global Logistic
+ECHX	Leverage Shares 2X Long Sats Daily ETF
+ECOR	Electrocore Inc
+ECOW	Pacer Emerging Markets Cash Cows 100 ETF
+ECPG	Encore Capital Group
+ECX	Ecarx Holdings Inc Cl A
+ECXWW	Ecarx Holdings Inc WT
+EDBL	Edible Garden Ag Inc
+EDBLW	Edible Garden Ag Inc WT
+EDHL	Everbright Digital Holding Limited
+EDIT	Editas Medicine
+EDRY	Eurodry Ltd
+EDSA	Edesa Biotech Inc
+EDTK	Skillful Craftsman Education Technology Ltd
+EDUC	Educational Dev Corp
+EDVA	
+EEE	Cyber Hornet S&P 500 and Ethereum 75/25 Strategy
+EEFT	Euronet Worldwide
+EEIQ	Epicquest Education Group Intl Ltd
+EEMA	Emrg Mkts Asia Ishares MSCI ETF
+EFAS	GX MSCI Superdividend EAFE ETF
+EFC-PD	
+EFOI	Energy Focus Inc
+EFRA	Ishares Environmental Infra and Industrials ETF
+EFSC	Enterprises Finl Svc
+EFSCP	Enterprise Financial Services Corp ADR
+EFSI	Eagle Financial Services Inc
+EGAN	Egain Corp
+EGBN	Eagle Bancorp Inc
+EGGQ	Nestyield Visionary ETF
+EGHA	Egh Acquisition Corp. Cl A
+EGHAR	Egh Acquisition Corp. Rights
+EGHT	8X8 Inc
+EH	Ehang Holdings Ltd ADR
+EHGO	Eshallgo Inc Cl A
+EHLD	Euroholdings Ltd
+EHLS	Even Herd Long Short ETF
+EHTH	Ehealth Inc
+EIKN	Eikon Therapeutics Inc
+EJH	E-Home Household Service Holdings Ltd
+EKG	Nasdaq Lux Digital Health Solutions ETF
+ELAB	Pmgc Holdings Inc
+ELBM	Electra Battery Materials Corp
+ELDN	Eledon Pharmaceuticals Inc
+ELE	Elemental Royalty Corp
+ELFY	Alps Electrification Infrastructure ETF
+ELIL	Direxion Daily Lly Bull 2X Shares
+ELMT	The Elmet Group Co.
+ELOG	Eastern International Ltd
+ELOL	Leverage Shares 100% Tsla and 100% Spcx Daily Et
+ELOX	Eloxx Pharmaceuticals Inc
+ELOXD	Eloxx Pharmaceuticals, Inc.
+ELPW	Elong Power Holding Cl A
+ELTK	Eltek Ltd
+ELTX	Elicio Therapeutics Inc
+ELUT	Elutia Inc
+ELVA	Electrovaya Inc
+ELVN	Enliven Therapeutics Inc
+ELVR	Sayona Mining Limited ADR
+ELWT	Elauwit Connection Inc
+EMAT	Evolution Metals & Technologies Corp
+EMB	JPM USD Emerging Markets Bond ETF
+EMBC	Embecta Corp
+EMCB	Wisdomtree Emerging Markets Corporate Bond Fund
+EMEQ	Macquarie Focused Emerging Markets Equity ETF
+EMIF	Emrg Mkts Infrastructure Ishares ETF
+EMIS	EMISPHERE TECHNOLOGIES INC
+EMISR	Emmis Acquisition Corp. Rights
+EML	Eastern Company
+EMPD	Empery Digital Inc
+EMSC	Sophus Capital Emerging Market Small Cap ETF
+EMXC	Emrg Mkts Ex China Ishares MSCI ETF
+EMXF	Ishares ESG Advanced MSCI EM ETF
+ENDW	Cambria Endowment Style ETF
+ENGN	Engene Holdings Inc
+ENGNW	Engene Holdings WT
+ENGS	Energys Group Limited
+ENHE	
+ENHI	Ishares Enhanced International Active ETF
+ENHU	Ishares Enhanced Large Cap Core Active ETF
+ENLT	Enlight Renewable Energy Ltd
+ENLV	Enlivex Therapeutics Ltd
+ENPH	Enphase Energy Inc
+ENRD	Einride Ab ADR
+ENRDW	Einride Ab WT
+ENSC	Ensysce Biosciences Inc
+ENSG	The Ensign Group IN
+ENTA	Enanta Pharmaceutica
+ENTG	Entegris Inc
+ENTX	Entera Bio Ltd
+ENVB	Enveric Biosciences Inc
+ENVX	Enovix Corp
+ENZL	New Zealand Ishares MSCI ETF
+EOCN	Galmed Pharmaceutica
+EOLS	Evolus Inc
+EONR-WT	
+EOSE	Eos Energy Enterprises Inc
+EOSEW	Eos Energy Enterprises Inc WT
+EPOW	Sunrise New Energy Ltd
+EPRX	Eupraxia Pharmaceuticals Inc
+EPSM	Epsium Enterprise Limited
+EPSN	Epsilon Energy
+EQ	Equillium Inc
+EQIX	Equinix Inc
+EQPT	Equipmentshare.com Inc
+EQQQ	Proshares Ultra QQQ Equal Weight
+EQRR	Equities For Rising Rates ETF
+EQV-UN	
+ERAS	Erasca Inc
+ERET	Ishares Environmentally Aware Real Estate ETF
+ERIC	Ericsson ADR
+ERIE	Erie Indemnity Company
+ERII	Energy Recovery Inc
+ERNA	Ernexa Therapeutics Inc
+ERNAW	Ernexa Therapeutics Inc Warrants
+ESCA	Escalade Inc
+ESEA	Euroseas Ltd
+ESGD	EAFE ESG Optimized Ishares MSCI ETF
+ESGE	Emrg Mkts ESG Optimized Ishares MSCI ETF
+ESGU	USA ESG Optimized Ishares MSCI ETF
+ESLA	Estrella Immunopharma Inc
+ESLAW	Estrella Immunopharma Inc WT
+ESLT	Elbit Systems Ltd
+ESMV	Ishares ESG MSCI USA Min Vol Factor ETF
+ESN	Essential 40 Stock ETF
+ESOA	Energy Services Acquisition Corp
+ESPO	Vaneck Video Gaming and Esports ETF
+ESQ	Esquire Financial Holdings Inc
+ESTA	Establishment Labs Holdings Inc
+ESYN	Hwh International Inc
+ET-PI	
+ETEC	Ishares Breakthrough Environmental Solutions ETF
+ETHA	Ishares Ethereum Trust ETF
+ETHB	Ishares Staked Ethereum Trust ETF
+ETON	Eton Pharmaceutcials Inc
+ETOR	Etoro Group Ltd Cl A
+ETRA	
+ETS	Elite Express Holding Inc Cl A
+ETSY	Etsy Inc
+EU	Encore Energy Corp
+EUDA	Euda Health Holdings Ltd
+EUDAW	Euda Health Holdings Ltd WT
+EUFN	Europe Financials Ishares MSCI ETF
+EURK	Eureka Acquisition Corp Cl A
+EURKR	Eureka Acquisition Corp Right
+EVAX	Evaxion A/S ADR
+EVCM	Evercommerce Inc
+EVCOU	
+EVER	Everquote Inc Cl A
+EVGN	Evogene Ltd Ord
+EVGO	Evgo Inc
+EVLV	Evolv Technologies Hldgs Inc
+EVMT	Invesco Electric Vehicle Metals Commodity Strate
+EVO	Evotec Se
+EVOX	Evolution Global Acquisition Corp Cl A
+EVOXU	Evolution Global Acquisition Corp Units
+EVOXW	Evolution Global Acquisition Corp WT
+EVPF	Ev Preferred Securities and Income ETF
+EVRG	Evergy Inc
+EVSD	Eaton Vance Short Duration Income ETF
+EVYM	Eaton Vance High Income Municipal ETF
+EWAV	
+EWAVR	
+EWAVU	East West Ave Acquisition Corp. Units
+EWBC	East West Bancorp
+EWJV	Ishares MSCI Japan Value ETF
+EWTX	Edgewise Therapeutics Inc
+EWZS	Brazil Smallcap Ishares MSCI ETF
+EXC	Exelon Corp
+EXE	Expand Energy Corporation
+EXEL	Exelixis Inc
+EXFY	Expensify Inc Cl A
+EXLS	Exlservice Holdings
+EXOZ	Exozymes Inc
+EXPE	Expedia Group Inc
+EXPO	Exponent Inc
+EXTR	Extreme Networks
+EXUS	Macquarie Focused International Core ETF
+EXYN	Exyn Technologies Inc
+EXYNW	Exyn Technologies Inc WT
+EYE	National Vision Holdings Inc
+EYEG	Ab Corporate Bond ETF
+EYPT	Eyepoint Pharmaceuticals Inc
+EZGO	Ezgo Technologies Ltd
+EZMO	Alphadroid Broad Markets Momentum ETF
+EZPW	Ezcorp Inc
+EZRA	Reliance Global Group
+EZRO	Alphadroid Defensive Sector Rotation ETF
+FA	First Advantage Corp
+FAAA	Fidelity AAA Clo ETF
+FAAR	Alternative Absolute Return Strategy ETF FT
+FAB	Multicap Value Alphadex Fund FT
+FABC	Stablex Technologies Inc
+FAC	Cartesian Growth Corporation III Cl A
+FACT	Fact II Acquisition Corp. Cl A
+FACTW	Fact II Acquisition Corp. WT
+FACWW	Cartesian Growth Corporation III WT
+FAD	Multicap Growth Alphadex Fund FT
+FALN	US Fallen Angels Ishares ETF
+FAMI	Farmmi Inc
+FANG	Diamondback Energy
+FAST	Fastenal Company
+FATE	Fate Therapeutics
+FATN	Fatpipe Inc
+FBDT	
+FBGL	Fbs Global Limited
+FBIO	Fortress Biotech Inc
+FBIOP	Fortress Biotech Inc 9.375% Series A Cumulativ
+FBIZ	First Business Finan
+FBL	Graniteshares 2X Long Meta Daily ETF
+FBLA	Fb Bancorp Inc
+FBLG	Fibrobiologics Inc
+FBNC	First Bancorp [Nc]
+FBOT	Fidelity Disruptive Automation ETF
+FBYD	
+FBYDW	Falcon's Beyond Global WT
+FBYY	Graniteshares Yieldboost Meta ETF
+FCA	China Alphadex Fund FT
+FCAL	California Municipal High Income ETF FT
+FCAP	First Capital Inc
+FCBC	First Community Bksh
+FCCO	First Community Corp
+FCEF	CEF Income Opportunity ETF FT
+FCEL	Fuelcell Energy Inc
+FCFS	Firstcash Holdings Inc
+FCHL	Fitness Champs Holdings Limited
+FCLO	Fidelity Clo ETF
+FCNCA	First Citizens Bancs
+FCNCN	First Citizens Bancshares Inc
+FCNCO	First Citizens Bancshares Inc 5.625% Non-Cumula
+FCNCP	First Citizens Bancshares
+FCTE	Smi 3Fourteen Full-Cycle Trend ETF
+FCUV	Focus Universal Inc
+FCVT	Ssi Strategic Convertible Securities ETF FT
+FCXG	Leverage Shares 2X Long Fcx Daily ETF
+FDBC	Fidelity D & D Bancorp Inc
+FDCF	Fidelity Disruptive Communications ETF
+FDFF	Fidelity Disruptive Finance ETF
+FDIF	Fidelity Disruptors ETF
+FDIG	Fidelity Crypto Industry Digital Payments ETF
+FDIQ	Invesco Bloomberg Financial Data Providers ETF
+FDIV	Marketdesk Focused U.S. Dividend ETF
+FDMM	Freedom Metals Acquisition Corp. Cl A
+FDMMU	Freedom Metals Acquisition Corp. Units
+FDMMW	Freedom Metals Acquisition Corp WT
+FDMT	4D Molecular Therapeutics Inc
+FDNI	FT DJ International Internet ETF
+FDRS	Founder-Led ETF
+FDRX	Founder-Led 2X Daily ETF
+FDSB	Fifth District Bancorp Inc
+FDT	Dev Mkts Ex-US Alphadex Fund FT
+FDTS	Dev Mkts Ex-US Small Cap Alphadex Fund FT
+FDTX	Fidelity Disruptive Technology ETF
+FDUS	Fidus Investment Cor
+FEAM	5E Advanced Materials Inc
+FEBO	Fenbo Holdings Limited
+FEED	Agfeed Industries
+FEIM	Frequency Elcts Inc
+FELE	Franklin Electric Company
+FEM	Emrg Mkts Alphadex Fund FT
+FEMB	Emrg Mkts Local Currency Bond ETF FT
+FEMS	Emrg Mkts Small Cap Alphadex Fund FT
+FEMY	Femasys Inc
+FENC	Fennec Pharmaceuticals Inc
+FEP	Europe Alphadex Fund FT
+FEPI	Rex Fang & Innovation Equity Premium Income ETF
+FER	Ferrovial Se
+FERA	Fifth Era Acquisition Corp I Cl A
+FERAR	Fifth Era Acquisition Corp I Rights
+FERAU	Fifth Era Acquisition Corp I Units
+FEUZ	Eurozone Alphadex Fund FT
+FEX	Largecap Core Alphadex Fund FT
+FFAI	Faraday Future Intelligent Electric Inc
+FFBC	First Finl Bncp [Oh]
+FFIN	First Finl Bkshs Inc
+FFIV	F5 Inc
+FFR	Aixcrypto Holdings Inc
+FFUT	Fidelity Managed Futures ETF
+FGBI	First Gurty Banc
+FGBIP	First Guaranty Bancshares [Hammond La]
+FGC	Fg Nexus Inc
+FGCPP	Fundamental Global Inc Pfd
+FGI	Fgi Industries Ltd
+FGII	Fg Imperii Acquisition Corp. Cl A
+FGIIU	Fg Imperii Acquisition Corp. Units
+FGIIW	Fg Imperii Acquisition Corp. WT
+FGIWW	Fgi Industries Ltd WT
+FGL	Founder Group Limited
+FGM	Germany Alphadex Fund FT
+FGO	FG Holdings Limited
+FGSI	FT Vest Growth Strength & Target Income ETF
+FHB	First Hawaiian Inc
+FHTX	Foghorn Therapeutics Inc
+FIBK	First Interstate Ban
+FICS	FT Intl Developed Capital Strength ETF
+FID	FT S&P Intl Dividend Aristocrats ETF
+FIEE	Fiee Inc
+FIGG	Leverage Shares 2X Long Fig Daily ETF
+FIGR	Figure Technology Solutions Inc Cl A
+FIGX	Figx Capital Acquisition Corp Cl A
+FIGXU	Figx Capital Acquisition Corp. Units
+FIGXW	Figx Capital Acquisition Corp WT
+FINW	Finwise Bancorp
+FINX	GX Fintech ETF
+FINY	GraniteShares YieldBoost Financials ETF
+FIP	Ftai Infrastructure Inc
+FIRY	
+FISI	Financial Institut
+FISN	Deep Fission Inc
+FISV	Fiserv Inc
+FITB	Fifth Third Bancorp
+FIVE	Five Below Inc
+FIVN	Five9 Inc
+FIXD	Tcw Opportunistic Fixed Income ETF FT
+FIYY	GraniteShares YieldBoost 20Y Treasuries ETF
+FIZZ	Natl Beverage Corp
+FJDI	
+FJDIR	
+FJDIU	Arc Group Securities Acquisition I Units
+FJDIW	
+FJP	Japan Alphadex Fund FT
+FKU	UK Alphadex Fund FT
+FKWL	Franklin Wireless Co.
+FLD	Fold Holdings Inc Cl A
+FLDB	Fidelity Low Duration Bond ETF
+FLDDW	Ftac Emerald Acquisition Corp WT
+FLEX	Flextronics Intl Ltd
+FLG-PA	
+FLGT	Fulgent Genetics Inc
+FLL	Full House Rsts
+FLN	Latin America Alphadex Fund FT
+FLNA	Cassava Sciences Inc
+FLNC	Fluence Energy Inc Cl A
+FLNT	Fluent Inc
+FLUX	Flux Power Holdings Inc
+FLWS	1-800-Flowers.com
+FLX	Bingex Limited ADR
+FLXS	Flexsteel Inds
+FLY	Firefly Aerospace Inc
+FLYE	Fly-E Group Inc
+FLYW	Flywire Corp Voting
+FLYX-WT	
+FLZH	Urban-Gro Inc
+FMAC	Future Money Acquisition Corp
+FMACR	Future Money Acquisition Corp Rights
+FMACU	Future Money Acquisition Corp
+FMAO	Farmers & Merch Banc
+FMB	Managed Municipal ETF FT
+FMBH	First Mid Ill Bncshr
+FMED	Fidelity Disruptive Medicine ETF
+FMET	Fidelity Metaverse ETF
+FMFC	Kandal M Venture Limited Cl A
+FMHI	FT Municipal High Income ETF
+FMNB	Farmers Natl Banc Corp
+FMST	Foremost Clean Energy Ltd
+FMSTW	Foremost Lithium Resource & Technology Ltd WT
+FMTM	Marketdesk Focused U.S. Momentum ETF
+FMUB	Fidelity Municipal Bond Opportunities ETF
+FMUN	Fidelity Systematic Municipal Bond Index ETF
+FNGR	Fingermotion Inc
+FNK	Midcap Value Alphadex Fund FT
+FNKO	Funko Inc Cl A
+FNLC	First Bancorp Inc
+FNUC	Snow Lake Resources Ltd
+FNWB	First Nw Banc
+FNWD	Finward Bancorp
+FNX	Midcap Core Alphadex Fund FT
+FNY	Midcap Growth Alphadex Fund FT
+FOCL	Edap Tms Sa ADR
+FOFO	Hang Feng Technology Innovation Co. Ltd
+FORM	Formfactor Inc
+FORR	Forrester Resrch
+FORTY	Formula Sys [1985] ADR
+FOSL	Fossil Group
+FOX	Fox Corp Cl B
+FOXA	Fox Corp Cl A
+FOXF	Fox Factory Corp
+FOXX	Foxx Development Holdings Inc
+FOXXW	Foxx Development Holdings Inc WT
+FPA	Asia Pacific Ex-Japan Alphadex Fund FT
+FPXE	FT Ipox Europe Equity Opportunities ETF
+FPXI	FT Intl Equity Opportunities ETF
+FRAF	Franklin Finl Svcs Corp
+FRBA	First Bank
+FRBT	Forbright Inc
+FRD	Friedman Industries Inc
+FREI	Fidelity Real Estate Income ETF
+FRGT	Freight Technologies Inc
+FRHC	The Awareness Group
+FRME	First Merchants Corp
+FRMEP	First Merchants Corp ADR
+FRMI	Fermi Inc
+FRMM	Ethzilla Corporation
+FRNM	Freenome Inc
+FROG	Jfrog Ltd
+FRPH	Frp Holdings Inc
+FRPT	Freshpet Inc CS
+FRSH	Freshworks Inc Cl A
+FRST	Primis Financial Corp
+FRSX	Foresight Autonomous Holdings Ltd ADR
+FRVO	Fervo Energy Company Cl A
+FRWD	Nomura Transformational Technologies ETF
+FSBC	Five Star Bancorp
+FSBW	FS Bancorp Inc
+FSCS	Midcap US Equity Select ETF FT
+FSEA	First Seacoast Bancorp Inc
+FSGS	FT Smid Growth Strength ETF
+FSHP	Flag Ship Acquisition Corp
+FSHPR	Flag Ship Acquisition Corp. Right
+FSLR	First Solar Inc
+FSLY	Fastly Inc
+FSTB	Fidelity Short-Term Bond ETF
+FSTR	Foster L B Company
+FSUN	Firstsun Capital Bancorp
+FSV	Firstsrvce Sub VT Sh
+FSZ	Switzerland Alphadex Fund FT
+FTA	Largecap Value Alphadex Fund FT
+FTAG	Indxx Global Agriculture ETF FT
+FTAI	Ftai Aviation Ltd
+FTAIM	Ftai Aviation Ltd 9.500% Series D
+FTC	Largecap Growth Alphadex Fund FT
+FTCI	Ftc Solar Inc
+FTCS	Capital Strength ETF FT
+FTDR	Frontdoor Inc
+FTDS	Dividend Strength ETF FT
+FTEK	Fuel Tech Inc
+FTFT	Future Fintech Group Inc
+FTG	
+FTGC	Global Tactical Commodity Strategy Fund FT
+FTGS	FT Growth Strength ETF
+FTH	Sensei Biotherapeutics Inc
+FTHA	Forefront Tech Holdings Acqu Cl A
+FTHAU	Forefront Tech Holdings Acquisition Corp
+FTHAW	Forefront Tech Holdings Acqu WT
+FTHI	High Income ETF FT
+FTHM	Fathom Holdings Inc
+FTLF	Fitlife Brands Inc
+FTNT	Fortinet Inc
+FTQI	Low Beta Income ETF FT
+FTRE	Fortrea Holdings Inc
+FTRI	Indxx Global Natural Resources Income ETF FT
+FTSL	Senior Loan ETF FT
+FTSM	Enhanced Short Maturity ETF FT
+FTXG	Nasdaq Food & Beverage ETF
+FTXH	Nasdaq Pharmaceuticals ETF
+FTXL	Nasdaq Semiconductor ETF
+FTXN	Nasdaq Oil & Gas ETF
+FTXO	Nasdaq Bank ETF
+FTXR	Nasdaq Transportation ETF
+FUFU	Bitfufu Inc Cl A
+FUFUW	Bitfufu Inc WT
+FULC	Fulcrum Therapeutics Inc
+FULT	Fulton Financial Cor
+FULTP	Fulton Financial Corp
+FUNC	First United Corp
+FUND	Sprott Focus Trust
+FUSB	First US Bancshares Inc
+FUSE	Fusemachines Inc
+FUSEW	Fusemachines Inc Warrants
+FUTG	Leverage Shares 2X Long Futu Daily ETF
+FUTU	Futu Holdings Ltd ADR
+FV	Dorsey Wright Focus 5 ETF FT
+FVAV	Fortress Value Acquisition Corp. V Cl A
+FVC	Dorsey Wright Dynamic Focus 5 ETF FT
+FVCB	Fvcbankcorp Inc
+FVN	Future Vision II Acquisition Corp
+FVNNR	Future Vision II Acquisition Corporation Right
+FVNNU	Future Vision II Acquisition Units
+FWAC	Fifth Wall Acquisition Corp III Cl A
+FWACR	Futurewave Acquisition Corporation Rights
+FWACU	Futurewave Acquisition Corporation Units
+FWACW	Futurewave Acquisition Corporation Warrants
+FWDI	Forward Industries Inc
+FWONA	Liberty Media Formula One Sr A
+FWONK	Liberty Media Formula One Sr C
+FWRD	Foward Air Corp
+FWRG	First Watch Restaurant Group Inc
+FXAC	Fortunex Acquisition Corp
+FXACU	Fortunex Acquisition Corporation Units
+FXACW	Fortunex Acquisition Corporation WT
+FXHO	Utime Ltd
+FXNC	First Natl Corp Strasburg VA
+FYC	Smallcap Growth Alphadex Fund FT
+FYT	Smallcap Value Alphadex Fund FT
+FYX	Smallcap Core Alphadex Fund FT
+GABC	German Amer Bncp Inc
+GAIA	Gaiam Inc
+GAIN	Gladstone Investment
+GAING	Gladstone Investment Corp 7.125%
+GAINI	Gladstone Investment Corporation 7.875%
+GAINZ	Gladstone Investment Corp 4.875%
+GALT	Galectin Therapeutic
+GAME	Gamesquare Holdings Inc
+GANX	Gain Therapeutics Inc
+GARY	Mango Growth ETF
+GASS	Stealthgas Inc
+GAUZ	Gauzy Ltd
+GAVA	Grayscale Avalanche Trust ETF
+GBDC	Golub Capital Bdc
+GBFH	Gbank Finl Hldgs
+GBLI	Global Indemnity Plc
+GBUG	Sprott Active Gold & Silver Miners ETF
+GCBC	Greene County Bncp
+GCGRU	General Catalyst Global Resilience Merger Corp.
+GCGRW	General Catalyst Global Resilience Merger WT
+GCL	Gcl Global Holdings Ltd
+GCLWW	Gcl Global Holdings Ltd Warrants
+GCMG	Gcm Grosvenor Inc
+GCT	Gigacloud Technology Inc Cl A
+GCTK	Glucotrack Inc
+GDC	Gd Culture Group Ltd
+GDEV	Gdev Inc
+GDHG	Golden Heaven Group Holdings Ltd
+GDRX	Goodrx Holdings Inc Cl A
+GDS	Gds Holdings Ltd ADR
+GDTC	Cytomed Therapeutics Limited
+GDYN	Grid Dynamics Holdings Inc
+GECC	Great Elm Capital Corp
+GECCG	Great Elm Capital Corp. 7.75%
+GECCH	Great Elm Capital Corp 8.125%
+GECCI	Great Elm Capital Corp. 8.50% Notes Due 2029
+GEG	Great Elm Group Inc
+GEGGL	Great Elm Group Inc 7.25% Notes Due 2027
+GEHC	GE Healthcare Technologies Inc
+GELS	Gelteq Limited
+GEME	Pacific North of South EM Equity Active ETF
+GEMG	Leverage Shares 2X Long Gemi Daily ETF
+GEMI	Gemini Space Station Inc Cl A
+GEMQ	
+GEN	Gen Digital Inc
+GENB	Generate Biomedicines Inc
+GENK	Gen Restaurant Group Inc Cl A
+GENVR	Gen Digital Inc Contingent Value Rights
+GENZ	Genzyme Corp.
+GEOS	Geospace Technologie
+GEQ	Cambria Global EW 2 ETF
+GERN	Geron Corp
+GEVG	Leverage Shares 2X Long Gev Daily ETF
+GEVO	Gevo Inc
+GEW	Cambria Global EW ETF
+GFAI	Guardforce AI Company
+GFAIW	Guardforce AI Company WT
+GFGF	Guru Favorite Stocks ETF
+GFLW	Victoryshares Free Cash Flow Growth ETF
+GFS	Globalfoundries Inc
+GFUZ	Starboard Value Acquisition Corp Cl A
+GFUZW	Starboard Value Acquisition Corp WT
+GGAL	Grupo Fin Galicia ADR
+GGLBP	Alphabet Inc. Dep Shs RP 1/20TH Int Mandatory Conv Pfd Series B
+GGLL	Googl Bull 2X ETF Direxion
+GGLS	Googl Bear -1X ETF Direxion
+GGR	Gogoro Inc
+GGROW	Gogoro Inc WT
+GH	Guardant Health Inc
+GHRS	Gh Research Plc
+GHXI	
+GHXIU	Gores Holdings Xi Inc Units
+GHXIW	
+GIBO	Gibo Holdings Limited Cl A
+GIBOW	Gibo Holdings Limited Warrants
+GIEQ	GS Data Enhanced International Equity ETF
+GIFT	Giftify Inc
+GIGM	Gigamedia Ltd
+GIII	G-III Apparel Gp
+GILD	Gilead Sciences Inc
+GILT	Gilat Satellite Ntwk
+GIND	Goldman Sachs India Equity ETF
+GINX	Sgi Enhanced Global Income ETF
+GIPR	Generation Income Properties Inc
+GIPRW	Generation Income Properties Inc WT
+GITS	Global Interactive Technologies Inc
+GIW	Giginternational1 Inc
+GIWWR	Gigcapital8 Corp. Rights
+GIWWU	Giginternational1 Inc Units
+GIXI	
+GIXXR	Gigcapital9 Corp. Rights
+GKAT	Scharf Global Opportunity ETF
+GLAD	Gladstone Cap Corp
+GLBE	Global-E Online Ltd
+GLBS	Globus Maritime Limi
+GLBZ	Glen Burnie Bancorp
+GLCR	Glaciershares Nasdaq Iceland ETF
+GLDB	Gold Banc Corporation Inc.
+GLDI	CS X-Links Gold Share
+GLE	Global Engine Group Holding Limited
+GLGG	Leverage Shares 2X Long Glxy Daily ETF
+GLIBA	Gci Liberty Inc Series A Gci
+GLIBK	Gci Liberty Inc Series C Gci
+GLMD	Galmed Pharmaceutica
+GLND	Greenland Energy CO
+GLNDW	Greenland Energy Company WT
+GLNG	Golar Lng Ltd
+GLOO	Gloo Holdings Inc
+GLOW	Victoryshares Westend Global Equity ETF
+GLPI	Gaming & Leisure
+GLRE	Greenlight Cap. Re.
+GLSI	Greenwich Lifesciences Inc
+GLUE	Monte Rosa Therapeutics Inc
+GLWG	Leverage Shares 2X Long Glw Daily ETF
+GLXG	Galaxy Payroll Group Limited
+GLXY	Galaxy Digital Holdings
+GMAB	Genmab A/S ADR
+GMEX	Fitell Corp
+GMHS	Gamehaus Holdings Inc Cl A
+GMM	Global Mofy AI Limited
+GNL-PD	
+GNL-PE	
+GNLN	Greenlane Holdings Inc Cl A
+GNLX	Genelux Corp
+GNMA	GNMA Bond Ishares ETF
+GNOM	GX Genomics & Biotechnology ETF
+GNPX	Genprex Inc
+GNSS	Genasys Inc
+GNTA	Genenta Science S.P.A. ADR
+GNTX	Gentex Corp
+GO	Grocery Outlet Holding Corp
+GOGO	Gogo Inc
+GOLI	DeFiance Gold Enhanced Options Income ETF
+GOOD	Gladstone Comml
+GOODN	Gladstone Commercial Corp Prf Perpetual USD 25 S
+GOODO	Gladstone Commercial Corp 6.00% Series G
+GOOG	Alphabet Cl C
+GOOGL	Alphabet Cl A
+GOOGM	Alphabet Inc Pfd
+GOOGN	Alphabet Inc Pfd
+GOSS	Gossamer Bio Inc
+GOU	Graniteshares 2X Long Googl Daily ETF
+GOVI	Invesco Equal Weight 0-30 Year Treasury ETF
+GOVX	Geovax Labs
+GOW	
+GP	Greenpower Motor Company
+GPAC	Global Partner Acquisition Corp II Cl A
+GPACU	Global Partner Acquisition Corp II
+GPACW	Global Partner Acquisition Corp II WT
+GPAT	Gp-Act III Acquisition Corp Cl A
+GPATU	Gp-Act III Acquisition Corp. Units
+GPATW	Gp-Act III Acquisition Corp WT
+GPCR	Structure Therapeutics Inc
+GPIQ	GS Nasdaq-100 Core Premium Income ETF
+GPIX	GS S&P 500 Core Premium Income ETF
+GPRE	Green Plains Inc
+GPRF	GS U.S. Preferred Stock and Hybrid Securities Et
+GPRO	Gopro Inc Cl A
+GPT	Intelligent Livermore ETF
+GPUS-PD	
+GQQQ	Astoria US Quality Growth Kings ETF
+GRAB	Grab Holdings Ltd Cl A
+GRABW	Grab Holdings Ltd WT
+GRAL	Grail Inc
+GRAN	Grande Group Limited Cl A
+GRCE	Grace Therapeutics Inc
+GRDX	Entero Therapeutics Inc
+GREEL	Greenidge Generation Holdings Inc 8.50%
+GRFS	Grifols S.A. ADR
+GRI	Gri Bio Inc
+GRID	Nasdaq Smart Grid Infrastructure ETF
+GRIN	Victoryshares International Free Cash Flow Growt
+GRML	Greenland Mines Ltd
+GRMLW	Greenland Mines Ltd WT
+GRNQ	Greenpro Capital Corp
+GROW	U S Global Inv Inc
+GROY-WT	
+GRP-UN	
+GRPN	Groupon Cl A
+GRRR	Gorilla Technology Group Inc
+GRRRW	Gorilla Technology Group Inc WT
+GRSD	Gambling.com Group Ltd
+GRVY	Gravity Ltd ADR
+GRW	Tcw Compounders ETF
+GRWG	Growgeneration Corp
+GSAT	Globalstar
+GSBC	Great Southern Bncp
+GSGO	Goldman Sachs Growth Opportunities ETF
+GSHD	Goosehead Insurance Inc Cl A
+GSHR	Gesher Acquisition Corp. II Cl A
+GSHRW	Gesher Acquisition Corp. II Warrants
+GSIB	Themes Global Systemically Important Banks ETF
+GSIT	Gsi Technology Inc
+GSIW	Garden Stage Limited
+GSM	Ferroglobe Plc Os
+GSOL	Grayscale Solana Staking ETF
+GSRF	Gsr IV Acquisition Corp Cl A
+GSRFR	Gsr IV Acquisition Corp Rights
+GSRV	Gsr V Acquisition Corp. Cl A
+GSRVR	Gsr V Acquisition Corp. Rights
+GSRVU	Gsr V Acquisition Corp. Units
+GSUN	Golden Sun Health Technology Group Ltd
+GT	Goodyear Tire Rubber
+GTBP	GT Biopharma Inc
+GTEC	Greenland Technologies Holding Corp
+GTEN	Gores Holdings X Inc Cl A
+GTENU	Gores Holdings X Inc Units
+GTENW	Gores Holdings X Inc Warrants
+GTERA	Globa Terra Acquisition Corporation Cl A
+GTERR	Globa Terra Acquisition Corporation Rights
+GTERU	Globa Terra Acquisition Corporation Units
+GTERW	Globa Terra Acquisition Corporation Warrants
+GTIM	Good Times Rest
+GTLB	Gitlab Inc Cl A
+GTM	Zoominfo Technologies Inc Cl A
+GTOP	GENITOPE CORPORATION
+GTOQ	Invesco High Yield Systematic Bond ETF
+GTPE	GS MSCI World Private Equity Return Tracker ETF
+GTR	Wisdomtree Target Range Fund
+GTX	Garrett Motion Inc
+GUAC	Berto Acquisition Corp. II
+GUACU	Berto Acquisition Corp. II Units
+GUACW	Berto Acquisition Corp. II Warrants
+GURE	Gulf Resources Inc
+GUSE	Goldman Sachs Enhanced U.S. Equity ETF
+GUTS	Fractyl Health Inc
+GVH	Globavend Holdings Limited Ord Shares
+GVLE	Goldman Sachs Value Opportunities ETF
+GWAV	Greenwave Technology Solutions Inc
+GWRS	Global Water Reso
+GXAI	Gaxos.Ai Inc
+GXDW	Gx Dorsey Wright Thematic ETF
+GYGY	Game Your Game Inc
+GYRE	Gyre Therapeutics Inc
+GYRO	Gyrodyne Llc
+HACQ	Hcm IV Acquisition Corp Cl A
+HACQU	Hcm IV Acquisition Corp
+HACQW	Hcm IV Acquisition Warrants
+HAFC	Hanmi Financial Corp
+HAIN	Hain Celestial Group
+HALO	Halozyme Therapeutic
+HAO	Haoxi Health Technology Limited Class A Ord Shar
+HAPN	Happen Inc
+HAS	Hasbro Inc
+HAVAR	Harvard Ave Acquisition Corp
+HAVAU	Harvard Ave Acquisition Corp
+HBAN	Huntington Bancshares Inc
+HBANL	Huntington Bancshares Inc
+HBANM	Huntington Bancshares Inc ADR
+HBANP	Huntington Bancshares Inc
+HBANZ	Huntington Bancshares ADR
+HBCP	Home Bancorp Inc
+HBDC	Hilton Bdc Corporate Bond ETF
+HBIO	Harvard Bioscience
+HBNB	Hotel101 Global Holdings Corp. Cl A
+HBNC	Horizon Bancorp
+HBR	Canary Hbar ETF
+HBT	Hbt Financial Inc
+HCAC	Hall Chadwick Acquisition Corp. Cl A
+HCACR	Hall Chadwick Acquisition Corp. Rights
+HCACU	Hall Chadwick Acquisition Corp
+HCAI	Hauchen AI Parking Management Ltd
+HCAT	Health Catalyst Inc
+HCIC	Hennessy Capital Investment Corp V Cl A
+HCICR	Hennessy Capital Investment ViII
+HCICU	Hennessy Capital Investment Corp V Units
+HCKT	Hackett Grp Inc
+HCM	Hutchmed China Ltd ADR
+HCMA	Hcm III Acquisition Corp. Cl A
+HCMAU	Hcm III Acquisition Corp. Units
+HCMAW	Hcm III Acquisition Corp. WT
+HCOW	Amplify Cows Covered Call ETF
+HCSG	Healthcare Svcs Gp
+HCTI	Healthcare Triangle Inc
+HCWB	Hcw Biologics Inc
+HDL	Super HI International Holding Ltd ADR
+HDRN	Gigcapital7 Corp. Cl A
+HDRNW	Gigcapital7 Corp. WT
+HDSN	Hudson Tech Inc
+HEAL	GX Healthtech ETF
+HECO	SPDR Galaxy Hedged Digital Asset Ecosystem ETF
+HELE	Helen of Troy Ltd
+HELP	Cybin Inc
+HEPS	D-Market Electronic Services & Trading ADR
+HEQQ	JPM Nasdaq Hedged Equity Laddered Overlay ETF
+HERD	Pacer Cash Cows Fund of Funds ETF
+HERE	Here Group Ltd ADR
+HERO	GX Video Games & Esports ETF
+HERZ	Herzfeld Credit Income Fund Inc
+HFBL	Home Federal Bancorp Inc
+HFFG	HF Foods Group Inc
+HFSP	Tradersai Large Cap Equity & Cash ETF
+HFWA	Heritage Financial
+HGBL	Heritage Global Inc
+HHS	Harte-Hanks
+HIDE	Ea Architect High Inflation and Deflation ETF
+HIFS	Hingham Inst For Svg
+HIHO	Highway Hlds Ltd
+HIMX	Himax Technologies ADR
+HIMZ	DeFiance Daily Target 2X Long Hims ETF
+HIND	Vyome Holdings Inc
+HIS	Humilis US Focused Opportunities ETF
+HISF	Strategic Income ETF FT
+HIT	Health IN Tech Inc Cl A
+HITI	High Tide Inc
+HIVE	Hive Digital Technologies Ltd
+HKIT	Hitek Global Inc Ordinary Share
+HKPD	Hong Kong Pharma Digital Technology Ltd
+HLAL	Wahed FTSE USA Shariah ETF
+HLIT	Harmonic Inc
+HLMN	Hillman Solutions Corp
+HLNE	Hamilton Lane Inc Cl A
+HLP	Hongli Group Inc
+HLSQ	
+HLTH	Cue Health Inc
+HMH	Hmh Holding Inc
+HMR	Heidmar Maritime Holdings Corp
+HMYY	Graniteshares Yieldboost Hims ETF
+HNDL	Strategy Shares Nasdaq 7Handl ETF
+HNNA	Hennessy Advisors
+HNRG	Hallador Energy Company
+HNST	The Honest Company
+HNVR	Hanover Bancorp Inc
+HODO	Brag House Holdings Inc
+HODU	Direxion Daily Hood Bull 2X ETF
+HOFT	Hooker Furnishings Corp
+HOLO	Microcloud Hologram Inc
+HOLOW	Microcloud Hologram Inc WT
+HON	Honeywell International Inc
+HONA	Honeywell Aerospace Inc
+HOOD	Robinhood Markets Inc Cl A
+HOOG	Leverage Shares 2X Long Hood Daily ETF
+HOOX	DeFiance Daily Target 2X Long Hood ETF
+HOPE	Hope Bancorp Inc
+HOS	
+HOUR	Hour Loop Inc
+HOVNP	Hovnanian Entr Dep A
+HOVR	New Horizon Aircraft Ltd
+HOVRW	New Horizon Aircraft Ltd WT
+HOWL	Werewolf Therapeutics Inc
+HOYY	Graniteshares Yieldboost Hood ETF
+HPAI	Helport AI Limited
+HPAIW	Helport AI Limited Warrants
+HPK	Highpeak Energy Inc
+HQ	Horizon Quantum Holdings Ltd
+HQDG	
+HQGO	Hartford US Quality Growth ETF
+HQI	Hirequest Inc
+HQWWW	Horizon Quantum Holdings Ltd WT
+HQY	Healthequity
+HRMY	Harmony Biosciences Holdings Inc
+HROW	Harrow Inc
+HRTS	Tema Cardiovascular and Metabolic ETF
+HRTX	Heron Therapeutics
+HRZN	Horizon Technology F
+HSAI	Hesai Group ADR
+HSCS	Heartsciences Inc
+HSCSW	Heart Test Laboratories WT
+HSDT	Solana Company
+HSIC	Henry Schein Inc
+HST	Host Marriott Financial Trust
+HSTM	Healthstream Inc
+HTCO	High-Trend International Group
+HTCR	Heartcore Enterprises Inc
+HTFL	Heartflow Inc
+HTHT	H World Group Ltd
+HTLD	Heartland Express
+HTLM	Homestolife Ltd
+HTO	H2O America
+HTOO	Fusion Fuel Green Plc
+HTZ	Hertz Global Holdings Inc
+HTZWW	Hertz Global Hldgs Inc WT
+HUBC	Hub Cyber Security Ltd
+HUBCW	Hub Cyber Security WT
+HUBCZ	Hub Cyber Security WT
+HUBG	Hub Group Inc A
+HUCK	Domo Inc Cl B
+HUDI	Huadi International Group Ltd
+HUHU	Huhutech International Group Inc
+HUIZ	Huize Holding Ltd ADR
+HUMA	Humacyte Inc
+HURA	Tuhura Biosciences Inc
+HURC	Hurco Cos Inc
+HURN	Huron Consulting
+HUT	Hut 8 Corp
+HUTG	Leverage Shares 2X Long Hut Daily ETF
+HVIIR	Hennessy Capital Investment Corp. Vii Rights
+HVIIU	Hennessy Capital Investment Corp. Vii
+HVMC	Highview Merger Corp. Class A Ordinary Share
+HVMCU	Highview Merger Corp. Units
+HVMCW	Highview Merger Corp. Warrants
+HWBK	Hawthorn Bancshares
+HWC	Hancock Whitney Corp
+HWCPZ	Hancock Whitney Corp 6.25%
+HWGV	
+HWIV	Hotchkis & Wiley International Value Fund
+HWKN	Hawkins Inc
+HWMV	
+HWO	Hotchkis & Wiley Opportunities Fund
+HWSM	Hotchkis & Wiley Smid Cap Diversified Value Fund
+HXHX	Haoxin Holdings Limited Cl A
+HYAC-UN	
+HYBI	Neos Enhanced Income Credit Select ETF
+HYDR	GX Hydrogen ETF
+HYFM	Hydrofarm Holdings Group Inc
+HYFT	Mindwalk Holdings Corp
+HYLS	Tactical High Yield ETF FT
+HYMC	Hycroft Mining Holding Corp
+HYNE	Hoyne Bancorp Inc
+HYP	Golden Eagle Dynamic Hypergrowth ETF
+HYPD	Hyperion Defi Inc
+HYPG	Grayscale Hyperliquid Staking ETF
+HYPR	Hyperfine Inc
+HYXF	High Yield Ex Oil and Gas Corp Bond Ishares Ibox
+HYZD	Wisdomtree Int Rate HI Yld Bond Hedged Fund
+IA	Innovative Solutions and Support
+IACO	Idea Acquisition Corp. Cl A
+IACOU	Idea Acquisition Corp. Units
+IACOW	Idea Acquisition Warrants
+IACQ	Irenic Acquisition Corp. Cl A
+IACQU	Irenic Acquisition Corp
+IACQW	Irenic Acquisition Corp. Warrants
+IALT	Ishares Systematic Alternatives Active ETF
+IART	Integra Lifesciences
+IBAC	Ib Acquisition Corp
+IBACR	Ib Acquisition Corp. Right
+IBAT	Ishares Energy Storage & Materials ETF
+IBB	Nasdaq Biotechnology Ishares ETF
+IBBQ	Invesco Nasdaq Biotechnology ETF
+IBCP	Independent Bank Corp
+IBEX	Ibex Ltd
+IBG	Innovation Beverage Group Limited
+IBGA	Ibonds Dec 2044 Term Treasury ETF
+IBGB	Ibonds Dec 2045 Term Treasury ETF
+IBGC	Ishares Ibonds Dec 2046 Term Treasury ETF
+IBGK	Ibonds Dec 2054 Term Treasury ETF
+IBGL	Ibonds Dec 2055 Term Treasury ETF
+IBGM	Ishares Ibonds Dec 2056 Term Treasury ETF
+IBIO	Ibio Inc
+IBIT	Ishares Bitcoin Trust ETF
+IBKR	Interactive Brokers
+IBOC	Intl Bancshares
+IBOT	Vaneck Robotics ETF
+IBRX	Immunitybio Inc
+IBTG	Ishares Ibonds Dec 2026 Term Treasury ETF
+IBTH	Ishares Ibonds Dec 2027 Term Treasury ETF
+IBTI	Ishares Ibonds Dec 2028 Term Treasury ETF
+IBTJ	Ishares Ibonds Dec 2029 Term Treasury ETF
+IBTK	Ishares Ibonds Dec 2030 Term Treasury ETF
+IBTL	Ishares Ibonds Dec 2031 Term Treasury ETF
+IBTM	Ishares Ibonds Dec 2032 Term Treasury ETF
+IBTO	Ishares Ibonds Dec 2033 Term Treasury ETF
+IBTP	Ibonds Dec 2034 Term Treasury ETF
+IBTQ	Ibonds Dec 2035 Term Treasury ETF
+IBTR	Ishares Ibonds Dec 2036 Term Treasury ETF
+ICCC	Immucell Corp
+ICCM	Icecure Medical Ltd Ord
+ICFI	Icf International
+ICG	Intchains Group Limited ADR
+ICHR	Ichor Holdings Ltd
+ICLN	Global Clean Energy Ishares ETF
+ICLR	Icon Plc
+ICMB	Investcorp Credit Management Bdc Inc
+ICMO	
+ICON	Icon Energy Corp
+ICOP	Ishares Copper and Metals Mining ETF
+ICU	Seastar Medical Hldg Corp
+ICUCW	Seastar Medical Hldg Corp WT
+ICUI	I C U Medical Inc
+IDAC	Iron Dome Acquisition I Corp. Cl A
+IDACU	Iron Dome Acquisition I Corp. Units
+IDACW	Iron Dome Acquisition I Corp. WT
+IDAI	T Stamp Inc
+IDCC	Interdigital Inc
+IDEF	Ishares Defense Industrials Active ETF
+IDIAU	FG Merger III Corp.
+IDN	Intellicheck Mobilisia
+IDVY	FT International Rising Dividend Achievers ETF
+IDXX	Idexx Laboratories
+IDYA	Ideaya Biosciences Inc
+IEAGR	Infinite Eagle Acquisition Corp. Rights
+IEAGU	Infinite Eagle Acquisition Corp
+IEF	7-10 Year Treasury Bond Ishares ETF
+IEI	3-7 Year Treas Bond Ishares ETF
+IEP	Icahn Enterprises
+IESC	Ies Holdings
+IEUS	Europe Smallcap Ishares MSCI ETF
+IFBD	Infobird Company Ltd
+IFGL	Intl Developed Real Estate Ishares ETF
+IFLO	Victoryshares International Free Cash Flow ETF
+IFRX	Fireman B.V.
+IFV	Dorsey Wright Intl Focus 5 ETF FT
+IGAC	Invest Green Acquisition Corporation Cl A
+IGACR	Invest Green Acquisition Corporation Rights
+IGACU	IG Acquisition Corp
+IGF	Global Infrastructure Ishares ETF
+IGIB	Interm Term Corp Bond Ishares ETF
+IGIC	International General Insurance Hldg Inc
+IGOV	Intl Treasury Bond Ishares ETF
+IGSB	Short-Term Corp Bond Ishares ETF
+IHRT	Iheartmedia Inc
+III	Information Svcs Group
+IIIV	I3 Verticals Inc Cl A
+IJT	S&P Smallcap 600 Growth Ishares ETF
+IKT	Inhibikase Therapeutics Inc
+ILAG	Intelligent Living Application Group Inc
+ILIT	Ishares Lithium Miners and Producers ETF
+ILLR	Triller Group Inc
+ILLRW	Triller Group Inc Wts
+ILLUW	Illumination Acquisition Corp I WT
+ILMN	Illumina Inc
+ILPT	Industrial Logistics Properties Trust
+IMA	Imagenebio Inc
+IMCC	IM Cannabis Corp
+IMCR	Immunocore Holdings Plc ADR
+IMCV	Mstar Midcap Value Ishares ETF
+IMDX	Insight Molecular Diagnostics Inc
+IMKTA	Ingles Markets Inc
+IMMP	Immutep Ltd ADR
+IMMR	Immersion Corp
+IMMX	Immix Biopharma Inc
+IMNM	Immunome Inc
+IMNN	Imunon Inc
+IMOM	Intl Quantitative Momentum ETF
+IMOS	Chipmos Tech ADR
+IMPP	Imperial Petroleum Inc
+IMPPP	Imperial Petroleum Inc 8.75% Series A Cumulative
+IMRN	Immuron Ltd ADR
+IMRX	Immuneering Corp Cl A
+IMSR	Terrestrial Energy Inc
+IMSRW	Terrestrial Energy Inc WT
+IMTE	Integrated Media Technology
+IMTX	Immatics NV
+IMUX	Immunic Inc
+IMVT	Immunovant Inc
+IMXI	International Money Express Inc
+INAB	In8Bio Inc
+INAC	Indigo Acquisition Corp
+INACR	Indigo Acquisition Corp. Right
+INBK	First Internet Bcp
+INBKZ	First Internet Bancorp 6.0% Fixed-To-Floating Ra
+INBS	Intelligent Bio Solutions Inc
+INBX	Inhibrx Biosciences Inc
+INCR	Intercure Ltd
+INCY	Incyte Corp
+IND	Xtrackers Nifty 500 India ETF
+INDB	Independent Bk Corp
+INDH	Wisdomtree India Hedged Equity Fund
+INDI	Indie Semiconductor Cl A
+INDP	Indaptus Therapeutics Inc
+INDQ	Pacer Activealpha India Quality ETF
+INDV	Indivior Plc
+INDY	India 50 Ishares ETF
+INEO	Inneova Holdings Limited
+INGN	Inogen Inc
+INHD	Inno Holdings Inc
+INIO	Innio Holding Gmbh
+INKT	Mink Therapeutics Inc
+INLF	Inlif Limited
+INM	Inmed Pharmaceuticals Inc
+INMB	Inmune Bio Inc
+INMD	Inmode Ltd
+INNV	Innovage Holding Corp
+INO	Inovio Pharma
+INOD	Innodata Inc
+INRO	Blackrock U.S. Industry Rotation ETF
+INSE	Inspired Entertainment Inc
+INSG	Inseego Corp
+INSM	Insmed Inc
+INTA	Intapp Inc
+INTC	Intel Corp
+INTG	Intergroup Corp
+INTJ	Intelligent Group Limited
+INTR	Inter Cl A
+INTS	Intensity Therapeutics Inc
+INTU	Intuit Inc
+INTW	Graniteshares 2X Long Intc Daily ETF
+INTZ	Intrusion Inc
+INV	Innventure Inc
+INVA	Innoviva Inc
+INVE	Identiv Inc
+INVZ	Innoviz Technologies Ltd
+IOND	Ionic Digital Inc Cl A
+IONL	Graniteshares 2X Long Ionq Daily ETF
+IONR	Ioneer Ltd ADR
+IONS	Ionis Pharmaceuticals
+IONX	DeFiance Daily Target 2X Long Ionq ETF
+IONZ	DeFiance Daily Target 2X Short Ionq ETF
+IOSP	Innospec Inc
+IOTR	Iothree Limited
+IOVA	Iovance Biotherapeutics Inc
+IOYY	Graniteshares Yieldboost Ionq ETF
+IPAR	Interparfums Inc
+IPDN	Professional Diversity Network Inc
+IPEX	Inflection Point Acquisition Corp V
+IPEXR	Inflection Point Acquisition Corp V Rights
+IPEXU	Maywood Acquisition Corp
+IPFX	Inflection Point Acquisition Corp VI Cl A
+IPFXU	Inflection Point Acquisition Corp VI
+IPFXW	Inflection Point Acquisition Corp VI WT
+IPGP	Ipg Photonics Corp
+IPHA	Innate Pharma S.A. ADR
+IPHXU	
+IPKW	Intl Buyback Achievers Invesco ETF
+IPM	Intelligent Protection Management Corp
+IPSC	Century Therapeutics Inc
+IPST	Ip Strategy Holdings Inc
+IPVV	Interprivate Investment Partners V Inc Cl A
+IPVVU	Interprivate Investment Partners V Inc
+IPVVW	Interprivate Investment Partners V WT
+IPW	Ipower Inc
+IPWR	Ideal Power Inc
+IPX	Iperionx Limited ADR
+IPXG	Cm Life Sciences II Inc Cl A
+IPXGW	Cm Life Sciences II Inc WT
+IQ	Iqiyi Inc ADR
+IQGR	
+IQMX	Iqm Quantum Computers Oyj ADR
+IQMXW	Iqm Quantum Computers Oyj WT
+IQQ	Ishares Nasdaq 100 ETF
+IQQQ	Proshares Nasdaq-100 High Income ETF
+IQST	Iqstel Inc
+IRD	Opus Genetics Inc
+IRDM	Iridium Comm Inc
+IREG	Leverage Shares 2X Long Iren Daily ETF
+IREN	Iren Limited
+IRHO	Iron Horse Acquisitions II Corp
+IRHOR	Iron Horse Acquisitions II Corp. Rights
+IRHOU	Iron Horse Acquisitions Corp. II Unit
+IRIX	Iridex Corp
+IRMD	Iradimed Corp
+IRON	Disc Medicine Inc
+IRTC	Irhythm Technologies Inc
+IRWD	Ironwood Pharmaceuti
+ISBA	Isabella Bank Corp
+ISHG	1-3 Year Intl Treas Bond Ishares ETF
+ISHP	S-Network E-Sommerce ETF FT
+ISNR	Snow Rothschild Acquisition Corp. Cl A
+ISNRU	Snow Rothschild Acquisition Corp
+ISNRW	Snow Rothschild Acquisition Corp. Warrants
+ISPC	Ispecimen Inc
+ISPR	Ispire Technology Inc
+ISRG	Intuitive Surg Inc
+ISRL	Israel Acquisitions Corp Cl A
+ISTB	1-5 Year USD Bond Ishares Core ETF
+ISTM	Ishares Transition-Enabling Metals ETF
+ISTR	Investar Holding
+ISUL	Graniteshares 2X Long Isrg Daily ETF
+ITG	Itg Inc Cl A
+ITHA	Ithax Acquisition Corp III Cl A
+ITHAU	Ithax Acquisition Corp III
+ITHAW	Ithax Acquisition Corp III Warrants
+ITIC	Investors Title Company
+ITOC	Itonic Holdings Ltd
+ITRI	Itron Inc
+ITRN	Ituran Location
+IUS	Invesco Strategic US ETF
+IUSB	USD Bond Market Total Ishares Core ETF
+IUSG	S&P US Growth Ishares Core ETF
+IUSV	S&P US Value Ishares Core ETF
+IVA	Inventiva S.A. ADR
+IVAL	Intl Quantitative Valueshares ETF
+IVDA	Iveda Solutions Inc
+IVDAW	Iveda Solutions Inc WT
+IVF	Invo Fertility Inc
+IVSI	Applied Finance Ivs International Large ETF
+IVSS	Applied Finance Ivs US Smid ETF
+IVSX	Applied Finance Ivs International Smid ETF
+IVVD	Invivyd Inc
+IXHL	Incannex Healthcare Inc ADR
+IXUS	Total Intl Stock Ishares Core MSCI ETF
+IZEA	Izea Inc
+IZM	Iczoom Group Inc Cl A
+JACK	Jack IN The Box Inc
+JAGX	Jaguar Health Inc
+JAKK	Jakks Pacific Inc
+JANX	Janux Therapeutics Inc
+JAPN	Horizon Kinetics Japan Owner Operator ETF
+JATT	Jatt II Acquisition Corp
+JAZZ	Jazz Pharma Plc
+JBDI	Jbdi Holdings Limited
+JBHT	J B Hunt Transport
+JBIO	Jade Biosciences Inc
+JBLU	Jetblue Airways Corp
+JBSS	John B Sanfilippo
+JCAP	Jefferson Capital Inc
+JCSE	Je Cleantech Holdings Limited
+JCTC	Jewett-Cameron Trading Company Ltd
+JD	Jd.com Inc ADR
+JDOC	JPM Healthcare Leaders ETF
+JDZG	Jiade Limited
+JEM	707 Cayman Holdings Limited
+JEPQ	JPM Nasdaq Equity Premium Income ETF
+JF	J and Friends Holdings Ltd ADR
+JFB	Jfb Construction Holdings Cl A
+JFIN	Jiayin Group Inc ADR
+JFU	9F Inc ADR
+JG	Aurora Mobile Ltd ADR
+JGLO	JPM Global Select Equity ETF
+JHAI	Janus Global Artificial Intelligence ETF
+JINT	
+JIVE	JPM International Value ETF
+JJSF	J J Snack Foods
+JKHY	Jack Henry & Assoc
+JL	J-Long Group Limited
+JLHL	Julong Holding Limited Cl A
+JLVP	Jpmorgan U.S. Large Cap Value Plus ETF
+JMID	Janus Henderson Mid Cap Growth Alpha ETF
+JMSB	John Marshall Bk Fal
+JONER	
+JONEU	Jones Ventures Intl Acquisition1 Corp Units
+JOUT	Johnson Outdoors
+JOYY	Joyy Inc ADR
+JPEF	JPM Equity Focus ETF
+JPFP	Jpmorgan Managed Futures Plus ETF
+JPY	Lazard Japanese Equity ETF
+JRSH	Jerash Holdings Inc
+JRVR	James River Gp HD
+JSM	SLM Corp 6% Sr Nt
+JSMD	Janus Small/Midcap Growth ETF
+JSML	Janus Smallcap Growth ETF
+JSPR	Jasper Therapeutics Inc.
+JSPRW	Jasper Therapeutics Inc. WT
+JTAI	Jet.Ai Inc
+JTEK	JPM U.S. Tech Leaders ETF
+JTTT	
+JUNS	Jupiter Neurosciences Inc
+JVA	Coffee Holding Company
+JWEL	Jowell Global Ltd
+JXG	Jx Luxventure Group Inc
+JYD	Jayud Global Logistics Limited Cl A
+JYNT	The Joint Corp
+JZ	Jianzhi Education Technology Group ADR
+JZXN	Jiuzi Holdings Inc
+KALA	Kala Bio Inc
+KALU	Kaiser Aluminum
+KARD	Kardigan Inc
+KARO	KaroOOOO Ltd
+KAT	Scharf ETF
+KAVL	Kaival Brands Innvtns Grp
+KAZR	Skyline Builders Group Holding Limited Cl A
+KBAB	Kraneshares 2X Long Baba Daily ETF
+KBDU	Kraneshares 2X Long Bidu Daily ETF
+KBON	Karbon Capital Partners Corp. Cl A
+KBONU	Karbon Capital Partners Corp. Units
+KBONW	Karbon Capital Partners Corp. WT
+KBSX	Fst Corp
+KBWB	KBW Bank Invesco ETF
+KBWD	KBW High Dividend Yield Financial Invesco ETF
+KBWP	KBW Property & Casualty Insurance Invesco ETF
+KBWY	KBW Premium Yield Equity REIT Invesco ETF
+KC	Kingsoft Cloud Holdings Ltd ADR
+KCHV	Kochav Defense Acquisition Corp. Cl A
+KCHVR	Kochav Defense Acquisition Corp. Right
+KCHVU	Kochav Defense Acquisition Corp. Units
+KDK	Kodiak Robotics Inc
+KDKRW	Kodiak Robotics Inc WT
+KDP	Keurig Dr Pepper Inc
+KE	Kimball Electrnc
+KEAT	Keating Active ETF
+KEEL	Bitfarms Ltd
+KELYA	Kelly Svcs Cl A
+KELYB	Kelly Services Inc Cl B
+KEQU	Kewaunee Scientifi
+KEYY	Keystone Acquisition Cl A
+KEYYU	Keystone Acquisition Corp
+KEYYW	Keystone Acquisition WT
+KFFB	Kentucky First Fed
+KFII	K&F Growth Acquisition Corp. II Cl A
+KFIIR	K&F Growth Acquisition Corp. II Rights
+KG	Kestrel Group Ltd
+KGEI	Kolibri Global Energy Inc
+KHC	Kraft Heinz Company
+KIDS	Orthopediatrics Corp
+KIDZ	Classover Holdings Inc Cl B
+KIDZW	Classover Holdings Inc Warrants
+KIM-PN	
+KINS	Kingstone Cos Inc
+KIQQ	KS Insperex Nasdaq Dynamic Buffered High Income
+KITT	Nauticus Robotics Inc
+KITTW	Nauticus Robotics Inc WT
+KJD	Kraneshares 2X Long Jd Daily ETF
+KLAC	K L A-Tencor Corp
+KLAG	Leverage Shares 2X Long Klac Daily ETF
+KLIC	Kulicke and Soffa
+KLRA	Kailera Therapeutics Inc
+KLRS	Kalaris Therapeutics Inc
+KLTR	Kaltura Inc
+KLXE	Klx Energy Services Holdings Inc
+KLXER	
+KMB	Kimberly-Clark Corp
+KMDA	Kamada Ltd
+KMLI	Kraneshares 2X Long Meli Daily ETF
+KMRK	K-Tech Solutions Company Limited Cl A
+KMTS	Kestra Medical Technologies Ltd
+KNDI	Kandi Techs Group
+KNGZ	FT S&P 500 Diversified Dividend Aristocrats ETF
+KNSA	Kiniksa Pharmaceuticals International Plc
+KOD	Kodiak Sciences Inc
+KOID	Humanoid and Embodied Intelligence Index ETF
+KOPN	Kopin Corp
+KOSS	Koss Corp
+KOYN	Cslm Digital Asset Acquisition Corp III Cl A
+KOYNU	Cslm Digital Asset Acquisition III
+KOYNW	Cslm Digital Asset Acquisition Corp III WT
+KPDD	Kraneshares 2X Long Pdd Daily ETF
+KPLT	Katapult Hldgs Inc
+KPRX	Kiora Pharmaceuticals Inc.
+KPTI	Karyopharm Therapeut
+KQQQ	Kurv Technology Titans Select ETF
+KRAQ	Krakacquisition Corp Cl A
+KRAQU	Krakacquisition Corp
+KRAQW	Krakacquisition Corp Warrants
+KRKR	36Kr Holdings Inc ADR
+KRMD	Koru Medical Systems Inc
+KRNT	Kornit Digital Ord
+KRNY	Kearny Financial
+KROP	GX Agtech & Food Innovation ETF
+KROS	Keros Therapeutics Inc
+KRRO	Korro Bio Inc
+KRSA	Cyclerion Therapeutics Inc
+KRT	Karat Packaging Inc
+KRUS	Kura Sushi USA Inc Cl A
+KRYS	Krystal Biotech Inc
+KSCP	Knightscope Inc Cl A
+KSMH	
+KSPI	Joint Stock Company Kaspi.Kz ADR
+KTCC	Key Tronic Corp
+KTOS	Kratos Defense & Security Inc
+KTTA	Pasithea Therapeutics Corp
+KTTAW	Pasithea Therapeutics Corp WT
+KTWO	K2M Group Hldngs
+KTWOR	K2 Capital Acquisition Corporation Rights
+KTWOU	K2 Capital Acquisition Corporation Units
+KURA	Kura Oncology
+KUST	Kustom Entertainment Inc
+KVHI	K V H Inds Inc
+KWM	K Wave Media Ltd
+KWMWW	K Wave Media Ltd WT
+KXIN	Kaixin Holdings
+KYIV	Kyivstar Group Ltd
+KYIVW	Kyivstar Group Ltd WT
+KYMR	Kymera Therapeutics Inc
+KYNB	Kyntra Bio Inc
+KYTX	Kyverna Therapeutics Inc
+KZIA	Kazia Therapeutics Ltd ADR
+LAB	Standard Biotools Inc
+LABT	Lakewood-Amedex Biotherapeutics Inc
+LAES	Sealsq Corp
+LAFA	Lafayette Acquisition Corp.
+LAFAR	Lafayette Acquisition Corp.
+LAKE	Lakeland Inds Inc
+LAMR	Lamar Advertis A
+LAND	Gladstone Land Corp
+LANDO	Gladstone Land Corp 6.00% Sr B
+LANDP	Gladstone Land Corporation 6.00%
+LARK	Landmark Bancorp Inc
+LASE	Laser Photonics Corp
+LASR	Nlight Inc
+LATA	Galata Acquisition Corp. II Cl A
+LATAU	Galata Acquisition Corp. II Units
+LATAW	Galata Acquisition Corp. II WT
+LAUR	Laureate Education Inc
+LAZR	Tema Photonics & Optical ETF
+LBGJ	Li Bang International Corporation Inc
+LBRX	Lb Pharmaceuticals Inc
+LBTYA	Liberty Global Ltd Ord A
+LBTYB	Liberty Global Ltd Ord B
+LBTYK	Liberty Global Ltd Ord C
+LCCC	Lakeshore Acquisition III Corp
+LCCCR	Lakeshore Acquisition III Corp. Rights
+LCDS	JPM Fundamental Data Science Large Core ETF
+LCFY	Locafy Ltd
+LCFYW	Locafy Ltd WT
+LCID	Lucid Group Inc
+LCNB	Lcnb Corp
+LCUT	Lifetime Brands Inc
+LDEM	Ishares ESG MSCI EM Leaders ETF
+LDRX	Sgi Enhanced Market Leaders ETF
+LDSF	FT Low Duration Strategic Focus ETF
+LE	
+LECO	Lincoln Elec Holdings
+LEDRU	
+LEDS	Semileds Corp
+LEE	Lee Enterprises Inc
+LEGH	Legacy Housing Corp
+LEGN	Legend Biotech Corp ADR
+LEGR	FT Indxx Innovative Transaction & Process ETF
+LEGT-UN	
+LEND	ACCREDITED HOME LE
+LENZ	Lenz Therapeutics Inc
+LESL	
+LEXI	Alexis Practical Tactical ETF
+LEXX	Lexaria Bioscience Corp
+LFAC	Lf Capital Acquisition Corp II Cl A
+LFACU	Leapfrog Acquisition Corporation Units
+LFACW	Leapfrog Acquisition Corporation Warrants
+LFCR	Lifecore Biomedical Inc
+LFMD	Lifemd Inc
+LFMDP	Lifemd Inc 8.875% Series A
+LFS	Leifras Co. Ltd ADR
+LFSC	F/M Emerald Life Sciences Innovation ETF
+LFST	Lifestance Health Group Inc
+LFTO	Liftoff Mobile Inc
+LFUS	Littelfuse Inc
+LFVN	Lifevantage Corp
+LFWD	Lifeward Ltd
+LGCF	Themes US Cash Flow Champions ETF
+LGCL	Lucas Gc Limited
+LGDS	Jpmorgan Fundamental Data Science Large Growth E
+LGHL	Lion Group Holding Ltd ADR
+LGIH	LGI Homes Inc
+LGL-WT	
+LGN	Legence Corp. Cl A
+LGND	Ligand Pharm
+LGO	Largo Inc
+LGRO	Level Four Large Cap Growth Active ETF
+LGVN	Longeveron Inc
+LHAI	Linkhome Holdings Inc
+LHSW	Lianhe Sowell International Group Ltd
+LI	Li Auto Inc ADR
+LICN	Lichen International Ltd
+LIDR	Aeye Inc
+LIEN	Chicago Atlantic Bdc Inc
+LIF	Life360 Inc
+LIFE	Atyr Pharma Inc
+LILA	Liberty Latin America Cl A
+LILAK	Liberty Latin America Cl C
+LILAP	Liberty Latin America Ltd 9.0% Pfd A
+LIME	Lime Energy Co
+LIMN	Liminatus Pharma Inc Cl A
+LIMNW	Liminatus Pharma Inc Warrants
+LIN	Linde Plc
+LINC	Lincoln Educational
+LIND	Lindblad Expd Holdings
+LINE	Lineage Inc
+LINK	Interlink Electronics Inc
+LINT	Direxion Daily Intc Bull 2X ETF
+LIQT	Liqtech International Inc
+LITE	Lumentum Holdings
+LITP	Sprott Lithium Miners ETF
+LITS	Lite Strategy Inc
+LIVE	Live Ventures
+LIVN	Livanova Plc OR Sh
+LKFN	Lakeland Finl Corp
+LKFT	Lakefront Biotherapeutics
+LKQ	LKQ Corp
+LKSP	Lake Superior Acquisition Corp. Cl A
+LKSPR	Lake Superior Acquisition Corp. Rights
+LKSPU	Lake Superior Acquisition Corp. Units
+LLYVA	Liberty Live Series A
+LLYVK	Liberty Live Series C
+LMAT	Lemaitre Vascular
+LMB	Limbach Holdings Inc
+LMBS	Low Duration Opportunities ETF FT
+LMNR	Limoneira Company
+LMTL	Direxion Daily Lmt Bull 2X ETF
+LNAI	Lunai Bioworks Inc
+LNKS	Linkers Industries Limited Cl A
+LNSR	Lensar Inc
+LNT	Alliant Energy Corp
+LNTH	Lantheus Holdings
+LNZA	Lanzatech Global Inc
+LNZAW	Lanzatech Global Inc WT
+LOAN	Manhattan Bridge
+LOBO	Lobo Ev Technologies Ltd
+LOCO	El Pollo Loco
+LOGI	Logitech Int S.A.
+LOGO	Alpha Brands Consumption Leaders ETF
+LONA	Leonabio Inc
+LOOP	Loop Industries Inc
+LOPE	Grand Canyon Educati
+LOT	Lotus Technology Inc ADR
+LOTI	Liberty One Tactical Income ETF
+LOTWW	Lotus Technology Inc WT
+LOVE	The Lovesac Company
+LOVIU	
+LPAA	Launch One Acquisition Corp. Cl A
+LPAAW	Launch One Acquisition Corp. WT
+LPBB	Launch Two Acquisition Corp. Cl A
+LPBBU	Launch Two Acquisition Corp
+LPBBW	Launch Two Acquisition Corp. WT
+LPCN	Lipocine Inc
+LPCV	Launchpad Cadenza Acquisition I Cla A
+LPCVU	Launchpad Cadenza Acquisition Corp I
+LPCVW	Launchpad Cadenza Acquisition I WT
+LPLA	Lpl Financial Holdings
+LPSN	Liveperson Inc
+LPTH	Lightpath Tech Inc
+LQ	Simplify Tax Aware Alternatives ETF
+LQDA	Liquidia Corp
+LQDT	Liquidity Services
+LRCX	Lam Research Corp
+LRE	Lead Real Estate ADR
+LRGE	Clearbridge Large Cap Groowth ETF
+LRHC	LA Rosa Holdings Corp
+LRMR	Larimar Therapeutics Inc
+LRND	Nyli U.S. Large Cap R&D Leaders ETF
+LSAK	Lesaka Technologies Inc
+LSBK	Lake Shore Bancorp
+LSCC	Lattice Semicond
+LSE	Leishen Energy Holding Co. Ltd
+LSTA	Lisata Therapeutics Inc
+LSTR	Landstar System
+LTBR	Lightbridge Corp
+LTCC	Canary Litecoin ETF
+LTGO	Latigo Biotherapeutics Inc
+LTGR	Long Table Growth Corp
+LTGRU	Long Table Growth Corp
+LTGRW	Long Table Growth Corp. Warrants
+LTRN	Lantern Pharma Inc
+LTRX	Lantronix Inc
+LTRYW	Lottery.com WT
+LUCD	Lucid Diagnostics Inc
+LUCY	Innovative Eyewear Inc
+LUCYW	Innovative Eyewear Inc WT
+LULG	Leverage Shares 2X Long Lulu Daily ETF
+LULU	Lululemon Athletica
+LUNG	Pulmonx Corp
+LUNR	Intuitive Machines Inc
+LVHD	Franklin U.S. Low Vol High Div ETF
+LVIG	Longview Advantage Fixed Income ETF
+LVLU	
+LVO	Liveone Inc
+LWAC	Lightwave Acquisition Corp. Cl A
+LWACU	Lightwave Acquisition Corp. Units
+LWACW	Lightwave Acquisition Corp WT
+LWAY	Lifeway Foods Inc
+LWLG	Lightwave Logic Inc
+LX	Lexinfintech Holdings Ltd ADR
+LXEH	Lixiang Education Holding ADR
+LXEO	Lexeo Therapeutics Inc
+LXRX	Lexicon Pharmaceutcl
+LYEL	Lyell Immunopharma Inc
+LYFT	Lyft Inc Cl A
+LYRA	Lyra Therapeutics Inc
+LYTS	L S I Industries
+LZ	Legalzoom.com Inc
+LZMH	Lz Technology Holdings Limited Cl B
+MAAS	Maase Inc ADR
+MAAY	Graniteshares Yieldboost Mara ETF
+MACI	Melar Acquisition Corp. I Cl A
+MACIW	Melar Acquisition Corp I WT
+MAKO	Mako Surgical
+MAMA	
+MAMO	Massimo Group
+MANH	Manhattan Assoc
+MAPS	Wm Technology Inc
+MAR	Marriot Int Cl A
+MARA	Mara Holdings Inc
+MARPS	Marine Petroleum U
+MASK	3 E Network Technology Group Ltd Cl A
+MASS	908 Devices Inc
+MAT	Mattel Inc
+MATE	Man Active Trend Enhanced ETF
+MATH	Metalpha Technology Hldg Ltd
+MATR	Mattersight Corp
+MATW	Matthews Intl Corp
+MAXI	Simplify Bitcoin Strategy Plus Income ETF
+MAYS	J W Mays Inc
+MAZE	Maze Therapeutics Inc
+MB	Masterbeef Group
+MBAI	Check-Cap Ltd Ord
+MBB	MBS Ishares ETF
+MBBC	Marathon Bancorp Inc
+MBIN	Merchants Bancorp
+MBINL	Merchants Bancorp ADR
+MBINM	Merchants Bancorp
+MBINN	Merchants Bancorp ADR
+MBIO	Mustang Bio Inc
+MBLY	Mobileye Global Inc Cl A
+MBNKO	Medallion Bank
+MBOT	Microbot Medical Inc
+MBRX	Moleculin Biotech CS
+MBS	Angel Oak Mortgage-Backed Securities ETF
+MBUU	Malibu Boats Inc
+MBVI	M3-Brigade Acquisition VI Corp. Cl A
+MBVIU	M3-Brigade Acquisition VI
+MBVIW	M3-Brigade Acquisition VI Corp. WT
+MBWM	Mercantile Bank Corp
+MBX	Mbx Biosciences Inc
+MCAH	Mountain Crest Acquisition 6
+MCAHR	Mountain Crest Acquisition 6 Rights
+MCAHU	Mountain Crest Acquisition 6 Corp. Units
+MCBS	Metrocity Bankshares Inc
+MCDS	JPM Fundamental Data Science Mid Core ETF
+MCFT	Mastercraft Boat Holdings Inc
+MCGA	Yorkville Acquisition Corp. Cl A
+MCGAU	Yorkville Acquisition Corp
+MCGAW	Yorkville Acquisition Corp. WT
+MCHB	Mechanics Bank
+MCHI	China Ishares MSCI ETF
+MCHP	Microchip Technology
+MCHPP	Microchip Technology Inc
+MCHS	Matthews China Discovery Active ETF
+MCHX	Marchex Inc
+MCRB	Seres Therapeutics Inc
+MCRI	Monarch Casino
+MDAI	Spectral AI Inc
+MDAIW	Spectral AI Inc WT
+MDB	Mongodb Inc Cl A
+MDBH	Mdb Capital Holdings Cl A
+MDCX	Medicus Pharma Ltd
+MDCXW	Medicus Pharma Ltd WT
+MDGL	Madrigal Pharmaceuticals Inc
+MDIA	Mediaco Holding Inc Cl A
+MDIV	Multiasset Diversified Income Index Fund FT
+MDLN	Medline Inc
+MDLZ	Mondelez Intl Inc
+MDRR	Medalist Diversified REIT Inc
+MDWD	Mediwound Ltd Ord Sh
+MDXG	Mimedx Group Inc
+MDXH	Mdxhealth Sa ADR
+MEDP	Medpace Holdings Inc
+MEDS	Trxade Health Inc
+MEDX	Horizon Kinetics Medical ETF
+MEGL	Magic Empire Global Limited
+MEHA	Functional Brands Inc
+MELI	Mercadolibre Inc
+MEMA	Man Active Emerging Markets Alternative ETF
+MEMS	Matthews Emerging Markets Discovery Active ETF
+MENS	Jyong Biotech Ltd
+MEOH	Methanex Corp
+MERC	Mercer Intl Inc
+MESH	Meshflow Acquisition Corp. Cl A
+MESHU	Meshflow Acquisition Corp. Units
+MESHW	Meshflow Acquisition Corp. Warrants
+MESO	Mesoblast Ltd ADR
+META	Meta Platforms Inc
+METC	Ramaco Resources Inc
+METCB	Ramaco Resources Inc Cl B
+METCI	Ramaco Resources Inc 8.250%
+METCZ	Ramaco Resources Inc 8.375%
+METD	Meta Bear -1X ETF Direxion
+METL	Sprott Active Metals & Miners ETF
+METU	Meta Bull 2X ETF Direxion
+MEVO	M Evo Global Acquisition Corp II Cl A
+MEVOU	M Evo Global Acquisition Corp II Units
+MEVOW	M Evo Global Acquisition Corp II Warrants
+MF	Missfresh Ltd ADR
+MFI	Mf International Limited
+MFIC	Midcap Financial Investment Corp
+MFICL	Midcap Financial Investment Corp 8.00%
+MFIG	Motley Fool Innovative Growth ETF
+MFIN	Medallion Fin Corp
+MFLX	Municipal CEF Income Opportunity ETF FT
+MFMO	Motley Fool Momentum Factor ETF
+MFP	Midera Food Processing Inc
+MFVL	Motley Fool Value Factor ETF
+MGEE	Mge Energy Inc
+MGIH	Millennium Group International Holdings Limited
+MGN	Megan Holdings Limited .
+MGNI	Magnite Inc
+MGNX	Macrogenics
+MGPI	MGP Ingredients Inc
+MGRC	Mcgrath Rentcorp
+MGRT	Mega Fortune Company Limited
+MGRX	Mangoceuticals Inc
+MGTX	Meiragtx Holdings Plc
+MGX	Metagenomi Inc
+MGYR	Magyar Bancorp Inc
+MIAC	
+MIACU	Meridian3 Industrials Acquisition Corp Units
+MIACW	
+MIDD	Middleby Corp
+MILN	GX Millennial Consumer ETF
+MIMI	Mint Incorporation Limited Cl A
+MIND	Mitcham Industries Inc
+MIRA	Mira Pharmaceuticals Inc
+MIRM	Mirum Pharmaceuticals Inc
+MIST	Milestone Pharmaceuticals Inc
+MITK	Mitek Systems Inc
+MKAM	Mkam ETF
+MKDW	Mkdwell Tech Inc
+MKDWW	Mkdwell Tech Inc Warrants
+MKLY	Mckinley Acquisition Corporation Cl A
+MKLYR	Mckinley Acquisition Corporation Rights
+MKLYU	Mckinley Acquisition Corporation Units
+MKSI	Mks Inc
+MKTW	Marketwise Inc
+MKTX	Marketaxess Holdings
+MKZR	Mackenzie Realty Capital Inc
+MLAA	Mountain Lake Acquisition Corp. II Cl A
+MLAAU	Mountain Lake Acquisition Corp. II Units
+MLAAW	Mountain Lake Acquisition Corp. II Warrants
+MLAB	Mesa Labs Inc
+MLCI	Mount Logan Capital Inc
+MLCIL	Mount Logan Capital Inc 8.00%
+MLCO	Melco Resorts & Entertainment ADR
+MLEC	Moolec Science Sa
+MLECW	Moolec Science Sa WT
+MLGO	Microalgo Inc
+MLKN	Millerknoll Inc
+MLTX	Moonlake Immunotherapeutics
+MLYS	Mineralys Therapeutics Inc
+MMLP	Martin Midstrm LP
+MMSI	Merit Medical Sys
+MMTX	Miluna Acquisition Corp Cl A
+MMTXW	Miluna Acquisition Corp WT
+MMYT	Makemytrip Ltd
+MNDO	Mind C.T.I. Ltd
+MNDR	Mobile-Health Network Solutions Cl A
+MNDY	Monday.com Ltd
+MNKD	Mannkind Corp
+MNOV	Medicinova Inc
+MNPR	Monopar Therapeutics Inc
+MNRO	Monro Muffler Brak
+MNSB	Mainstreet Bank
+MNSBP	Mainstreet Bancshares Inc ADR
+MNST	Monster Beverage Corp
+MNTK	Montauk Renewables Inc
+MNTS	Momentus Inc
+MNVT	Moonvest ETF
+MNY	Moneyhero Limited Cl A
+MNYWW	Moneyhero Limited Warrants
+MNZL	Manzil Russell Halal USA Broad Market ETF
+MOB	Mobilicom Limited ADR
+MOBBW	Mobilicom Limited Warrants
+MOBI	Sky-Mobi Limited
+MOBX	Mobix Labs Inc
+MOBXW	Mobix Labs Inc WT
+MODD	Modular Medical Inc
+MODL	Victory Westend U.S. Sector ETF
+MOLN	Molecular Partners Ag ADR
+MOMO	Hello Group Inc ADR
+MOOD	Alpha Architect Relative Sentiment ETF
+MORN	Morningstar Inc
+MOVE	Movano Inc
+MPAA	Motorcar Parts Amer
+MPB	Mid Penn Bancorp Inc
+MPG	Leverage Shares 2X Long MP Daily ETF
+MPIA	M Plus Nasdaq-100 Accelerator Autocall ETF
+MPLT	Maplight Therapeutics Inc
+MPWR	Monolithic Power Sys
+MQ	Marqeta Inc Cl A
+MQQQ	Tradr 2X Long Innovation 100 Monthly ETF
+MRA	GraniteShares Autocallable Mara ETF
+MRAL	Graniteshares 2X Long Mara Daily ETF
+MRAM	Everspin Technologies Inc
+MRBK	Meridian Bank
+MRCOU	Mercator Acquisition Corp
+MRCOW	
+MRCY	Mercury Sys Inc
+MRDN	Meridian Waste Solutions Inc
+MREO	Mereo Biopharma Group Plc ADR
+MRKR	Marker Therapeutics Inc
+MRLN	Marlin Business Serv
+MRM	Medirom Healthcare Technologies Inc ADR
+MRNA	Moderna Inc
+MRNO	Murano Global Investments Plc
+MRNOW	Murano Global Investments Plc Warrants
+MRTN	Marten Transport L
+MRVI	Maravai Lifesciences Holdings Inc Cl A
+MRVL	Marvell Technology Inc
+MRVU	Direxion Daily Mrvl Bull 2X ETF
+MRX	Marex Group Plc
+MS-PQ	
+MSAI	Multisensor AI Holdings Inc
+MSAIW	Infrared Cameras Holdings Inc WT
+MSBI	Midland Sts BNC
+MSBIP	Midland States Bancorp Inc
+MSEX	Middlesex Water Company
+MSFD	Msft Bear -1X ETF Direxion
+MSFL	Graniteshares 2X Long Msft Daily ETF
+MSFT	Microsoft Corp
+MSFU	Msft Bull 2X ETF Direxion
+MSGM	Motorsport Games Inc Cl A
+MSGY	Masonglory Limited
+MSLE	Satellos Bioscience Inc
+MSPR	Recovery Inc A
+MSR	GraniteShares Autocallable Mstr ETF
+MSS	Maison Solutions Inc Cl A
+MST	DeFiance Leveraged Long Income Mstr ETF
+MSTP	Graniteshares 2X Long Mstr Daily ETF
+MSTR	Strategy Inc
+MSTX	DeFiance Daily Target 1.75X Long Mstr ETF
+MTAK	
+MTAKU	Market Technology Acquisition Corp
+MTAKW	
+MTB-PJ	
+MTC	Mmtec Inc
+MTCH	Match Group Inc
+MTEK	Maris-Tech Ltd
+MTEKW	Maris-Tech Ltd WT
+MTEN	Mingteng International Corporation Inc
+MTEX	Mannatech Inc
+MTLS	Materialise NV ADR
+MTRX	Matrix Service Company
+MTSI	Macom Technology S
+MTVA	Metavia Inc
+MTYY	Graniteshares Yieldboost Mstr ETF
+MU	Micron Technology
+MUD	Mu Bear -1X ETF Direxion
+MULL	Graniteshares 2X Long Mu Daily ETF
+MULT	Franklin Multisector Income ETF
+MUU	Mu Bull 2X ETF Direxion
+MUY	
+MUYY	GraniteShares YieldBoost MU ETF
+MUZEU	Muzero Acquisition Corp
+MUZEW	Muzero Acquisition Corp WT
+MVBF	Mvb Financial Corp
+MVIS	Microvision
+MVLL	Graniteshares 2X Long Mrvl Daily ETF
+MVST	Microvast Hldgs Inc
+MWC	Micware Co. Ltd ADR
+MWH	Solv Energy Inc Cl A
+MWYN	Marwynn Holdings Inc
+MXCT	Maxcyte Inc
+MXL	Maxlinear Inc
+MYCF	SPDR SSGA My2026 Corporate Bond ETF
+MYCG	SPDR SSGA My2027 Corporate Bond ETF
+MYCH	SPDR SSGA My2028 Corporate Bond ETF
+MYCI	SPDR SSGA My2029 Corporate Bond ETF
+MYCJ	SPDR SSGA My2030 Corporate Bond ETF
+MYCK	SPDR SSGA My2031 Corporate Bond ETF
+MYCL	SPDR SSGA My2032 Corporate Bond ETF
+MYCM	SPDR SSGA My2033 Corporate Bond ETF
+MYCN	SPDR SSGA My2034 Corporate Bond ETF
+MYCO	SPDR SSGA My2035 Corporate Bond ETF
+MYCP	
+MYFW	First Western Financial Inc
+MYGN	Myriad Genetics Inc
+MYHB	State Street My2028 High Yield Corporate Bond Et
+MYHC	State Street My2029 High Yield Corporate Bond Et
+MYHD	State Street My2030 High Yield Corporate Bond Et
+MYHE	State Street My2031 High Yield Corporate Bond Et
+MYHF	
+MYMF	SPDR SSGA My2026 Municipal Bond ETF
+MYMG	SPDR SSGA My2027 Municipal Bond ETF
+MYMH	SPDR SSGA My2028 Municipal Bond ETF
+MYMI	SPDR SSGA My2029 Municipal Bond ETF
+MYMJ	SPDR SSGA My2030 Municipal Bond ETF
+MYMK	SPDR SSGA My2031 Municipal Bond ETF
+MYML	
+MYPS	Playstudios Inc
+MYRG	MYR Group Inc
+MYSE	Myseum Inc
+MYSZ	My Size Inc
+MYX	Maywood Acquisition Corp 2 Cl A
+MYXXR	Maywood Acquisition Corp 2 Rights
+MYXXW	Maywood Acquisition Corp 2 Warrants
+MZTI	The Marzetti Company
+NA	Nano Labs Ltd ADR
+NAAS	Nass Technology Inc ADR
+NAGE	Niagen Bioscience Inc
+NAII	Natural Alternativ
+NAKA	Kindly MD Inc
+NAMI	Jinxin Technology Holding ADR
+NAMM	Namib Minerals Ordinary Shares
+NAMMW	Namib Minerals Warrants
+NAMS	Newamsterdam Pharma Company N.V.
+NAMSW	Newamsterdam Pharma Company N.V. WT
+NATH	
+NATO	Themes Transatlantic Defense ETF
+NATR	Nature S Sunshine
+NAUT	Nautilus Biotechnology Inc
+NAVI	Navient Corp
+NAVN	Navan Inc Cl A
+NB	Niocorp Developments Ltd
+NBBK	Nb Bancorp Inc
+NBIG	Leverage Shares 2X Long Nbis Daily ETF
+NBIL	Graniteshares 2X Long Nbis Daily ETF
+NBIS	Nebius Group N.V. Cl A
+NBIX	Neurocrine Bioscienc
+NBN	Northeast Bncp
+NBP	Novabridge Biosciences ADR
+NBRG	Newbridge Acquisition Limited Cl A
+NBRGR	Newbridge Acquisition Limited Rights
+NBRGU	Newbridge Acquisition Limited
+NBTB	NBT Bancorp Inc
+NBTX	Nanobiotix S.A. ADR
+NCEL	Nls Pharmaceutics Ltd
+NCEW	New Century Logistics [Bvi] Limited
+NCI	Neo-Concept International Group Holdings Limited
+NCIQ	Hashdex Nasdaq Crypto Index US ETF
+NCLD	Roundhill Neocloud ETF
+NCMI	National Cinemedia
+NCNA	Nucana Plc ADR
+NCNO	Ncino Inc
+NCO	Southern Cross Acquisition I Corp
+NCOOR	Southern Cross Acquisition I Corp. Rights
+NCOOU	Southern Cross Acquisition I Corp
+NCOOW	Southern Cross Acquisition I Corp. Warrants
+NCPB	Nuveen Core Plus Bond ETF
+NCPL	Netcapital Inc
+NCPLW	Netcapital Inc WT
+NCRA	Nocera
+NCSM	Ncs Multistage Holdings Inc
+NCT	Intercont [Cayman] Limited
+NCTY	The9 Ltd ADR
+NDAA	Ned Davis Research 360 Dynamic Allocation ETF
+NDAQ	Nasdaq Inc
+NDLS	Noodles & Company
+NDRA	Endra Life Sciences Inc
+NDSN	Nordson Corp
+NECB	Northeast Community Bancorp
+NEE-PS	
+NEE-PT	
+NEGG	Newegg Commerce Inc
+NEMG	Leverage Shares 2X Long Nem Daily ETF
+NEO	Neogenomics Inc
+NEOG	Neogen Corp
+NEON	Neonode Inc
+NEOV	Neovolta Inc
+NEOVW	Neovolta Inc WT
+NEPH	Nephros Inc
+NERV	Minerva Neuroscie
+NESR	National Energy Services Reunited Corp
+NETG	Leverage Shares 2X Long Net Daily ETF
+NEUP	Neuphoria Therapeutics Inc
+NEWT	Newtekone Inc
+NEWTG	Newtekone Inc 8.50%
+NEWTH	Newtekone Inc 8.625%
+NEWTI	Newtekone Inc 8.00%
+NEWTO	Newtekone Inc 8.50%
+NEWTP	Newtekone Inc
+NEWZ	Stocksnips Ai-Powered Sentiment US All Cap ETF
+NEXM	Nexmetals Mining Corp
+NEXN	Nexxen International Ltd ADR
+NEXR	Jeffs Brands Ltd
+NEXRW	Jeffs Brands Ltd WT
+NEXT	Nextdecade Corp
+NFE	New Fortress Energy Llc
+NFEGP	
+NFLX	Netflix Inc
+NFTY	FT India Nifty 50 EW ETF
+NFXL	Nflx Bull 2X ETF Direxion
+NFXS	Nflx Bear -1X ETF Direxion
+NGEN	NANOGEN INC.
+NGNE	Neurogene Inc
+NHIC	Newhold Investment Corp III Cl A
+NHICU	Newhold Investment Corp III Units
+NHICW	Newhold Investment Corp III Warrants
+NHIV	Newhold Investment Corp IV Cl A
+NHIVW	Newhold Investment Corp IV WT
+NHP	National Healthcare Properties Inc
+NHPAP	National Healthcare Properties Inc
+NHPBP	National Healthcare Properties Inc
+NHTC	Natural Hlth Trd
+NICE	Nice Ltd ADR
+NIKI	Aptorum Group Ltd Cl A
+NIKL	Sprott Nickel Miners ETF
+NIOBW	Niocorp Developments Ltd WT
+NIOG	Leverage Shares 2X Long Nio Daily ETF
+NIPG	Nip Group Inc ADR
+NIU	Niu Technologies ADR
+NIVF	Newgenivf Group Cl A
+NIVFW	Newgenivf Group WT
+NIXT	Research Affiliates Deletions ETF
+NIXX	Nixxy Inc
+NKLR	Terra Innovatum Global N.V.
+NKSH	Natl Bankshares Inc
+NKTR	Nektar Therapeutics
+NKTX	Nkarta Inc
+NLY-PJ	
+NMAD	Lixte Biotech Hlds
+NMFC	New Mountain Finance Corp
+NMFCZ	New Mountain Finance Corp 8.250%
+NMIH	Nmi Holdings Inc
+NMP	Nmp Acquisition Corp. Cl A
+NMPAR	Nmp Acquisition Corp. Right
+NMRA	Neumora Therapeutics Inc
+NMRK	Newmark Group Inc Cl A
+NMTC	Neuroone Medical Technologies Corp
+NN	Nextnav Inc
+NNBR	NN Inc
+NNDM	Nano Dimension ADR
+NNE	Nano Nuclear Energy Inc
+NNNN	Anbio Biotechnology Cl A
+NNOX	Nano-X Imaging Ltd
+NODK	Ni Holdings Inc
+NOEM	Co2 Energy Transition Corp
+NOEMR	Co2 Energy Transition Corp. Right
+NOEMU	Co2 Energy Transition Corp
+NOEMW	Co2 Energy Transition Corp. WT
+NOMA	Nomadar Corp
+NOVT	Novanta Inc
+NOVTU	Novanta Inc
+NOWL	Graniteshares 2X Long Now Daily ETF
+NPAC	New Providence Acquisition Corp. III
+NPACU	New Providence Acquisition Corp. III Units
+NPACW	New Providence Acquisition Corp. III Warrants
+NPCE	Neuropace Inc
+NPFI	Nuveen Preferred and Income ETF
+NPT	Texxon Holding Limited
+NRC	National Research Corp
+NRDS	Nerdwallet Inc Cl A
+NRES	Xtrackers Rreef Global Natural Resources ETF
+NRIM	Northrim Bancorp Inc
+NRIX	Nurix Therapeutics Inc
+NRSN	Neurosense Therapeutics Ltd
+NRSNW	Neurosense Therapeutics Ltd WT
+NRXP	Nrx Pharmaceuticals Inc
+NSA-PB	
+NSAI	
+NSAIR	
+NSAIU	
+NSAIW	
+NSI	National Security Emerging Markets Index ETF
+NSIT	Insight Enterpr
+NSLR	Sutter Rock Capital Corp
+NSLRL	Suro Capital Corp 6.00%
+NSPR	Inspiremd Inc
+NSSC	Napco Sec Tech Inc
+NSTS	Nsts Bancorp Inc
+NSYS	Nortech Systems IN
+NTAP	Netapp Inc
+NTCL	Netclass Technology Inc Cl A
+NTCT	Netscout Systems
+NTES	Netease Inc ADR
+NTGR	Netgear Inc
+NTHI	Neonc Technologies Holdings Inc
+NTIC	Northern Technologies Intl Corp
+NTLA	Intellia Thera CS
+NTNX	Nutanix Inc
+NTRA	Natera Inc
+NTRB	Nutriband Inc
+NTRBW	Nutriband Inc WT
+NTRP	Nexttrip Inc
+NTRS	Northern Trust Corp
+NTRSO	Northern Trust Prf Perpetual USD Dpsh Rp1/1000Th
+NTSK	Netskope Inc Cl A
+NTWK	Netsol Tech Inc
+NTWO	Newbury Street II Acquisition Corp Cl A
+NTWOU	Newbury Street II Acquisition Corp
+NTWOW	Newbury Street II Acquisition Corp WT
+NUAI	New Era Energy & Digital Inc
+NUAIW	New Era Energy & Digital Inc WT
+NUCL	S&P Global Nuclear Energy Index Ishares
+NUCLW	Eagle Nuclear Energy Corp. Warrants
+NUG	Leverage Shares 2X Long Nu Daily ETF
+NUGY	Graniteshares Yieldboost Gold Miners ETF
+NUIB	
+NUIF	Nuveen US Infrastructure ETF
+NUR	
+NUSB	Nuveen Ultra Short Income ETF
+NUTX	Nutex Health Inc
+NUWE	Nuwellis Inc
+NVA	Nova Minerals Corp
+NVAX	Novavax Inc
+NVCR	Novocure Ltd Ord Sh
+NVCT	Nuvectis Pharma Inc
+NVD	Graniteshares -2X Short Nvda Daily ETF
+NVDA	Nvidia Corp
+NVDD	Nvda Bear -1X ETF Direxion
+NVDG	Leverage Shares 2X Long Nvda Daily ETF
+NVDL	Graniteshares 2X Long Nvda Daily ETF
+NVDS	Tradr 1.5X Short Nvda Daily ETF
+NVDU	Nvda Bull 2X ETF Direxion
+NVEC	Nve Corp
+NVMI	Nova Ltd
+NVNI	Nvni Group Limited
+NVNIW	Nvni Group Limited Warrants
+NVNO	Envveno Medical Corp
+NVPS	Pureplay Nvidia Ecosystem Picks & Shovels ETF
+NVTS	Navitas Semiconductor Corp
+NVVE	Nuvve Hldg Corp
+NVX	Novonix Ltd ADR
+NVYY	Graniteshares Yieldboost Nvda ETF
+NWBI	Northwest Bancshares
+NWCL	
+NWCLW	
+NWE	Northwestern Energy Group Inc
+NWFL	Norwood Financial Corp
+NWGL	Cl Workshop Group Ltd ADR
+NWL	Newell Rubbermaid Inc
+NWPX	Nwpx Infrastructure Inc
+NWS	News Corp Cl B
+NWSA	News Corp Cl A
+NWTG	Newton Golf Company Inc
+NXAT	K Wave Media Ltd
+NXATW	K Wave Media Ltd WT
+NXGL	Nexgel Inc
+NXGLW	Nexgel Inc WT
+NXH	
+NXH	Bed Bath & Beyond
+NXL	Nexalin Technology Inc
+NXPI	Nxp Semiconductors
+NXPL	Nextplat Corp
+NXST	Nexstar Media Group Inc
+NXT	Nextracker Inc Cl A
+NXTC	Nextcure Inc
+NXTG	Nasdaq Smartphone Index Fund
+NXTS	Nexentis Technologies Inc
+NXTT	Next Technology Holding Inc
+NXXT	Nextnrg Inc
+NYAX	Nayax Ltd
+NYXH	Nyxoah S A
+NZAC	SPDR MSCI ACWI Climate Paris Aligned ETF
+OABI	Omniab Inc
+OABIW	Omniab Inc WT
+OACC	Oaktree III Life Sciences Cl A
+OACCW	Oaktree III Life Sciences WT
+OBA	Oxley Bridge Acquisition Limited Cl A
+OBAI	Our Bond Inc
+OBAWU	Oxley Bridge Acquisition Limited
+OBAWW	Oxley Bridge Acquisition Limited WT
+OBIL	US Treasury 12 Month Bill ETF
+OBIO	Orchestra Biomed Hldgs Inc
+OBRUD	
+OBT	Orange County Bancor
+OBX	Obsidian Therapeutics Inc
+OCC	Optical Cable Corp
+OCCI	Ofs Credit Company
+OCCIM	Ofs Credit Company Inc 7.875%
+OCCIN	Ofs Credit Company Inc 5.25%
+OCFC	Oceanfirst Financial Corp
+OCG	Oriental Culture Holding Ltd
+OCGN	Ocugen Inc
+OCLT	
+OCLTR	
+OCLTU	Oceanlight Acquisition Corp
+OCLTW	
+OCS	Oculis Holding Ag
+OCSAW	Oculis Holding Ag Warrants
+OCSL	Oaktree Specialty Lending Corp
+OCTV	Octave Intelligence Plc Class B
+OCUL	Ocular Therapeut
+ODD	Oddity Tech Ltd Cl A
+ODDS	Pacer Bluestar Digital Entertainment ETF
+ODFL	Old Dominion Freight Line Inc
+ODTE	Vegashares SPX Ndx Rty Premium Income ETF
+ODTX	Odyssey Therapeutics Inc
+ODYS	Odysight.Ai Inc
+OESX	Orion Energy Systems Inc
+OFAL	Ofa Group
+OFIX	Orthofix Intl NV
+OFLX	Omega Flex Inc
+OFS	Ofs Capital Corp
+OFSSH	Ofs Capital Corp 4.95% Notes Due 2028
+OFSSO	Ofs Capital Corporation 7.50%
+OGG	
+OGGWZ	Osisko Development Corp. WT
+OGI	Organigram Global Inc
+OHAC	Oceanhawk Acquisition Corp. Cl A
+OHACR	Oceanhawk Acquisition Corp. Rights
+OHACU	Oceanhawk Acquisition Corp. Units
+OIG	Orbital Infrastructure Group Inc
+OIM	Oneim Acquisition Corp. Cl A
+OIMAW	Oneim Acquisition Corp. WT
+OIO	Oio Group
+OIOWW	Esgl Holdings Limited WT
+OKLL	DeFiance Daily Target 2X Long Oklo ETF
+OKTA	Okta Inc Cl A
+OKTG	Leverage Shares 2X Long Okta Daily ETF
+OKUR	Onkure Therapeutics Inc
+OKYO	Okyo Pharma Limited ADR
+OLB	Olb Group Inc
+OLED	Universal Display
+OLLI	Ollies Bargain CS
+OLMA	Olema Pharmaceuticals Inc
+OLOX	Olenox Industries Inc
+OM	Outset Medical Inc
+OMAB	Grupo Aeroportuario ADR
+OMCC	Old Market Capital Corp
+OMCL	Omnicell Inc
+OMDA	Omada Health Inc
+OMER	Omeros Corp
+OMEX	Odyssey Marine Expl
+OMH	Ohmyhome Limited
+OMSE	Oms Energy Technologies Inc
+ON	On Semiconductor
+ONB	Old National Bncp
+ONBPO	Old National Bancorp ADR
+ONBPP	Old National Bancorp ADR
+ONC	Beone Medicines Ltd
+ONCH	1Rt Acquisition Corp. Cl A
+ONCHU	1Rt Acquisition Corp. Units
+ONCHW	1Rt Acquisition Corp. WT
+ONCO	Onconetix Inc
+ONCY	Oncolytics Biotech Inc
+ONDG	Leverage Shares 2X Long Onds Daily ETF
+ONDS	Ondas Holdings Inc
+ONEG	Oneconstruction Group Limited
+ONEN	Hennessy Capital Investment Corp. Vii
+ONEQ	Nasdaq Composite ETF
+ONEW	Onewater Marine Inc Cl A
+ONFO	Onfolio Holdings Inc
+ONFOW	Onfolio Holdings Inc WT
+ONMD	Onemednet Corp
+ONMDW	Onemednet Corp WT
+OPAL	Opal Fuels Inc.
+OPBK	Open Bank
+OPCH	Option Care Health Inc
+OPEG	Leverage Shares 2X Long Open Daily ETF
+OPEN	Opendoor Technologies Inc
+OPENL	Opendoor Technologies Inc Series A WT
+OPENW	Opendoor Technologies Inc WT
+OPENZ	Opendoor Technologies Inc Series Z WT
+OPI	Office Properties Income Trust
+OPK	Opko Health Inc
+OPP-PC	
+OPPJ	Wisdomtree Japan Opportunities Fund
+OPRA	Opera Ltd ADR
+OPRT	Oportun Financial Corp
+OPRX	Optimizerx Corp
+OPTH	Optimi Health Corp
+OPTX	Syntec Optics Holdings Inc
+OPTXW	Syntec Optics Holdings Inc WT
+OPTZ	Optimize Strategy Index ETF
+OPXS	Optex Systems Hlds
+ORBS	Eightco Holdings Inc
+ORBX	Global X Space Tech ETF
+ORCS	Direxion Daily Orcl Bear 1X ETF
+ORCU	Direxion Daily Orcl Bull 2X ETF
+ORCX	DeFiance Daily Target 2X Long Orcl ETF
+ORGO	Organogenesis Holdings Inc
+ORIC	Oric Pharmaceuticals Inc
+ORIO	Mogo Inc
+ORIQ	Origin Investment Corp I
+ORIQW	Origin Investment Corp I Et
+ORKA	Oruka Therapeutics Inc
+ORKT	Orangekloud Technology Inc Cl A
+ORLY	
+ORMP	Oramed Pharma
+ORR	Militia Long/Short Equity ETF
+ORRF	Orrstown Finl Svcs
+OSBC	Old Second Bancorp
+OSCX	DeFiance Daily Target 2X Long Oscr ETF
+OSIS	O S I Systems Inc
+OSPN	Onespan Inc
+OSPR	Osprey Energy Acquisition Corp Class A
+OSPRU	Osprey Energy Acquisition Corp Unit
+OSPRW	Osprey Energy Acquisition Warrant
+OSRH	Osr Holdings Inc
+OSRHW	Osr Holdings Inc WT
+OSS	One Stop Systems Inc
+OSUR	Orasure Tech Inc
+OSW	Onespaworld Holdings Ltd
+OTEX	Open Text Corp
+OTGA	Otg Acquisition Corp I Cl A
+OTGAU	Otg Acquisition Corp. I
+OTGAW	Otg Acquisition Corp I WT
+OTGL	Otg Latin America ETF
+OTLK	Outlook Therapeutics Inc
+OTLY	Oatly Group Ab ADR
+OTTR	Otter Tail Corp
+OUST	Ouster Inc
+OVBC	Ohio Valley Banc Corp
+OVID	Ovid Therapeutics Inc
+OVLY	Oak Valley Bancp CA
+OWLS	Obook Holdings Inc
+OXBR	Oxbridge Ord Shrs
+OXBRW	Oxbridge WT
+OXLC	Oxford Lane Capital
+OXLCG	Oxford Lane Capital Corp. 7.95%
+OXLCI	Oxford Lane Capital Corp. 8.75%
+OXLCL	Oxford Lane Capital Corp 6.75% Notes Due 2031
+OXLCM	Oxford Lane Capital Corp Pfd Ser 2024
+OXLCN	Oxford Lane Capital Corp
+OXLCO	Oxford Lane Capital Corp
+OXLCZ	Oxford Lane Capital Corp 5.00%
+OXSQ	Oxford Square Capital Corp
+OXSQG	Oxford Square Capital Corp 5.50% Notes Due 2028
+OXSQH	Oxford Square Capital Corp. 7.75%
+OYSE	Oyster Enterprises II Acquisition Corp Cl A
+OYSER	Oyster Enterprises II Acquisition Corp Rights
+OZEM	Roundhill Glp-1 & Weight Loss ETF
+OZK	Bank Ozk
+OZKAP	Bank Ozk
+PAA	Plains All American Pipeline LP
+PAAC	Proficient Alpha Acquisition Corp
+PAACU	Proem Acquisition Corp I Units
+PAACW	Proficient Alpha Acquisition Corp WT
+PAAI	
+PABD	Ishares Paris-Aligned Climate MSCI World Ex USA
+PABU	Ishares Paris-Aligned Climate MSCI USA ETF
+PACB	Pacific Biosciences
+PACH	Pioneer Acquisition I Corp Cl A
+PACHU	Pioneer Acquisition I Corp Units
+PACHW	Pioneer Acquisition I Corp WT
+PAGP	Plains Gp Holdings LP
+PAHC	Phibro Anl Htlh A
+PAL	Proficient Auto Logistics Inc
+PALD	Direxion Daily Panw Bear 1X Shares
+PALI	Palisade Bio Inc
+PALO	Paloma Acquisition Corp I Cl A
+PALOW	Paloma Acquisition Corp I Warrants
+PALU	Direxion Daily Panw Bull 2X Shares
+PAMT	Pamt Corp
+PANG	Leverage Shares 2X Long Panw Daily ETF
+PANL	Pangaea Logistics So
+PANW	Palo Alto Networks Inc
+PARA	Paramount Global Class B
+PARAW	Banzai International Inc WT
+PARK	Park Dental Partners Inc
+PASG	Passage Bio Inc
+PASW	Ping An Biomedical CO Ltd
+PATK	Patrick Inds Inc
+PATN	Patent Leaders ETF
+PAVM	Pavmed Inc
+PAVS	Paranovus Entertainment Technology Ltd
+PAX	Patria Investments Ltd Cl A
+PAYO	Payoneer Global Inc
+PAYS	Paysign Inc
+PAYX	Paychex Inc
+PBCS	
+PBEU	Portfolio European Banks Index ETF
+PBFS	Pioneer Bancorp Inc
+PBHC	Pathfinder Bcp MD
+PBK	Powerbank Corporation
+PBM	Psyence Biomedical Ltd
+PBMWW	Psyence Biomedical Ltd WT
+PBOG	Integrated Oil and Gas and Exploration ETF
+PBQQ	PGIM Laddered Nasdaq-100 Buffer 12
+PBRG	Leverage Shares 2X Long Pbr Daily ETF
+PBSC	Pacer Barings Secured Credit Flex ETF
+PBUB	
+PBWN	
+PBYI	Puma Biotechnology
+PCAP	Procap Acquisition Corp Cl A
+PCAPU	Procap Acquisition Corp
+PCAPW	Procap Acquisition Corp WT
+PCAR	Paccar Inc
+PCB	Pcb Bancorp
+PCLA	Picocela Inc ADR
+PCMM	Bondbloxx Private Credit Clo ETF
+PCRX	Pacira Pharm Inc
+PCSA	Processa Pharmaceuticals Inc
+PCT	Purecycle Technologies Inc
+PCTTU	Purecycle Technologies Inc
+PCTTW	Purecycle Technologies Inc WT
+PCTY	Paylocity Holdings Corp
+PCVX	Vaxcyte Inc
+PCYO	Pure Cycle Corp
+PDBA	Invesco Agriculture Commodity K-1 ETF
+PDBC	Optimum Yield Diversified Commodity Strategy
+PDC	Perpetuals.com Ltd ADR
+PDD	Pdd Holdings Inc
+PDDL	Graniteshares 2X Long Pdd Daily ETF
+PDEX	Pro-Dex Inc
+PDFS	Pdf Solutions Inc
+PDLB	Ponce Financial Group Inc
+PDP	DWA Momentum Invesco ETF
+PDSB	Pds Biotechnology Corp
+PDYN	Palladyne AI Corp
+PDYNW	Palladyne AI Corp WT
+PEBK	Peoples Bancorp NC
+PEBO	Peoples Bancorp Inc
+PECE	Peace Acquisition Corp
+PECER	Peace Acquisition Corp Right
+PECEU	Peace Acquisition Corp Units
+PECEW	Peace Acquisition Corp WT
+PECO	Phillips Edison & Company Inc
+PEGA	Pegasystems Inc
+PENG	Penguin Solutions Inc
+PENN	Penn Entertainment Inc
+PEP	Pepsico Inc
+PEPG	Pepgen Inc
+PEPS	Parametric Equity Plus ETF
+PERI	Perion Network Ltd
+PESI	Perma-Fix Envir
+PETS	Petmed Express Inc
+PETZ	Tdh Holdings Inc
+PEY	High Yield Equity Dividend Achievers Invesco ETF
+PEZ	DWA Consumer Cyclicals Momentum Invesco ETF
+PFAI	Pinnacle Food Group Limited Cl A
+PFBC	Preferred Bank LA
+PFF	US Preferred Stock Ishares ETF
+PFG	Principal Financial Group Inc
+PFI	DWA Financial Momentum Invesco ETF
+PFIS	Peoples Finl Svcs Company
+PFM	Dividend Achievers Invesco ETF
+PFOE	Pathfinder Focused Opportunities ETF
+PFSA	Profusa Inc
+PFX	Phenixfin Corp Pr
+PFXNZ	Phenixfin Corp 5.25% Notes Due 2028
+PGAC	Pantages Capital Acquisition Corporation
+PGACR	Pantages Capital Acquisition Corporation
+PGACU	Pantages Capital Acquisition Corporation
+PGC	Peapack Gladstone FI
+PGEN	Precigen Inc
+PGJ	Golden Dragon China Invesco ETF
+PGNY	Progyny Inc
+PGY	Pagaya Technologies Ltd Cl A
+PGYWW	Pagaya Technologies Ltd Warrants
+PHAR	Pharming Group N.V. ADR
+PHAT	Phathom Pharmaceuticals Inc
+PHIO	Phio Pharmaceuticals Corp
+PHO	Water Resources Invesco ETF
+PHOE	Phoenix Asia Holdings Limited
+PHUN	Phunware Inc
+PHVS	Pharvaris N.V.
+PHXE-P	
+PI	Impinj Inc
+PICS	Pics N.V.
+PID	Intl Dividend Achievers Invesco ETF
+PIE	DWA Emerging Markets Momentum Invesco ETF
+PIII	P3 Health Partners Inc
+PIIIW	P3 Health Partners Inc WT
+PIO	Global Water Invesco ETF
+PIZ	DWA Developed Markets Momentum Invesco ETF
+PKBK	Parke Bancorp Inc
+PKOH	Park Ohio Holdings Corp
+PKW	Buyback Achievers Invesco ETF
+PLA	GraniteShares Autocallable Pltr ETF
+PLAB	Photronics Inc
+PLAY	
+PLBC	Plumas Bancorp
+PLBL	Polibeli Group Ltd Cl A
+PLBY	Playboy Inc
+PLCE	
+PLCI	Pelican Acquisition II Corp
+PLCIR	Pelican Acquisition II Corporation Right
+PLCIU	Pelican Acquisition II Corp
+PLMK	Plum Acquisition Corp. IV Cl A
+PLMKU	Plum Acquisition Corp. IV
+PLMKW	Plum Acquisition Corp. IV Warrants
+PLMR	Palomar Holdings Inc
+PLPC	Preformed Line Prd
+PLRX	Pliant Therapeutics Inc
+PLRZ	Polyrizon Ltd
+PLSE	Pulse Biosciences CS
+PLSM	Pulsenmore Ltd
+PLTD	Direxion Daily Pltr Bear 1X Shares
+PLTG	Leverage Shares 2X Long Pltr Daily ETF
+PLTK	Playtika Holding Corp
+PLTR	Palantir Technologies Inc Cl A
+PLTU	Direxion Daily Pltr Bull 2X Shares
+PLTZ	DeFiance Daily Target 2X Short Pltr ETF
+PLUG	Plug Power Inc
+PLUL	Leverage Shares 2X Long Plug Daily ETF
+PLUR	Pluri Inc
+PLUS	Eplus Inc
+PLUT	Plutus Financial Group Limited
+PLXS	Plexus Corp
+PLYX	Polaryx Therapeutics Inc
+PLYY	Graniteshares Yieldboost Pltr ETF
+PMA	Ming Shing Group Holdings Limited
+PMAX	Powell Max Limited Cl A
+PMBS	Pimco Mortgage-Backed Securities Active ETF
+PMCB	Pharmacyte Biotech Inc
+PMEC	Primech Holdings Ltd
+PMN	Promis Neurosciences Inc
+PMTR	Perimeter Acquisition Corp. I Cl A
+PMTRU	Perimeter Acquisition Corp. I
+PMTRW	Perimeter Acquisition Corp I WT
+PMTS	CPI Card Group
+PMVP	Pmv Pharmaceuticals Inc
+PN	Skycorp Solar Group Limited
+PNBK	Patriot Natl Bncp
+PNFP	Pinnacle Finl Ptnrs
+PNQI	Nasdaq Internet Invesco ETF
+PNRG	Primeenergy Corp
+PNTG	The Pennant Group Inc
+POCI	Precision Optics Corp Inc
+PODC	Podcastone Inc
+PODD	Insulet Corp
+POET	Poet Technologies Inc
+POLA	Polar Power Inc
+POLE	Andretti Acquisition Corp. II Cl A
+POLEU	Andretti Acquisition Corp. II
+POLEW	Andretti Acquisition Corp. II WT
+POM	Pomdoctor Ltd
+PONO	Pono Capital Corp Cl A
+PONOR	Pono Capital Four Inc Rights
+PONY	Pony AI Inc ADR
+POOL	Pool Corp
+POWI	Power Integratn
+POWL	Powell Inds Inc
+POWW	Outdoor Holding Company
+POWWP	Ammo Inc 8.75% Series A
+PPBT	Purple Biotech Ltd ADR
+PPC	
+PPCB	Propanc Biopharma Inc
+PPH	Vaneck Pharmaceutical ETF
+PPHC	Public Policy Holding Company Inc
+PPI	Axs Astoria Inflation Sensitive ETF
+PPIH	Perma-Pipe International Holdings Inc
+PPLI	Iac Inc
+PPSI	Pioneer Power Solutions
+PPTA	Perpetua Resources Corp
+PQAP	PGIM Nasdaq-100 Buffer 12 ETF - Apr
+PQJA	PGIM Nasdaq-100 Buffer 12 ETF - Jan
+PQJL	PGIM Nasdaq-100 Buffer 12 ETF - Jul
+PQOC	PGIM Nasdaq-100 Buffer 12 ETF - Oct
+PRAA	Pra Group Inc
+PRAX	Praxis Precision Medicines Inc
+PRCH	Porch Group Inc
+PRCT	Procept Biorobotics Corp
+PRDO	Perdoceo Education Corp
+PRE	Prenetics Global Limited Class A Ordinary Share
+PRENW	Prenetics Global Limited WT
+PRFX	Painreform Ltd
+PRFZ	FTSE RAFI US 1500 Small/Mid Invesco ETF
+PRGS	Progress Software
+PRHI	Presurance Holdings Inc
+PRHIZ	Presurance Holdings Inc Pfd
+PRLD	Prelude Therapeutics Inc
+PRME	Prime Medicine Inc
+PRMR	Peakshares Rmr Prime Equity ETF
+PRN	DWA Industrials Momentum Invesco ETF
+PROF	Profound Medical Corp
+PROK	Prokidney Corp
+PROP	Prairie Operating CO
+PROV	Provident Financial
+PRPH	Prophase Labs Inc
+PRPL	Purple Innovation Inc
+PRPO	Precipio Inc
+PRQR	Proqr Therapeutics
+PRSO	Peraso Inc
+PRTA	Prothena Corp
+PRTH	Priority Techno Holdings Inc
+PRTS	U.S. Auto Parts Netw
+PRVA	Privia Health Group Inc
+PRZO	Parazero Technologies Ltd
+PSC	Resources Prospect Ltd
+PSCC	S&P Smallcap Consumer Staples Invesco ETF
+PSCD	S&P Smallcap Consumer Discretionary Invesco ETF
+PSCE	S&P Smallcap Energy Invesco ETF
+PSCF	S&P Smallcap Financials Invesco ETF
+PSCH	S&P Smallcap Health Care Invesco ETF
+PSCI	S&P Smallcap Industrials Invesco ETF
+PSCM	S&P Smallcap Materials Invesco ETF
+PSCT	S&P Smallcap Information Technology Invesco ETF
+PSCU	S&P Smallcap Utilities Invesco ETF
+PSEC	Prospect Capital Corp
+PSET	Principal Price Setters ETF
+PSHG	Performance Shipping Inc
+PSIG	PS International Group Ltd
+PSIX	Power Solutions International
+PSKY	Paramount Skydance Corporation Cl B
+PSL	DWA Consumer Staples Momentum Invesco ETF
+PSMT	Pricesmart Inc
+PSNL	Personalis Inc
+PSNY	Gores Guggenheim Inc Unit Cl A
+PSNYW	Polestar Automotive Holding UK Limited Class C-1
+PSQL	
+PSQLW	
+PSTR	Peakshares Sector Rotation ETF
+PSWD	Xt Cybersecurity Select Equity ETF
+PTAC	Proptech Acquisition Corp Cl A
+PTACU	Porch Group Inc U
+PTACW	Proptech Acquisition Corp WT
+PTC	Ptc Inc
+PTCT	Ptc Therapeutics
+PTEN	Patterson-Uti Energy
+PTF	DWA Technology Momentum Invesco ETF
+PTGX	Protagonist Therapeutics Inc
+PTH	DWA Healthcare Momentum Invesco ETF
+PTIR	Graniteshares 2X Long Pltr Daily ETF
+PTIX	Protagenic Therapeutics
+PTLE	Ptl Ltd
+PTLO	
+PTNQ	Pacer Trendpilot 100 ETF
+PTON	Peloton Interactive Inc
+PTOR	Praetorian Acquisition Corp. Cl A
+PTORU	Praetorian Acquisition Corp. Units
+PTORW	Praetorian Acquisition Corp. WT
+PTRN	Pattern Group Inc Series A
+PUBM	Pubmatic Inc Cl A
+PUI	DWA Utilities Momentum Invesco ETF
+PUL	GraniteShares 2X Long P Daily ETF
+PULM	Pulmatrix Inc
+PUR	Defiance Daily Target 2X Long Purr ETF
+PURR	Hyperliquid Strategies Inc
+PUSA	Aureus Greenway Holdings Inc
+PVLA	Palvella Therapeutics Inc
+PWCM	Lm Funding America Inc
+PWP	Perella Weinberg Partners
+PWRD	Tcw Transform Systems ETF
+PWRL	Powerlaw Corp
+PXI	DWA Energy Momentum Invesco ETF
+PXLW	Pixelworks Inc
+PXS	Pyxis Tankers
+PY	Principal Shareholders Yield ETF
+PYPD	Polypid Ltd
+PYPG	Leverage Shares 2X Long Pypl Daily ETF
+PYPL	Paypal Holdings
+PYXS	Pyxis Oncology Inc
+PYZ	DWA Basic Materials Momentum Invesco ETF
+PZZA	
+QABA	Nasdaq Aba Community Bank Index Fund FT
+QADR	Qdro Acquisition Corp. Cl A
+QADRW	Qdro Acquisition Corp. WT
+QALT	Sei Dbi Multi-Strategy Alternative ETF
+QAT	Qatar Ishares MSCI ETF
+QB	Proshares Nasdaq-100 Dynamic Buffer ETF
+QBIG	Invesco Top QQQ ETF
+QBTZ	Defiance Daily Target 2X Short Qbts ETF
+QBUF	Innovator Nasdaq-100 10 Buffer ETF Quarterly
+QBY	Graniteshares Yieldboost Qbts ETF
+QCLN	Nasdaq Green Energy Index ETF
+QCLR	GX Nasdaq 100 Collar 95-110 ETF
+QCLS	Q/C Technologies Inc
+QCMD	Direxion Daily Qcom Bear 1X ETF
+QCML	Graniteshares 2X Long Qcom Daily ETF
+QCMU	Direxion Daily Qcom Bull 2X ETF
+QCOM	Qualcomm Inc
+QCRH	Qcr Holdings Inc
+QDEL	Quidelortho Corp
+QDTY	Yieldmax Nasdaq 100 0Dte Covered Call Strategy E
+QETA	Quetta Acquisition Corp
+QETAR	Quetta Acquisition Corporation Right
+QEW	Invesco QQQ Equal Weight ETF
+QFF	Qualivian Focus Fund ETF
+QFIN	Qfin Holdings Inc ADR
+QGRD	Horizon Nasdaq-100 Defined Risk ETF
+QH	Quhuo Ltd ADR
+QLDY	DeFiance Nasdaq 100 Lightningspread Income ETF
+QLYS	Qualys Inc
+QMCO	Quantum Corp
+QMID	Wisdomtree U.S. Midcap Quality Growth Fund
+QMLS	Qumulusai Inc
+QMOM	Quantitative Momentum ETF
+QNCX	Quince Therapeutics Inc
+QNDX	State Street SPDR Portfolio Nasdaq 100 ETF
+QNME	Lakeside Holding Limited
+QNRX	Quoin Pharmaceuticals Ltd ADR
+QNST	Quinstreet Inc
+QNT	Quantinuum Inc
+QNTM	Quantum Biopharma Ltd
+QNXT	Ishares Nasdaq-100 Ex Top 30 ETF
+QOWZ	Invesco Nasdaq Free Cash Flow Achievers ETF
+QPUX	DeFiance 2X Daily Long Pure Quantum ETF
+QQA	Invesco QQQ Income Advantage ETF
+QQDN	Proshares Ultrashort Top QQQ
+QQEW	Nasdaq 100 EW Index Fund
+QQHG	Invesco QQQ Hedged Advantage ETF
+QQI	
+QQLV	Invesco QQQ Low Volatility ETF
+QQMG	Invesco ESG Nasdaq 100 ETF
+QQQ	Nasdaq QQQ Invesco ETF
+QQQA	Nasdaq 100 Dorsey Wright Momentum ETF
+QQQB	
+QQQE	Nasdaq-100 Equal Weighted Index ETF Direxion
+QQQG	Nasdaq 100 Top 50 Cash Cows Growth Leaders ETF
+QQQH	Neos Nasdaq-100 Hedged Equity Income ETF
+QQQI	Neos Nasdaq 100 High Income ETF
+QQQJ	Invesco Nasdaq Next Gen 100 ETF
+QQQM	Invesco Nasdaq 100 ETF
+QQQP	Tradr 2X Long Innovation 100 Quarterly ETF
+QQQS	Invesco Nasdaq Future Gen 200 ETF
+QQQT	DeFiance Nasdaq 100 Income Target ETF
+QQQX	Nuveen Nasdaq 100
+QQQY	DeFiance Nasdaq 100 Enhanced Options Income ETF
+QQUP	Proshares Ultra Top QQQ
+QQWZ	Pacer Cash Cowz 100-Nasdaq 100 Rotator ETF
+QQXL	Proshares Ultra QQQ Top 30
+QQXT	Nasdaq 100 Ex-Tech Sector Indexsm ETF
+QRHC	Quest Resource
+QRMI	GX Nasdaq 100 Risk Managed Income ETF
+QRVO	Qorvo Inc
+QS	Quantumscape Corp
+QSEA	Quartzsea Acquisition Corp
+QSEAR	Quartzsea Acquisition Corporation Rights
+QSEAU	Quartzsea Acquisition Corporation Units
+QSI	Quantum-Si Inc
+QSIX	Pacer Nasdaq 100 Dividend Multiplier 600 ETF
+QSML	Wisdomtree U.S. Smallcap Quality Growth Fund
+QTEC	Nasdaq 100 Technology Index Fund
+QTEX	Inspira Technologies Oxy B.H.N. Ltd
+QTI	Qt Imaging Holdings Inc
+QTOP	Ishares Nasdaq Top 30 Stocks ETF
+QTR	GX Nasdaq 100 Tail Risk ETF
+QTRX	Quanterix Corp
+QTTB	Q32 Bio Inc
+QTUM	DeFiance Quantum ETF
+QUBT	Quantum Computing Inc
+QUCY	Mainz Biomed N.V.
+QUIK	Quicklogic Corp
+QUMS	Quantumsphere Acquisition Corp
+QUMSR	Quantumsphere Acquisition Corp. Rights
+QUMSU	Quantumsphere Acquisition Corp. Units
+QURE	Uniqure N.V.
+QVAL	US Quantitative Valueshares ETF
+QVCG	Qvc Group Inc
+QVOL	Infrastructure Capital Nasdaq Option Income ETF
+QXL	Viewbix Inc
+QXQ	Sgi Enhanced Nasdaq-100 ETF
+QYLD	GX Nasdaq-100 Covered Call ETF
+QYLG	GX Nasdaq 100 Covered Call & Growth ETF
+RAA	Smi 3Fourteen Real Asset Allocation ETF
+RACC	Research Alliance Corporation III Cl A
+RACD	Research Alliance Corporation IV Cl A
+RADX	Radiopharm Theranostics Limited ADR
+RAIL	Freightcar America
+RAIN	Rain Enhancement Technologies Holdco Inc Cl A
+RAINW	Rain Enhancement Technologies Holdco WT
+RAND	Rand Capital Corp
+RANG	Range Capital Acquisition Corp
+RANGR	Range Capital Acquisition Corp. Rights
+RANI	Rani Therapeutics Holdings Inc Cl A
+RAPP	Rapport Therapeutics Inc
+RARE	Ultragenyx Pharmaceu
+RAUS	Racwi US ETF
+RAVE	Rave Restaurant Group
+RAY	Raytech Holding Limited
+RAYA	Erayak Power Solution Group Inc Cl A
+RBB	Rbb Bancorp
+RBBN	Ribbon Communications Inc
+RBCAA	Republic Bancorp Inc
+RBIL	F/M Ultrashort Treasury Inflation-Protected Secu
+RBKB	Rhinebeck Bancorp Inc
+RBNE	Robin Energy Ltd
+RCAT	Red Cat Holdings Inc
+RCAX	Defiance Daily Target 2X Long Rcat ETF
+RCEL	Avita Medical Inc
+RCGE	Rockcreek Global Equality ETF
+RCKT	Rocket Pharmaceuticals Inc
+RCKTW	Rocket Pharmaceuticals Inc WT
+RCKY	Rocky Brands Inc
+RCMT	R C M Tech Inc
+RCON	Recon Technology Ltd
+RCT	Redcloud Holdings Plc
+RDAC	Rising Dragon Acquisition Corp
+RDACR	Rising Dragon Acquisition Corp. Rights
+RDAG	Republic Digital Acquisition Company Cl A
+RDAGU	Republic Digital Acquisition Company
+RDAGW	Republic Digital Acquisition Company Warrants
+RDCM	Radcom Ltd
+RDGT	Ridgetech Inc
+RDHL	Redhill Biophrma ADR
+RDI	Reading Intl Cl A
+RDIB	Reading International Inc Cl B
+RDNT	Radnet Inc
+RDNW	Ridenow Group Inc
+RDTL	Graniteshares 2X Long Rddt Daily ETF
+RDTY	Yieldmax R2000 0Dte Covered Strategy ETF
+RDVT	Red Violet Inc
+RDVY	Rising Dividend Achievers ETF FT
+RDWR	Radware Ltd
+RDZN	Roadzen Inc
+RDZNW	Vahanna Tech Edge Acquisition I Corp WT
+REAI	Private Real Estate Via Liquid Reits ETF
+REAL	The Realreal Inc
+REAX	Real Brokerage Inc
+REBN	Reborn Coffee Inc
+RECT	Rectitude Holdings Ltd
+REFI	Chicago Atlantic Real Estate Finance Inc
+REFR	Research Frontiers
+REG	Regency Centers Corp
+REGCO	Regency Centers Corporation 5.875% Sr B
+REGCP	Regency Centers Corporation 6.25% Series A Cumul
+REGN	Regeneron Pharmaceuticals
+REIT	Alps Active REIT ETF
+REKR	Rekor Systems Inc
+RELL	Richardson Electrncs
+RELY	Remitly Global Inc
+REMG	Emerging Markets Active ETF
+RENT	Rent The Runway Inc Cl A
+RENX	Safe and Green Development Corp
+REPL	Replimune Group Inc
+RETO	Reto Eco-Solutions Inc
+REVB	Revelation Biosciences Inc
+REVBW	Revelation Biosciences Inc WT
+REXC	Sprott Rare Earths Ex-China ETF
+REYN	Reynolds Consumer Products Inc
+RF-PF	
+RFAI	RF Acquisition Corp II
+RFAIR	RF Acquisition Corp II Right
+RFAIU	RF Acquisition Corp II
+RFAM	RF Acquisition Corp III
+RFAMR	RF Acquisition Corp III Rights
+RFAMU	RF Acquisition Corp III
+RFIL	RF Industries Ltd
+RGC	Regencell Bioscience Holdings Ltd
+RGCO	Rgc Resources Inc
+RGEN	Repligen Corp
+RGLD	Royal Gold Inc
+RGLO	Global Equity Active ETF
+RGNX	Regenxbio Inc
+RGP	Resources Connection Inc
+RGS	Regis Corp
+RGTI	Rigetti Computing Inc
+RGTIW	Rigetti Computing Inc WT
+RGTX	DeFiance Daily Target 2X Long Rgti ETF
+RGTZ	Defiance Daily Target 2X Short Rgti ETF
+RGYY	Graniteshares Yieldboost Rgti ETF
+RIBB	Ribbon Acquisition Corp Cl A
+RIBBR	Ribbon Acquisition Corp Rights
+RIBBU	Ribbon Acquisition Corp
+RICK	RCI Hospitality Hold
+RIFR	Global Infrastructure Active ETF
+RIGL	Rigel Pharmaceuticals
+RILY	B. Riley Financl
+RILYG	B. Riley Financial Inc 5.00% Senior Notes Due 2
+RILYL	B. Riley Financial Inc ADR
+RILYN	B. Riley Financial Inc 6.50% Senior Notes Due
+RILYP	B. Riley Financial Inc
+RILYT	B. Riley Financial Inc 6.00% Senior Notes Due
+RILYZ	B. Riley Financial Inc 5.25%
+RIME	Algorhythm Holdings Inc
+RING	Ishares Global Gold Miners ETF
+RINT	International Developed Equity Active ETF
+RIOT	Riot Platforms Inc
+RIVN	Rivian Automotive Inc Cl A
+RJET	Republic Airways Holdings
+RKDA	Arcadia Biosciences Inc
+RKLB	Rocket Lab Corporation
+RKLX	DeFiance Daily Target 2X Long Rklb ETF
+RKLZ	Defiance Daily Target 2X Short Rklb ETF
+RKNG	DeFiance Retail Kings ETF
+RKTO	Hoth Therapeutics Inc
+RLAY	Relay Therapeutics Inc
+RLMD	Relmada Therapeutics Inc
+RLYB	Rallybio Corporaton
+RMBI	Richmond Mutual Bancorp Inc
+RMBS	Rambus Inc
+RMCF	Rocky MT Chocolate
+RMCO	Royalty Management Holding Corp
+RMCOW	Royalty Management Holding Corp WT
+RMIX	U.S. Concrete Inc.
+RML	
+RMNI	Rimini Street Inc
+RMR	The Rmr Grp A
+RMSG	Real Messenger Corp
+RMSGW	Real Messenger Corporation Warrants
+RMTI	Rockwell Medical IN
+RNA	Avidity Biosciences Inc
+RNAC	Cartesian Therapeutics Inc
+RNAQ	
+RNAQU	
+RNAQW	
+RNAZ	Transcode Therapeutics Inc
+RNEM	Emrg Mkts Equity Select ETF FT
+RNGT	Range Capital Acquisition Corp II Cl A
+RNGTU	Range Capital Acquisition Corp II Units
+RNGTW	Range Capital Acquisition Corp II WT
+RNIN	Bushido Capital US Smid Cap Equity ETF
+RNRG	GX Renewable Energy Producers ETF
+RNTX	Rein Therapeutics Inc
+RNW	Renew Energy Global Plc Cl A
+RNXT	Renovorx Inc
+ROAD	Construction Partners Inc Cl A
+ROBT	Artificial Intelligence and Robotics ETF FT
+ROC	Roc Energy Acquisition Corp
+ROCK	Gibraltar Ind Inc
+ROCQ	Jpmorgan Nasdaq Equity Premium Yield ETF
+ROCY	Jpmorgan Equity Premium Yield ETF
+ROE	Astoria US Quality Kings ETF
+ROIV	Roivant Sciences Ltd
+ROKU	Roku Inc
+ROMA	Roma Green Finance Limited
+ROOT	Root Inc
+ROP	Roper Industries
+ROST	Ross Stores Inc
+RPAY	Repay Holdings Corp Cl A
+RPD	Rapid7 Inc
+RPGL	Republic Power Group Limited Cl A
+RPID	Rapid Micro Biosystems Inc Cl A
+RPRX	Royalty Pharma Plc Cl A
+RR	Richtech Robotics Inc Cl B
+RRBI	Red River Bancshares Inc
+RREV	Rre Ventures Acquisition Corp. Cl A
+RREVU	Rre Ventures Acquisition Corp. Units
+RREVW	Rre Ventures Acquisition Corp. Warrants
+RRGB	Red Robin Gourmet Burgers Inc
+RRR	Red Rock Resorts Inc
+RSSS	Research Solutions Inc
+RSVR	Reservoir Media Inc
+RTAC	Renatus Tactical Acquisition Corp I Cl A
+RTACU	Renatus Tactical Acquisition Corp I
+RTACW	Renatus Tactical Acquisition Corp I WT
+RTB	Ryvyl Inc
+RTH	Vaneck Retail ETF
+RTXG	Leverage Shares 2X Long Rtx Daily ETF
+RTYY	Graniteshares Yieldboost Riot ETF
+RUBI	The Rubicon Project Inc
+RUM	Rumble Inc
+RUMBW	Rumble Inc WT
+RUN	Sunrun Inc
+RUNN	Running Oak Efficient Growth ETF
+RUSC	US Small Cap Equity Active ETF
+RUSHA	Rush Enterprises  Cl A
+RUSHB	Rush Enterprises  Cl B
+RVMD	Revolution Medicines Inc
+RVMDW	Revolution Medicines Inc WT
+RVNL	Graniteshares 2X Long Rivn Daily ETF
+RVPH	Reviva Pharmaceuticals Hldg Inc
+RVSB	Riverview Bancorp
+RVSN	Rail Vision Ltd
+RVSNW	Rail Vision Ltd WT
+RWAY	Runway Growth Finance Corp
+RWAYI	Runway Growth Finance Corp. 7.25%
+RWAYL	Runway Growth Finance Corp. 7.50% Notes Due 2027
+RWIN	Rayliant Nxtgen Multifactor Intl Equity ETF
+RXRX	Recursion Pharmaceuticals Inc Cl A
+RXST	Rxsight Inc
+RXT	Rackspace Technology Inc
+RYAAY	Ryanair Hlds Plc ADR
+RYET	Ruanyun Edai Technology Inc
+RYM	Rythm Inc
+RYOJ	Ryojbaba Co. Ltd
+RYTM	Rhythm Pharmaceuticals Inc
+RZAI	
+RZLT	Rezolute Inc
+RZLV	Rezolve AI Plc
+RZLVW	Rezolve AI Limited Warrants
+SAAQ	Space Asset Acquisition Corp. Cl A
+SAAQU	Space Asset Acquisition Corp. Units
+SAAQW	Space Asset Acquisition Corp. Warrants
+SABR	Sabre Corp
+SABS	Sab Biotherapeutics Inc
+SABSW	Sab Biotherapeutics Inc WT
+SAFT	Safety Ins Group Inc
+SAFX	Xcf Global Inc Cl A
+SAGT	Sagtec Global Limited
+SAIA	Saia Inc
+SAIC	Science Applications International
+SAIH	Saiheat Limited
+SAIHW	Saiheat Limited WT
+SAIL	Sailpoint Inc
+SAMG	Silvercrest Ast Cm A
+SANA	Sana Biotechnology Inc
+SANG	Sangoma Technologies Corp
+SANM	Sanmina Corp
+SARK	Tradr 1X Short Innovation Daily ETF
+SATA	Strive Inc
+SATL	Satellogic Inc Cl A
+SATLW	Satellogic Inc WT
+SBAC	SBA Communications
+SBC	Sbc Medical Group Holdings Inc
+SBCF	Seacoast Banking Corp
+SBCWW	Sbc Medical Group Holdings Inc WT
+SBET	Sharplink Gaming Inc
+SBFG	Sb Financial Group
+SBFM	Sunshine Biopharma
+SBFMW	Sunshine Biopharma Inc WT
+SBGI	Sinclair Inc
+SBLK	Star Bulk Carriers
+SBRA	Sabra REIT
+SBUX	Starbucks Corp
+SBXD-UN	
+SCA	GraniteShares Autocallable SMCI ETF
+SCAG	Scage Future ADR
+SCAGW	Scage Future Warrants
+SCATU	Southern Cross Acquisition II Corp
+SCDS	JPM Fundamental Data Science Small Core ETF
+SCHL	Scholastic Corp
+SCIIR	SC II Acquisition Corp Rights
+SCIIU	SC II Acquisition Corp. Units
+SCKT	Socket Mobile
+SCLX	Scilex Holding Co.
+SCLXW	Scilex Holding Company WT
+SCNI	Scinai Immunotherapeutics Ltd ADR
+SCNX	Scienture Holdings Inc
+SCOR	Comscore Inc
+SCPQU	Social Commerce Partners Corp
+SCPQW	Social Commerce Partners Corporation WT
+SCSC	Scansource Inc
+SCTX	Scribe Therapeutics Inc
+SCWO	374Water Inc
+SCYX	Scynexis Inc
+SCZ	EAFE Smallcap Ishares MSCI ETF
+SCZM	Santacruz Silver Mining Ltd
+SDA	Suncar Technology Group Inc
+SDAWW	Suncar Technology Group Inc WT
+SDG	Ishares Global Sustainable Goals ETF
+SDGR	Schrodinger Inc
+SDHI	Siddhi Acquisition Corp Cl A
+SDHIR	Siddhi Acquisition Corp Right
+SDHIU	Siddhi Acquisition Corp
+SDOT	Sadot Group Inc
+SDSI	American Century Short-Duration Strategic ETF
+SDST	Stardust Power Inc
+SDSTW	Stardust Power Inc WT
+SDTY	Yieldmax S&P 500 0Dte Covered Call Strategy ETF
+SDVY	FT Smid Cap Rising Dividend Achievers ETF
+SEAT	Vivid Seats Inc Cl A
+SEATW	Vivid Seats Inc WT
+SEDA	
+SEDG	Solaredge Tech
+SEED	Origin Agritech Ltd
+SEEM	Sei Select Emerging Markets Equity ETF
+SEER	Seer Inc Cl A
+SEGG	Lottery.com Inc
+SEIC	Sei Investments Company
+SEIE	Sei Select International Equity ETF
+SEIS	Sei Select Small Cap ETF
+SELF	Global Self Storage
+SEMY	Graniteshares Yieldboost Semiconductor ETF
+SENEA	Seneca Foods Corp A
+SENEB	Seneca Foods Corp B
+SEPN	Septerna Inc
+SEPQ	Stf Tactical Growth & Income ETF
+SERA	Sera Prognostics Inc Cl A
+SERV	Serve Robotics Inc
+SETM	Sprott Energy Transition Materials ETF
+SEUS	Sei Qim U.S. Equity Factor Allocation Active ETF
+SEV	Sono Group N.V.
+SEVN	Seven Hills Realty Trust
+SEZL	Sezzle Inc
+SFBC	Sound Financial
+SFD	Smithfield Foods Inc
+SFHG	Samfine Creation Holdings Group
+SFIX	Stitch Fix Inc
+SFLO	Victoryshares Small Cap Free Cash Flow ETF
+SFM	Sprouts Farmers Market
+SFNC	Simmons First Natl
+SFST	Southern First Bancs
+SFWL	Shengfeng Development Limited Cl A
+SGA	Saga Communications
+SGC	Superior Uniform Group
+SGHT	Sight Sciences Inc
+SGLD	
+SGLY	Singularity Future Technology Ltd
+SGML	Sigma Lithium Corp
+SGMT	Sagimet Biosciences Inc Series A
+SGP	Spyglass Pharma Inc
+SGRP	Spar Group Inc
+SGRX	Bit Origin Ltd
+SGRY	Surgery Partners CS
+SGVA	F/M Accumulator Ultrashort Treasury Fund
+SHBI	Shore Bancshares Inc
+SHC	Sotera Health Company
+SHEN	Shenandoah Telecom
+SHFS	Shf Holdings Inc
+SHFSW	Shf Holdings Inc WT
+SHIM	Shimmick Corp
+SHIP	Seanergy Maritime Hl
+SHLS	Shoals Technologies Group Cl A
+SHMD	Schmid Group N.V. Cl A
+SHMDW	Schmid Group N.V. WT
+SHOE	SHOE PAVILION INC
+SHOO	Steven Maddens Ltd
+SHOP	Shopify Inc
+SHOT	Rmg ML Sports Holdings Cl A
+SHOTR	Rmg ML Sports Holdings Rights
+SHOTU	Rmg ML Sports Holdings
+SHPH	Shuttle Pharmaceuticals Holdings Inc
+SHPU	Direxion Daily Shop Bull 2X ETF
+SHRY	Largecap US Equity Select ETF FT
+SHY	1-3 Year Treasury Bond Ishares ETF
+SIBN	Si-Bone Inc
+SIDU	Sidus Space Inc Cl A
+SIEB	Siebert Fin Corp
+SIFY	Sify Techs Ltd ADR
+SIGA	Siga Technologies Inc
+SIGI	Selective Ins Group
+SIGIP	Selective Insurance Group Inc
+SILC	Silicom Ltd
+SILO	Silo Pharma Inc
+SIMA	Sim Acquisition Corp. I Cl A
+SIMAU	Sim Acquisition Corp. I
+SIMAW	Sim Acquisition Corp I WT
+SIMO	Silicon Motion Techn ADR
+SINT	Sintx Technologies Inc
+SION	Sionna Therapeutics Inc
+SIRI	Siriusxm Holdings Inc
+SITM	Sitime Corp
+SJ	Scienjoy Holding Corp
+SJCP	Sanjac Alpha Core Plus Bond ETF
+SJLD	Sanjac Alpha Low Duration ETF
+SKDD	GraniteShares 2X Short SK hynix Daily ETF
+SKHY	
+SKHY	SK hynix Inc
+SKIN	The Beauty Health Co.
+SKK	Skk Holdings Limited
+SKOR	Flexshares Credit Scored US Corp Bond
+SKRE	Tuttle Capital Daily 2X Inverse Regional Banks E
+SKUU	GraniteShares 2X Long SK hynix Daily ETF
+SKWD	Skyward Specialty Insurance Group Inc
+SKYA	Skydeck Acquisition Corp Cl A
+SKYAW	Skydeck Acquisition Corp WT
+SKYE	Skye Bioscience Inc
+SKYH-WT	
+SKYQ	Sky Quarry Inc
+SKYU	Ultra Nasdaq Cloud Computing 2X ETF
+SKYW	Skywest Inc
+SKYX	Skyx Platforms Corp
+SKYY	Cloud Computing ETF FT
+SLAB	Silicon Labs Inc
+SLBT	SL Science Holding Limited
+SLDB	Solid Biosciences Inc
+SLDE	Slide Insurance Holdings Inc
+SLDP	Solid Power Inc Cl A
+SLDPW	Solid Power Inc WT
+SLE	Super League Enterprise Inc
+SLGB	Smart Logistics Global Limited
+SLGL	Sol-Gel Technologies Ltd
+SLM	SLM Corp
+SLMBP	SLM Corp Srs B Pfd
+SLMT	Brera Holdings Plc Cl B
+SLN	Silence Therapeutics Plc ADR
+SLNG	Stabilis Solutions Inc
+SLNH	Soluna Hldgs Inc
+SLNHP	Soluna Hldgs Inc Prfd
+SLP	Simulations Plus Inc
+SLQD	0-5 Year Invst Grade Corp Bond Ishares ETF
+SLRC	Slr Investment Corp
+SLS	Sellas Life Sciences Group Inc
+SLSN	Solesence Inc
+SLVO	CS X-Links Silver Share
+SLVR	Sprott Silver Miners & Physical Silver ETF
+SLXN	Silexion Therapeutics Corp
+SLXNW	Biomotion Sciences WT
+SMBC	Southern MO Bancorp
+SMCF	Themes US Small Cap Cash Flow Champions ETF
+SMCI	Super Micro Computer
+SMCL	Graniteshares 2X Long Smci Daily ETF
+SMCO	Hilton Small-Midcap Opportunity ETF
+SMCX	DeFiance Daily Target 2X Long Smci ETF
+SMCZ	DeFiance Daily Target 2X Short Smci ETF
+SMH	Vaneck Semiconductor ETF
+SMHC	Vaneck China Semiconductor ETF
+SMHX	Vaneck Fabless Semiconductor ETF
+SMID	Smith-Midland Corp
+SMMT	Summit Therapeu ADR
+SMOM	Symmetry Panoramic Sector Momentum ETF
+SMPL	The Simply Good Foods Company
+SMRI	Bushido Capital US Equity ETF
+SMSI	Smith Micro Software
+SMST	DeFiance Daily Target 1.5X Short Mstr ETF
+SMTC	Semtech Corp
+SMTI	Sanara Medtech Inc
+SMTK	Smartkem Inc
+SMX	Smx [Security Matters] Plc Cl A
+SMXT	Solarmax Technology Inc
+SMXWW	Smx [Security Matters] Plc WT
+SMYY	Graniteshares Yieldboost Smci ETF
+SNAG	Leverage Shares 2X Long Snap Daily ETF
+SNAL	Snail Inc Cl A
+SND	Smart Sand Inc
+SNDK	Sandisk Corp
+SNDL	Sndl Inc
+SNDX	Syndax Pharma
+SNES	Senestech Inc
+SNEX	Stonex Group Inc
+SNFCA	Security National Financial Corp
+SNGX	Soligenix Inc
+SNOA	Sonoma Pharmaceuticals Inc
+SNPS	Synopsys Inc
+SNSR	GX Internet of Things ETF
+SNT	Senstar Technologies Ltd
+SNTG	Sentage Holdings Inc
+SNTI	Senti Biosciences Inc
+SNWV	Sanuwave Health Inc
+SNY	Sanofi-Aventis S.A. ADR
+SNYRQ	Synergy Chc Corp
+SOBR	Sobr Safe Inc
+SOCA	Solarius Capital Acquisition Cl A
+SOCAU	Solarius Capital Acquisition Corp. Units
+SOCAW	Solarius Capital Acquisition WT
+SOCL	GX Social Media ETF
+SOFA	Direxion Daily Sofi Bull 2X ETF
+SOFI	Sofi Technologies Inc
+SOFX	DeFiance Daily Target 2X Long Sofi ETF
+SOGP	Sound Group Inc ADR
+SOHOB	Sotherly Hotels Inc 8.0% Series B Cumulative Re
+SOHON	Sotherly Hotels Inc Perp Pfd Ser D
+SOHOO	Sotherly Hotels LP
+SOHU	Sohu.com Inc ADR
+SOLC	Canary Marinade Solana ETF
+SOLS	Solstice Advanced Materials Inc
+SOLT	2X Solana ETF
+SOLZ	Solana ETF
+SONM	Sonim Technologies Inc
+SONO	Sonos Inc
+SOPH	Sophia Genetics Sa
+SORA	Asiastrategy
+SORN	Soren Acquisition Corp. Cl A
+SORNU	Soren Acquisition Corp
+SORNW	Soren Acquisition Corp. WT
+SOTK	Sono-Tek Corp
+SOUN	Soundhound AI Inc Cl A
+SOUNW	Soundhound AI Inc WT
+SOUX	DeFiance Daily Target 2X Long Soun ETF
+SOWG	Sow Good Inc
+SOXQ	Invesco PHLX Semiconductor ETF
+SOXX	Semiconductor Ishares ETF
+SPAI	Safe Pro Group Inc
+SPAM	Themes Cybersecurity ETF
+SPAQ	Horizon Kinetics Spac Active ETF
+SPBC	Simplify U.S. Equity Plus Gbtc ETF
+SPCB	Supercom Ltd
+SPCK	The Spac and New Issue ETF
+SPCT	Liberty One Spectrum ETF
+SPCX	Space Exploration Technologies Corp.
+SPEG	Silver Pegasus Acquisition Corp Cl A
+SPEGR	Silver Pegasus Acquisition Corp Rights
+SPFI	South Plains Financial Inc
+SPHL	Springview Holdings Ltd
+SPIT	F/M Emerald Special Situations ETF
+SPKL	Spark I Acquisition Corp Cl A
+SPKLU	Spark I Acquisition Corp
+SPKLW	Spark I Acquisition Corp WT
+SPOG	Leverage Shares 2X Long Spot Daily ETF
+SPOK	Spok Holdings Inc
+SPPL	Simpple Ltd
+SPRB	Spruce Biosciences Inc
+SPRC	Scisparc Ltd
+SPRO	Spero Therapeutics Inc
+SPRX	Spear Alpha ETF
+SPRY	Ars Pharmaceuticals Inc
+SPSC	Sps Commerce Inc
+SPT	Sprout Social Inc Cl A
+SPTX	Seaport Therapeutics Inc
+SPWH	
+SPWR	Complete Solaria Inc
+SPWRW	Complete Solaria Inc WT
+SPXD	Xtrackers S&P 500 Diversified Sector Weight ETF
+SPYQ	Tradr 2X Long Spy Quarterly ETF
+SQFT	Presidio Property Trust Inc
+SQFTP	Presidio Property Trust Inc 9.375%
+SQFTW	Presidio Property Trust Inc
+SQLV	Royce Quant Small-Cap Quality Value ETF
+SQQQ	Ultrapro Short QQQ -3X ETF
+SQS	Sapient Quality Select ETF
+SRAD	Sportradar Group Ag Cl A
+SRBK	Sr Bancorp Inc
+SRCE	1st Source Corp
+SRET	GX Superdividend REIT ETF
+SRPT	Sarepta Therapeutics
+SRRK	Scholar Rock Holding Corp
+SRTA	Strata Critical Medical Inc
+SRTS	Sensus Healthcare Inc
+SRZN	Consonance-Hfw Acq Corp
+SSAC	Spacsphere Acquisition Corp. Cl A
+SSACR	Spacsphere Acquisition Corp. Rights
+SSACU	Spacsphere Acquisition Corp
+SSACW	Spacsphere Acquisition Corp. WT
+SSBI	Summit State Bank
+SSEA	Starry Sea Acquisition Corp
+SSEAR	Starry Sea Acquisition Corp Rights
+SSEAU	Starry Sea Acquisition Corp
+SSII	Ss Innovations International Inc
+SSKN	Strata Skin Scien
+SSM	Sono Group N.V.
+SSNC	SS&C Technologies
+SSP	E.W. Scripps Company
+SSRM	Ssr Mining Inc
+SSS	Cyber Hornet S&P 500 and Solana 75/25 Strategy E
+SSTI	Soundthinking Inc
+SSYS	Stratasys Ltd
+STAA	Staar Surgical Company
+STAI	Scantech AI Systems Inc
+STAK	Stak Inc
+STBA	S&T Bancorp Inc
+STEP	Stepstone Group Inc Cl A
+STEX	Streamex Corp
+STFS	Star Fashion Culture Holdings Limited Cl A
+STGW	Stagwell Inc
+STHO	Star Holdings
+STI	Solidion Technology Inc
+STIM	Neuronetics Inc
+STKE	Sol Strategies Inc
+STKH	Steakholder Foods Ltd
+STKS	The One Group
+STLD	Steel Dynamics Inc
+STLN	The Oncology Institute Inc
+STLNW	The Oncology Institute Inc WT
+STNC	Stance Equity ESG Large Cap Core ETF
+STNE	Stoneco Ltd Cl A
+STOK	Stoke Therapeutics Inc
+STRA	Strategic Education
+STRC	Palladyne Ai Corp
+STRD	Microstrategy Inc Pfd
+STRF	Microstrategy Inc
+STRK	Microstrategy Inc
+STRL	Sterling Infrastructure Inc
+STRO	Sutro Biopharma Inc
+STRR	Star Equity Holdings Inc
+STRRP	Star Equity Holdings Inc Pfd
+STRS	Stratus Pptys Inc
+STRT	Strattec Security
+STRZ	Starz Entertainment Corp
+STTK	Shattuck Labs Inc
+STX	Seagate Technology Hldgs Plc
+SUGP	Su Group Holdings Limited
+SUIG	Sui Group Holdings Ltd
+SUIS	Canary Staked Sui ETF
+SUJA	Suja Life Inc Cl A
+SUMA	Suma Acquisition Corporation Cl A
+SUMAR	Suma Acquisition Corporation Rights
+SUMAU	Suma Acquisition Corporation Units
+SUNE	Sunation Energy Inc
+SUNS	Sunrise Realty Trust
+SUPN	Supernus Pharm
+SUPP	Tcw Transform Supply Chain ETF
+SUPX	Superx AI Technology Limited
+SURG	Surgepays
+SUSB	1-5 Year USD Corp Bond Ishares ESG ETF
+SUSC	USD Corp Bond Ishares ESG ETF
+SUSL	Ishares ESG MSCI USA Leaders ETF
+SVAQ	Silicon Valley Acquisition Corp. Cl A
+SVAQW	Silicon Valley Acquisition Corp. Warrants
+SVC	Service Properties Trust
+SVCC	Stellar V Capital Corp. Cl A
+SVCCU	Stellar V Capital Corp
+SVCCW	Stellar V Capital Corp. WT
+SVCO	Silvaco Group Inc
+SVIA	Procap Financial Inc
+SVIAW	Procap Financial Inc WT
+SVIV	Spring Valley Acquisition Corp. IV Cl A
+SVIVU	Spring Valley Acquisition Corp. IV Units
+SVIVW	Spring Valley Acquisition IV WT
+SVRA	Savara Inc
+SVRE	Saverone 2014 Ltd ADR
+SVREW	Saverone 2014 Ltd WT
+SVRN	Oceanpal Inc
+SWAG	Stran & Company Inc
+SWAGW	Stran & Company Inc WT
+SWBI	Smith & Wesson Brands Inc
+SWIM	Latham Group Inc
+SWKHL	Swk Holdings Corporation 9.00%
+SWKS	Skyworks Solutions
+SWMR	Swarmer Inc
+SWP	Swp Growth & Income ETF
+SWVL	Swvl Holdings Corp Cl A
+SWVLW	Swvl Holdings Corp WT
+SXTC	China Sxt Pharmaceuticals Inc
+SXTP	60 Degrees Pharmaceuticals Inc
+SXTPW	60 Degrees Pharmaceuticals Inc WT
+SY	So-Young International Inc ADR
+SYBT	Stock Yards Bancorp
+SYBX	Synlogic Inc
+SYF-PB	
+SYM	Symbotic Inc
+SYNA	Synaptics Inc
+SYPR	Sypris Solutions
+SYRE	Spyre Therapeutics Inc
+SYZ	Lazard US Systematic Small Cap Equity ETF
+SZZL	Sizzle Acquisition Corp. II Cl A
+SZZLR	Sizzle Acquisition Corp. II Right
+TACH	Titan Acquisition Corp. Cl A
+TACHU	Titan Acquisition Corp. Units
+TACHW	Titan Acquisition Corp. Warrants
+TACO	Berto Acquisition Corp
+TACOU	Berto Acquisition Corp
+TACOW	Berto Acquisition Corp. WT
+TACT	Transact Tech Inc
+TAIT	Taitron Components Inc A
+TANH	Tantech Holdings
+TAOP	Taoping Inc
+TAOX	Tao Synergies Inc
+TAOZ	Thornburg American Opportunities Fund
+TARA	Artara Therapeutics Inc
+TARK	Tradr 2X Long Innovation ETF
+TARS	Tarsus Pharmaceuticals Inc
+TASK	Taskus Inc Cl A
+TATT	T A T Tech Ltd
+TAVI	Tavia Acquisition Corp
+TAVIR	Tavia Acquisition Corp. Right
+TAVIU	Tavia Acquisition Corp
+TAX	Cambria Tax Aware ETF
+TAXE	Intermediate Municipal Income ETF
+TAXI	Medallion Fin Cp
+TAXS	Nt Short-Term Tax-Exempt Bond ETF
+TAXT	Northern Trust Tax-Exempt Bond ETF
+TAYD	Taylor Devices Inc
+TBBK	The Bancorp Inc
+TBCH	Turtle Beach Corp
+TBCVU	Thunder Bridge Capital Partners V Ltd
+TBIL	US Treasury 3 Month Bill ETF
+TBLA	Taboola.com Ltd
+TBLD	Thornburg Income Builder Opportunities Trust
+TBPH	Theravance Bio Ord
+TC	Token Cat Limited ADR
+TCAN	21Shares Canton Network ETF
+TCBI	Texas Capital Bncsh
+TCBIO	Texas Cap Bancshares
+TCBK	Trico Bancshares
+TCBS	Texas Community Bancshares Inc
+TCGX	Tcgx Acquisition Corp. Cl A
+TCHI	Ishares MSCI China Multisector Tech ETF
+TCMD	Tactile Systems Technology Inc
+TCOM	Trip.com Group Ltd ADR
+TCPC	TCP Capital Corp
+TCRT	Alaunos Therapeutics Inc
+TCRX	Tscan Therapeutics Inc
+TCX	Tucows Inc Cl A
+TDAC	Translational Development Acquisition Corp
+TDACW	Translational Development Acquisition WT
+TDCL	GraniteShares 2X Long Tdc Daily ETF
+TDI	Touchstone Dynamic International ETF
+TDIC	Dreamland Limited Cl A
+TDIV	Nasdaq Technology Dividend Index ETF
+TDNA	
+TDOG	21Shares Dogecoin ETF
+TDSB	Cabana Target Drawdown 7 ETF
+TDSC	Cabana Target Drawdown 10 ETF
+TDTH	Trident Digital Tech Holdings Ltd ADR
+TDUP	Thredup Inc Cl A
+TDWD	Tailwind 2.0 Acquisition Corp. Cl A
+TDWDR	Tailwind 2.0 Acquisition Corp. Rights
+TDWDU	Tailwind 2.0 Acquisition Corp
+TEAD	Teads Holding CO
+TEAM	Atlassian Corp
+TECH	Bio-Techne Corp
+TECX	Tectonic Therapeutic Inc
+TECY	GraniteShares YieldBoost Technology ETF
+TEKX	SPDR Galaxy Transformative Tech Accelerators ETF
+TEKY	Lazard Next Gen Technologies ETF
+TELA	Tela Bio Inc
+TELO	Telomir Pharmaceuticals Inc
+TEM	Tempus AI Cl A
+TEN-PF	
+TENB	Tenable Holdings Inc
+TENX	Tenax Therapeutics
+TER	Teradyne Inc
+TERG	Leverage Shares 2X Long Ter Daily ETF
+TEXN	Ishares Texas Equity ETF
+TFGZ	Thornburg Focus Growth Fund
+TFIN-P	
+TFNS	T. Rowe Financials ETF
+TFSL	Tfs Financial Corp
+TGHL	The Growhub Limited Cl A
+TGL	Treasure Global Inc
+TGRZ	
+TGTX	Tg Therapeutics
+TH	Target Hospitality Corp
+THCH	Th International Limited
+THEOR	
+THEOU	Boa Acquisition Corp. II Units
+THFF	First Finl Corp [In]
+THH	Tryhard Holdings Limited
+THMZ	Lazard Equity Megatrends ETF
+THRM	Gentherm Inc
+THRV	Prospera Income ETF
+THRY	Thryv Holdings Inc
+THYM	T.Rowe High Income Municipal ETF
+THYP	21Shares Hyperliquid ETF
+TIGO	Millicom International Cellular S.A.
+TIGR	Up Fintech Holding Ltd ADR
+TIH	The Investment House ETF
+TIL	Instil Bio Inc
+TILC	Thrivent International Large Cap ETF
+TILE	Interface Inc
+TIPT	Tiptree Financial Cl A
+TISC	Thrivent International Small Cap ETF
+TITN	Titan Machinery Inc
+TJGC	Tjgc Group Limited
+TKLF	Tokyo Lifestyle Ltd ADR
+TKNO	Alpha Teknova Inc
+TKNS	21Shares Active Crypto ETF
+TLA	Graniteshares Autocallable Tsla ETF
+TLAC	
+TLACU	
+TLACW	
+TLF	Tandy Leather Fctry
+TLG	Touchstone Large Company Growth ETF
+TLIH	Ten-League International Holdings Limited
+TLN	Talen Energy Corporation
+TLNC	Talon Capital Corp. Cl A
+TLNCU	Talon Capital Corp. Units
+TLNCW	Talon Capital Corp WT
+TLPH	Talphera Inc
+TLRY	Tilray Brands Inc
+TLS	Telos Corp
+TLSA	Tiziana Life Sciences Ltd
+TLSI	Trisalus Life Sciences Inc
+TLSIW	Trisalus Life Sciences Inc WT
+TLT	20+ Year Treas Bond Ishares ETF
+TLX	Telix Pharmaceuticals Limited ADR
+TMB	Thornburg Multi Sector Bond ETF
+TMC	Tmc The Metals Company
+TMCI	Treace Medical Concepts Inc
+TMCR	Metals Royalty CO Inc
+TMCWW	Tmc The Metals Company WT
+TMDX	Transmedics Group Inc
+TMED	T. Rowe Health Care ETF
+TMID	
+TMNL	T.Rowe Long Municipal Income ETF
+TMNS	T.Rowe Short Municipal Income ETF
+TMS	Live Oak Acquisition Corp. V Cl A
+TMSF	T.Rowe Multi-Sector Income ETF
+TMSWW	Live Oak Acquisition Corp. V WT
+TMTS	Spartacus Acquisition Corp Cl A
+TMTSU	Spartacus Acquisition Corp. II
+TMTSW	Spartacus Acquisition Corp WT
+TMUS	T-Mobile US
+TMUSI	T-Mobile US Inc 5.500%
+TMUSL	T-Mobile US Inc 6.250%
+TMUSZ	T-Mobile US Inc 5.500%
+TMYY	GraniteShares YieldBoost TSM ETF
+TNDM	Tandem Diabetes Care
+TNGX	Tango Therapeutics Inc
+TNMG	Tnl Mediagene
+TNON	Tenon Medical Inc
+TNONW	Tenon Medical Inc WT
+TNXP	Tonix Pharm Holdings
+TNYA	Tenaya Therapeutics Inc
+TOMZ	Tomi Environmental Solutions Inc
+TONX	Ton Strategy Company
+TOP	Zhong Yang Financial Group Limited
+TORO	Toro Corp
+TOUR	Tuniu Corporatio ADR
+TOWN	Towne Bank
+TOYO	Toyo Co. Ltd
+TPCS	Techprecision Corp
+TPG	Tpg Inc Cl A
+TPGXL	Tpg Inc 6.950%
+TPLS	Thornburg Core Plus Bond ETF
+TPST	Tempest Therapeutics Inc
+TQQQ	Ultrapro QQQ 3X ETF
+TQQY	Graniteshares Yieldboost QQQ ETF
+TRAW	Traws Pharma Inc
+TRAX	First Tracks Biotherapeutics Inc
+TRBF	Angel Oak Total Return ETF
+TRBG	
+TRDA	Entrada Therapeutics Inc
+TREE	Lendingtree Inc
+TREO	
+TRGS	Trg Latin America Acquisitions Cl A
+TRGSR	Trg Latin America Acquisitions Rights
+TRI	Thomson Reuters Corp
+TRIB	Trinity Bio ADR
+TRIN	Trinity Capital Inc
+TRIP	Tripadvisor Inc
+TRMB	Trimble Navigation
+TRMD	Torm Plc Cl A
+TRMK	Trustmark Corp
+TRNR	Interactive Strength Inc
+TRNS	Transcat Inc
+TRON	Tron Inc
+TROO	Troops Inc
+TROW	T Rowe Price Group
+TRS	Trimas Corp
+TRSG	Tungray Technologies Inc Cl A
+TRST	Trustco Bank Corp NY
+TRUD	Vaneck Consumer Discretionary Trusector ETF
+TRUF	Vaneck Financials Trusector ETF
+TRUG	Trugolf Holdings Inc
+TRUH	Vaneck Healthcare Trusector ETF
+TRUI	Vaneck Industrials Trusector ETF
+TRUM	Vaneck Materials Trusector ETF
+TRUN	Vaneck Energy Trusector ETF
+TRUO	Vaneck Consumer Staples Trusector ETF
+TRUP	Trupanion Inc
+TRUR	Vaneck Real Estate Trusector ETF
+TRUT	Vaneck Technology Trusector ETF
+TRVG	Trivago NV ADR
+TRVI	Trevi Therapeutics Inc
+TSAT	Telesat Corp Cl A
+TSBK	Timberland Bancorp
+TSCM	Thestreet.Com Inc.
+TSCO	Tractor Supply Company
+TSDD	Graniteshares -2X Short Tsla Daily ETF
+TSEL	Touchstone Sands Capital US Select Growth ETF
+TSEM	Tower Semiconductor
+TSHA	Taysha Gene Therapies Inc
+TSL	Graniteshares 1.25X Long Tsla Daily ETF
+TSLA	Tesla Inc
+TSLG	Leverage Shares 2X Long Tsla Daily ETF
+TSLL	Tsla Bull 2X ETF Direxion
+TSLQ	Tradr 2X Short Tsla Daily ETF
+TSLR	Graniteshares 2X Long Tsla Daily ETF
+TSLS	Tsla Bear -1X ETF Direxion
+TSMG	Leverage Shares 2X Long Tsm Daily ETF
+TSMU	Graniteshares 2X Long Tsm Daily ETF
+TSMX	Tsm Bull 2X ETF Direxion
+TSMZ	Tsm Bear -1X ETF Direxion
+TSPY	Tappalpha Spy Growth & Daily Income ETF
+TSSI	Tss Inc
+TSUI	21Shares Sui ETF
+TSYX	Tspy Lift ETF
+TSYY	Graniteshares Yieldboost Tsla ETF
+TTAN	Servicetitan Inc Cl A
+TTD	Trade Desk Inc
+TTEC	Teletech Hlds
+TTEK	Tetra Tech Inc
+TTEQ	T. Rowe Technology ETF
+TTGT	Techtarget Inc.
+TTMI	TTM Technologies
+TTRX	Turn Therapeutics Inc
+TTSH	Tile Shop Hldgs Inc
+TTWO	Take-Two Interactive
+TUG	Stf Tactical Growth ETF
+TULP	Bloomia Holdings Inc
+TUR	Turkey Ishares MSCI ETF
+TURB	Turbo Energy S.A. ADR
+TURF	T. Rowe Natural Resource ETF
+TUSK	Mammoth Energy Services Inc
+TVA	Texas Ventures Acquisition III
+TVACU	Texas Ventures Acquisition III Corp
+TVACW	Texas Ventures Acquisition III WT
+TVAI	Thayer Ventures Acquisition Corporation II Cl A
+TVAIR	Thayer Ventures Acquisition Corporation II Right
+TVAIU	Thayer Ventures Acquisition Corporation II
+TVGN	Tevogen Bio Holdings Inc
+TVGNW	Tevogen Bio Holdings Inc WT
+TVIV	Texas Ventures Acquisition IV Corp Cl A
+TVIVU	Texas Ventures Acquisition IV Corp Units
+TVIVW	Texas Ventures Acquisition IV Corp WT
+TVRD	Tvardi Therapeutics Inc
+TVTX	Travere Therapeutics Inc
+TW	Tradeweb Markets Inc
+TWAV	THERMA-WAVE INC
+TWFG	Twfg Inc
+TWG	Top Wealth Group Holding Limited
+TWIN	Twin Disc Inc
+TWLV	Twelve Seas Investment Company II Cl A
+TWLVR	Twelve Seas Investment Company Rights
+TWST	Twist Bioscience Corp
+TXCA	
+TXG	10X Genomics Inc
+TXMD	Therapeuticsmd Inc
+TXN	Texas Instruments
+TXNY	
+TXRH	Texas Roadhouse Inc
+TXUE	Thornburg International Equity ETF
+TXUG	Thornburg International Growth Fund ETF
+TXXD	21Shares 2X Long Dogecoin ETF
+TXXH	21Shares 2X Long Hype ETF
+TXXS	21Shares 2X Long Sui ETF
+TYGO	Tigo Energy Inc
+TYRA	Tyra Biosciences Inc
+TZOO	Travelzoo Inc
+UAE	UAE Ishares MSCI ETF
+UAL	United Airlines Holdings Inc
+UBCP	United Bncp Inc
+UBND	Victory ESG Core Plus Bond ETF
+UBRL	Graniteshares 2X Long Uber Daily ETF
+UBSI	United Bkshs Inc
+UCAR	U Power Limited
+UCB-PI	
+UCL	Ucloudlink Group Inc ADR
+UCRD	Victory ESG Corporate Bond ETF
+UCTT	Ultra Clean Holdings
+UCYB	Ultra Nasdaq Cybersecurity 2X ETF
+UECG	Leverage Shares 2X Long Uec Daily ETF
+UEIC	Universal Elect IN
+UEVM	USAA MSCI EM Value Momentum Blend Index ETF
+UFCS	United Fire Group
+UFG	Uni-Fuels Holdings Limited Cl A
+UFIV	US Treasury 5 Year Note ETF
+UFO	Procure Space ETF
+UFOX	DeFiance Next Gen Connectivity ETF
+UFPI	Universal Forest Prd
+UFPT	U F P Tech Inc
+UG	United Guardian Inc
+UHAL-B	
+UHGI	
+UITB	USAA Core Intermediate-Term Bond ETF
+UIVM	USAA MSCI Intl Value Momentum Blend Index ETF
+UK	Ucommune Intl Ltd
+ULBI	Ultralife Corp
+ULCC	Frontier Group Holdings Inc
+ULH	Universal Logis Holdings
+ULTA	Ulta Beauty Inc
+ULTI	Ultimate Software
+ULVM	Usaa MSCI USA Value Momentum Blend Index ETF
+UMBF	UMB Financial Corp
+UMBFO	UMB Financial Corp
+UMMA	Wahed Dow Jones Islamic World ETF
+UNB	Union Bankshares Inc
+UNCY	Unicycive Therapeutics Inc
+UNHG	Leverage Shares 2X Long Unh Daily ETF
+UNIT	Uniti Group Inc
+UNIY	Wisdomtree VOYA Yield Enhanced USD Fund
+UNTY	Unity Bancorp Inc
+UOKAF	Mdjm Ltd
+UONE	Urban One Inc
+UONEK	Urban One Inc
+UPB	Upstream Bio Inc
+UPBD	Upbound Group Inc
+UPC	Universe Pharmaceuticals Inc
+UPGR	Xt US Green Infrastructure Equity ETF
+UPLD	Upland Software Inc
+UPST	Upstart Holdings Inc
+UPWK	Upwork Inc
+UPXI	Upexi Inc
+URBN	Urban Outfitters Inc
+URGN	Urogen Pharma Ltd
+URNJ	Sprott Junior Uranium Miners ETF
+UROY	Uranium Royalty Corp
+USAF	Atlas America Fund
+USAR	USA Rare Earth Inc
+USAU	U.S. Gold Corp
+USCB	Uscb Financial Hldgs Inc
+USCL	Ishares Climate Conscious & Transition MSCI USA
+USDE	Stablecoinx Inc Cl A
+USDEW	Stablecoinx Inc Warrants
+USDX	Sgi Enhanced Core ETF
+USEA	United Maritime Corp
+USFI	Brandywineglobal U.S. Fixed Income ETF
+USGG	Leverage Shares 2X Long Usar Daily ETF
+USGO	U.S. Goldmining Inc
+USIG	Broad USD Investment Gr. Corp Bond Ishares ETF
+USIN	Wisdomtree 7-10 Year Laddered Treasury Fund
+USIO	Usio Inc
+USLM	U S Lime & Mineral
+USMC	Principal U.S. Mega-Cap ETF
+USOI	CS X-Links Crude Oil Covered Call ETN
+USOY	DeFiance Oil Enhanced Options Income ETF
+USSH	Wisdomtree 1-3 Year Laddered Treasury Fund
+USTB	USAA Core Short-Term Bond ETF
+USVM	USAA MSCI USA Small Cap Value Mom Blend ETF
+USVN	US Treasury 7 Year Note ETF
+USXF	Ishares ESG Advanced MSCI USA ETF
+UTEN	US Treasury 10 Year Note ETF
+UTHR	United Therapeutic
+UTHY	US Treasury 30 Year Bond ETF
+UTMD	Utah Medical Prod
+UTRE	US Treasury 3 Year Note ETF
+UTSI	Utstarcom Holdings C
+UTWO	US Treasury 2 Year Note ETF
+UTWY	US Treasury 20 Year Bond ETF
+UUUG	Leverage Shares 2X Long UUUU Daily ETF
+UVSP	Univest Corp of Penn
+UXIN	Uxin Ltd ADR
+UYLD	Angel Oak Ultra-Short Income ETF
+UYSC	Uy Scuti Acquisition Corp
+UYSCR	Uy Scuti Acquisition Corp. Rights
+UYSCU	Uy Scuti Acquisition Corp. Units
+UZX	Linkage Global Inc
+VABK	Virginia Natl Bnk
+VAI	Senmiao Technology Ltd
+VALG	Leverage Shares 2X Long Vale Daily ETF
+VALN	Valneva Se ADR
+VALU	Value Line Inc
+VANI	Vivani Medical Inc
+VAVX	Vaneck Avalanche ETF
+VBCA	Vanguard Target Maturity 2027 Corporate Bond ETF
+VBCB	Vanguard Target Maturity 2028 Corporate Bond ETF
+VBCC	Vanguard Target Maturity 2029 Corporate Bond ETF
+VBCD	Vanguard Target Maturity 2030 Corporate Bond ETF
+VBCE	Vanguard Target Maturity 2031 Corporate Bond ETF
+VBCF	Vanguard Target Maturity 2032 Corporate Bond ETF
+VBCG	Vanguard Target Maturity 2033 Corporate Bond ETF
+VBCH	Vanguard Target Maturity 2034 Corporate Bond ETF
+VBCI	Vanguard Target Maturity 2035 Corporate Bond ETF
+VBCJ	Vanguard Target Maturity 2036 Corporate Bond ETF
+VBIL	Vanguard 0-3 Month Treasury Bill ETF
+VBIO	Tivic Health Systems Inc
+VBNB	Vaneck Bnb ETF
+VBNK	Versabank
+VC	Visteon Corp
+VCEL	Vericel Corporation
+VCIG	Vci Global Limited Ordinary Share
+VCIT	Interm Corp Bond Vanguard
+VCLT	Long-Term Corp Bond Vanguard
+VCRB	Vanguard Core Bond ETF
+VCRE	Vicore Pharma Holding Ab ADR
+VCSH	Short-Term Corp Bond Vanguard
+VCTR	Victory Capital Holdings Inc Cl A
+VCYT	Veracyte Inc
+VECO	Veeco Instrument
+VEEA	Veea Inc
+VEEAW	Veea Inc WT
+VEEE	Twin Vee Powercats Co.
+VEEM	
+VEFA	Vaneck MSCI EAFE Analyst Sentiment ETF
+VELO	Velocity Acquisition Corp Cl A
+VEON	Veon Ltd ADR
+VERA	Vera Therapeutics Inc Cl A
+VERI	Veritone Inc
+VERU	Veru Inc
+VERX	Vertex Inc Cl A
+VFF	Village Farms Intl
+VFLO	Victoryshares Free Cash Flow ETF
+VFS	Vinfast Auto Ltd
+VFSWW	Vinfast Auto Ltd WT
+VGAS	Verde Clean Fuels Inc
+VGASW	Verde Clean Fuels Inc WT
+VGIT	Interm Govt Bond Vanguard
+VGLT	Long-Term Govt Bond Vanguard
+VGSH	Short-Term Govt Bond Vanguard
+VGSR	Vert Global Sustainable Real Estate ETF
+VGUS	Vanguard Ultra-Short Treasury ETF
+VHC	Virnetx Holding Corp
+VHCP	Vine Hill Capital Investment II Cl A
+VHCPU	Vine Hill Capital Investment Corp. II Units
+VHCPW	Vine Hill Capital Investment II WT
+VIAV	Viavi Solutions
+VICR	Vicor Corp
+VIGI	Intl Div Appreciation ETF Vanguard
+VINP	Vinci Compass Investments Ltd
+VIOT	Viomi Technology Ltd ADR
+VIP	Vimpelcom Ltd Ads
+VIR	Vir Biotechnology Inc
+VIRC	Virco MFG Corp
+VISN	Visionchina Media I
+VITL	Vital Farms Inc
+VIVK	Vivakor Inc
+VIVO	Meridian Bioscience
+VIVS	Vivosim Lab Inc
+VKTX	Viking Thera
+VLGEA	Village Super Mkt
+VLOS	M3-Brigade Acquisition V Corp. Cl A
+VLOSU	M3-Brigade Acquisition V Corp. Units
+VLOSW	M3-Brigade Acquisition V Corp. WT
+VLY	Valley National Bancorp
+VLYPN	Valley National Bancorp
+VLYPO	Valley National Bancorp Pfd Series B
+VLYPP	Valley National Bancorp Pfd Series A
+VMAR	Vision Marine Technologies Inc
+VMBS	Mortgage Backed Securities Vanguard
+VMD	Viemed Healthcare Inc
+VMET	Versamet Royalties Corp
+VMHY	
+VMRK	
+VMSD	
+VNDA	Vanda Pharmaceuticals
+VNET	Vnet Group Inc
+VNME	Vendome Acquisition Corporation I Cl A
+VNMEU	Vendome Acquisition Corporation I
+VNMEW	Vendome Acquisition Corporation I WT
+VNOM	Viper Energy Inc
+VNQI	Global Ex-US Real Estate Vanguard
+VOD	Vodafone Grp Plc ADR
+VOGX	Vogenx Inc
+VOLT	Tema Electrification ETF
+VONE	Russell 1000 Vanguard
+VONG	Russell 1000 Growth Vanguard
+VONV	Russell 1000 Value Vanguard
+VOOB	
+VOR	Vor Biopharma Inc
+VOTE	Tcw Transform 500 ETF
+VOXR	Vox Royalty Corp
+VPLS	Vanguard Core Plus Bond ETF
+VRA	Vera Bradley
+VRAX	Virax Biolabs Group Limited
+VRCA	Verrica Pharmaceuticals Inc
+VRDN	Viridian Therapeutics Inc
+VREX	Varex Imaging Corp
+VRIG	Variable Rate Investment Grade Invesco ETF
+VRM	Vroom Inc
+VRME	Verifyme Inc
+VRNS	Varonis Systems Inc
+VRRM	Verra Mobility Corp
+VRSK	Verisk Analytics Inc
+VRSN	Verisign Inc
+VRTL	Graniteshares 2X Long Vrt Daily ETF
+VRTX	Vertex Pharmaceutic
+VRXA	Veraxa Biotech Ag
+VRXAW	Veraxa Biotech Ag WT
+VS	Versus Systems Inc
+VSA	Tctm Kids IT Education Inc ADR
+VSAT	Viasat Inc
+VSDA	Victory Dividend Accelerator ETF
+VSEC	V S E Corp
+VSECU	VSE Corporation Tangible Equity Units
+VSEE	Vsee Health Inc
+VSEEW	Vsee Health Inc WT
+VSME	vs Media Holdings Limited Cl A
+VSMV	Victory Portfolios II US Multi-Factor ETF
+VSNT	Versant Corp.
+VSOL	Vaneck Solana ETF
+VSTD	Vestand Inc
+VSTL	DeFiance Daily Target 2X Long Vst ETF
+VSTM	Verastem Inc
+VTC	Total Corporate Bond Vanguard ETF
+VTGN	Vistagen Therapeutics Inc
+VTHR	Russell 3000 Vanguard
+VTIP	Short-Term Infl Protected Vanguard
+VTIX	Virtuix Holdings Inc
+VTRS	Viatris Inc
+VTSI	Virtra Systems Inc
+VTVT	Vtv Theraptcs Cl A
+VTWG	Russell 2000 Growth Vanguard
+VTWO	Russell 2000 Vanguard
+VTWV	Russell 2000 Value Vanguard
+VUZI	Vuzix Corp
+VVOS	Vivos Therapeutics Inc
+VWAV	Visionwave Holdings Inc
+VWAVW	Visionwave Holdings Inc WT
+VWOB	EM Govt Bond Vanguard
+VXUS	Total Intl Stock ETF Vanguard
+VYGR	Voyager Therapeut
+VYMI	Intl High Divd Yield ETF Vanguard
+WABC	Westamerica Bancorp
+WABF	Western Asset Bond ETF
+WAFD	Wafd Inc
+WAFDP	Washington Federal Inc
+WAFU	Wah Fu Education Group Ltd
+WALD	Waldencast Plc
+WALDW	Waldencast Acquisition Corp WT
+WASH	Washington TR Bncorp
+WATR	
+WATT	Energous Corp
+WAVE	Eco Wave Power Global Ab ADR
+WAY	Waystar Holding Corp
+WB	Weibo Corp ADR
+WBD	Discovery Inc Series A
+WBTN	Webtoon Entertainment Inc
+WBUY	Webuy Global Ltd
+WCBR	Wisdomtree Cybersecurity Fund
+WCLD	Wisdomtree Cloud Computing Fund
+WCT	Wellchange Holdings Company Limited
+WDAF	Wisdomtree Asia Defense Fund
+WDAY	Workday Inc
+WDC	Western Digital Corp
+WDFC	W D 40 Company
+WDGF	Wisdomtree Global Defense Fund
+WEEI	Westwood Salient Enhanced Energy Income ETF
+WEN	Wendys Company
+WENN	Wen Acquisition Corp Cl A
+WENNU	Wen Acquisition Corp
+WENNW	Wen Acquisition Corp WT
+WERN	Werner Enterprise
+WEST	Westrock Coffee Company
+WETH	Wetouch Technology Inc
+WETO	Webus International Limited
+WEYS	Weyco Gp Inc
+WFCF	Where Food Comes From Inc
+WFCPX	
+WFF	Wf Holding Limited
+WFRD	Weatherford International Plc
+WGMI	Valkyrie Bitcoin Miners ETF
+WGS	Genedx Holdings Corp
+WHF	Whitehorse Finance
+WHFCL	Whitehorse Finance Inc 7.875%
+WHLR	Wheeler Real Estate
+WHLRD	Wheeler Real Estate Investment Trust Inc
+WHLRL	Wheeler Real Estate Investment Trust
+WHLRP	Wheeler REIT B Pfd
+WHWK	Whitehawk Therapeutics Inc
+WIMA	Wisdomtree International Adaptive Moving Average
+WIMI	Wimi Hologram Cloud Inc
+WINA	Winmark Corp
+WING	Wingstop Inc
+WISE	Themes Generative Artificial Intelligence ETF
+WIX	Wix.com Ltd
+WKEY	Wisekey International Holding Ltd ADR
+WKHS	Workhorse Grp
+WKSP	Worksport Ltd
+WLCO	Wilco 63 Corporation Cl A
+WLCOU	Wilco 63 Corporation Units
+WLCOW	Wilco 63 Corporation WT
+WLDN	Willdan Group Inc
+WLDS	Wearable Devices Ltd
+WLDSW	Wearable Devices Ltd WT
+WLFC	Willis Lease Fin C
+WLII	Willow Lane Acquisition Corp II Cl A
+WLIIW	Willow Lane Acquisition Corp II WT
+WMG	Warner Music Group Corp Cl A
+WMT	Walmart Inc
+WNEB	Western New England Bancorp Inc
+WNW	Meiwu Technology Ltd
+WOK	Work Medical Technology Group Ltd
+WOOD	Global Timber & Forestry Ishares ETF
+WOOF	Petco Health and Wellness Company Cl A
+WORX	Scworx Corp
+WPRT	Westport Fuel Systems Inc
+WRAP	Wrap Technologies Inc
+WRD	Weride Inc ADR
+WRLD	World Acceptance Corp
+WRND	Nyli Global Equity R&D Leaders ETF
+WRTH	Worth Charting Options Income ETF
+WSBC	Wesbanco Inc
+WSBCO	Wesbanco Inc ADR
+WSBF	Waterstone Financial
+WSBK	Winchester Bancorp Inc
+WSC	Willscot Holdings Corp
+WSE	Wise Group Plc Cl A
+WSFS	WSFS Financial Corp
+WSGE	Warren Street Global Equity ETF
+WSML	Ishares MSCI World Small-Cap ETF
+WSPC	Wisdomtree Space Economy Fund
+WSTNR	Westin Acquisition Corp Right
+WTBA	West Bancorp
+WTBN	Wisdomtree Bianco Total Return Fund
+WTF	Waton Financial Limited
+WTFC	Wintrust Financial Corp
+WTFCN	Wintrust Financial Corp
+WTG	Wintergreen Acquisition Corp
+WTGUR	Wintergreen Acquisition Corp. Rights
+WTGUU	Wintergreen Acquisition Corp
+WTIP	Wisdomtree Inflation Plus Fund
+WTMU	Wisdomtree Core Laddered Municipal Fund
+WTMY	Wisdomtree High Income Laddered Municipal Fund
+WTW	Willis Towers Watson Public Ltd
+WULF	Terawulf Inc
+WVE	Wave Life Sci Ord Sh
+WVVI	Willamette Valley
+WVVIP	Willamette Valley Vineyards IN
+WW	Ww International Inc
+WWD	Woodward Inc
+WXM	Wf International Limited
+WYFI	Whitefiber Inc
+WYHG	Wing Yip Food Holdings Group ADR
+WYNN	Wynn Resorts Ltd
+XAGE	Longevity Health Hldgs
+XAIR	Beyond Air Inc
+XAIX	Xtrackers Artificial Intelligence and Big Data E
+XBCI	Neos Boosted Bitcoin High Income ETF
+XBIL	US Treasury 6 Month Bill ETF
+XBIO	Xenetic Biosciences Inc
+XBIT	Xbiotech Inc
+XBP	Xbp Global Holdings Inc
+XBPEW	Xbp Europe Holdings Inc WT
+XBTY	Graniteshares Yieldboost Bitcoin ETF
+XCBE	X3 Acquisition Corp. Ltd Cl A
+XCBEU	X3 Acquisition Corp Ltd
+XCBEW	X3 Acquisition Corp. Ltd WT
+XCH	Xchg Limited Ads
+XCNY	SPDR S&P Emerging Markets Ex-China ETF
+XCSH	
+XCUR	Exicure Inc
+XDEF	Xtrackers Europe Defense Technologies ETF
+XE	X-Energy Inc Cl A
+XEL	XCEL Energy Inc
+XELB	XCEL Brands
+XELLL	XCEL Energy Inc 6.25%
+XENE	Xenon Pharmaceuticals Inc
+XERS	Xeris Pharmaceuticals Inc
+XEY	GraniteShares YieldBoost Ether ETF
+XFOR	X4 Pharmaceuticals Inc
+XGN	Exagen Inc
+XHG	Xchange Tec Inc ADR
+XHLD	Ten Holdings Inc
+XIII	
+XIIIU	Churchill Capital Corp XiII Units
+XIIIW	
+XLAB	
+XLABW	
+XLO	Xilio Therapeutics Inc
+XMAG	DeFiance Large Cap Ex-Mag 7 ETF
+XMAX	Xmax Inc
+XMTR	Xometry Inc Cl A
+XNCR	Xencor Inc
+XNDU	Xanadu Quantum Technologies Ltd
+XNET	Xunlei Ltd ADR
+XOMX	Direxion Daily Xom Bull 2X Shares
+XOS	Xos Inc
+XOVR	Ershares Private-Public Crossover ETF
+XP	XP Inc Cl A
+XPEG	Leverage Shares 2X Long Xpev Daily ETF
+XPEL	Xpel Technologies
+XPON	Expion360 Inc
+XQQI	Neos Boosted Nasdaq-100 High Income ETF
+XRAY	Dentsply Sirona Inc
+XRPC	Canary XRP ETF
+XRPI	Volatility Shares XRP ETF
+XRPN	Armada Acquisition Corp. II Cl A
+XRPNU	Armada Acquisition Corp. II Units
+XRPNW	Armada Acquisition Corp. II WT
+XRPT	Volatility Shares XRP 2X ETF
+XRTX	Xortx Therapeutics Inc
+XRX	Xerox Corp
+XRXDW	Xerox Holdings Corp WT
+XSLL	Xsolla Spac 1 Cl A
+XSLLU	Xsolla Spac 1 Units
+XSLLW	Xsolla Spac 1 Warrants
+XSPC	Vegashares SpaceX & Beyond Earth ETF
+XSPI	Neos Boosted S&P 500 High Income ETF
+XT	Exponential Technologies Ishares ETF
+XTER	
+XTERU	
+XTERW	
+XTIA	Xti Aerospace Inc
+XTLB	Xtl Biopharma ADR
+XUSM	
+XWEL	Xwell Inc
+XXII	22nd Century Group Inc
+XXX	Cyber Hornet S&P 500 and XRP 75/25 Strategy ETF
+XYZG	Leverage Shares 2X Long Xyz Daily ETF
+YAAS	Youxin Technology Ltd Cl A
+YARW	Vyne Therapeutics Inc
+YB	Yuanbao Inc ADR
+YBST	Yieldboost Single Stock Universe ETF
+YBTY	Yieldboost Topyielders ETF
+YDDL	One and One Green Technologies. Inc Cl A
+YDES	Yd Bio Limited
+YDESW	Yd Bio Limited Warrants
+YDKG	Yueda Digital Holding
+YFOR	YY Group Holding Limited Cl A
+YHC	Lqr House Inc
+YHGJ	Yunhong Green Cti Ltd
+YHNA	Yhn Acquisition I Limited
+YHNAR	Yhn Acquisition I Limited Right
+YHNAU	Yhn Acquisition I Limited
+YI	111 Inc ADR
+YIBO	Planet Image International Limited Cl A
+YICC	Yorkville Intl Capital Corp. Cl A
+YICCW	Yorkville International Capital Corp. Warrants
+YJ	Yunji Inc ADR
+YLDE	Clearbridge Dividend Strategy ESG ETF
+YMAT	J-Star Holding Co. Ltd
+YMT	Yimutian Inc ADR
+YNOT	Horizon Digital Frontier ETF
+YOKE	Yoke Core ETF
+YORW	York Water Company
+YOUL	Youlife Group Inc ADR
+YQ	17 Education & Technology Group Inc ADR
+YQQQ	Yieldmax Short N100 Option Income Strategy ETF
+YRAM	
+YSAG	Yall Street Physical Silver ETF
+YSAU	
+YSPY	Graniteshares Yieldboost Spy ETF
+YSWY	Yesway Inc
+YSXT	Ysx Tech. Co. Ltd Cl A
+YTRA	Yatra Online Inc
+YXT	Yxt.com Group ADR
+YYAI	Airwa Inc
+Z	Zillow Group Cl C
+ZAP	Global X U.S. Electrification ETF
+ZBAO	Zhibao Technology Inc Cl A
+ZBIO	Zenas Biopharma Inc
+ZBRA	Zebra Technologies
+ZCMD	Zhongchao Inc Cl A
+ZD	Ziff Davis Inc
+ZDAI	Directbooking Technology CO Ltd
+ZENA	Zenatech Inc
+ZENVF	Zenvia Inc Cl A
+ZEO	Zeo Energy Corp
+ZEOWW	Zeo Energy Corp WT
+ZG	Zillow Grp Inc Cl A
+ZHOG	F/M Opportunistic Income ETF
+ZION	Zions Bancorp
+ZIONP	Zions Bancorp N.A.
+ZJK	Zjk Industrial Co. Ltd
+ZJYL	Jin Medical International Ltd
+ZKIN	Zk International Group Ltd
+ZKP	Lafayette Digital Acquisition Corp. I Cl A
+ZKPU	Lafayette Digital Acquisition Corp. I
+ZKPW	Lafayette Digital Acquisition Corp I WT
+ZLAB	Zai Lab Ltd ADR
+ZM	Zoom Communications Inc
+ZMUN	F/M Callable Tax-Free Municipal ETF
+ZNB	Zeta Network Group
+ZNTL	Zentalis Pharmaceuticals Inc
+ZOOZ	Zooz Power Ltd
+ZOOZW	Zooz Power Ltd WT
+ZS	Zscaler Inc
+ZSPC	Zspace Inc
+ZSQR	Coeptis Therapeutics Hldgs Inc
+ZSTK	Flora Growth Corp
+ZTEKF	Zentek Ltd
+ZTEN	F/M 10-Year Investment Grade Corporate Bond ETF
+ZTG	Zenta Group Company Limited
+ZTOP	F/M High Yield 100 ETF
+ZTRE	F/M 3-Year Investment Grade Corporate Bond ETF
+ZTWO	F/M 2-Year Investment Grade Corporate Bond ETF
+ZUMZ	Zumiez Inc
+ZURA	Zura Bio Ltd
+ZVRA	Zevra Therapeutics Inc
+ZYBT	Zhengye Biotechnology Holding Limited
+ZYME	Zymeworks Inc

@@ -39,11 +39,16 @@ def ibkr_duration_string(
     max_bars_per_call: int,
 ) -> str:
     """
-    Calculate duration string based on gap width, respecting IBKR's max bars limit
-    and never exceeding MAX_CHUNK_YEARS per request.
+    For 1-day bars, always request MAX_CHUNK_YEARS (10 Y) chunks.
+    For other timeframes, calculate based on max bars per call limit.
     """
     gap_days = (to_dt - from_dt).days + 1
-    # For intra-day gaps, gap_days may be 0, so ensure it's at least 1
+
+    # For 1-day bars, always use 10-year chunks
+    if abs(minutes_per_bar - 1440.0) < 0.01:  # 1 day = 1440 minutes
+        return f"{MAX_CHUNK_YEARS} Y"
+
+    # For other timeframes, calculate based on max bars per call
     max_chunk_days = max(1, math.ceil((minutes_per_bar * max_bars_per_call) / 1440))
     chunk_days = min(max_chunk_days, gap_days, MAX_CHUNK_YEARS * 365)
 
