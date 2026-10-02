@@ -32,9 +32,27 @@
   },
   "data_storage_types": [
     {
-      "from_date": "2020-01-03T08:00:00+00:00",
-      "to_date": "2026-09-30T23:59:59+00:00",
+      "from_date": "2015-01-03T08:00:00+00:00",
+      "to_date": "2026-10-02T23:59:59+00:00",
       "timeframe": "5 mins",
+      "useRTH": false,
+      "whatToShow": "TRADES",
+      "exchange": "SMART",
+      "currency": "USD"
+    },
+    {
+      "from_date": "2000-01-03T08:00:00+00:00",
+      "to_date": "2026-10-02T23:59:59+00:00",
+      "timeframe": "1 hour",
+      "useRTH": false,
+      "whatToShow": "TRADES",
+      "exchange": "SMART",
+      "currency": "USD"
+    },
+    {
+      "from_date": "1980-01-03T08:00:00+00:00",
+      "to_date": "2026-10-02T23:59:59+00:00",
+      "timeframe": "1 day",
       "useRTH": false,
       "whatToShow": "TRADES",
       "exchange": "SMART",
