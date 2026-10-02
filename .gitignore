@@ -1,0 +1,7 @@
+.idea/
+venv/
+__pycache__/
+*.pyc
+logs/
+csv_exports/
+.pytest_cache/
